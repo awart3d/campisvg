@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="930"
+     inkscape:cx="578"
      inkscape:cy="728"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
@@ -4449,16 +4449,6 @@
          d="m 1844.2987,516.78571 h 49.5968"
          id="path13170" />
     </g>
-    <path
-       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.832;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
-       d="M 1505.4247,1356.6134 H 631.60694"
-       id="path3275"
-       sodipodi:nodetypes="cc" />
-    <path
-       id="rect7077"
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.832;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-       d="m 1057.1404,1353.2724 11.3754,-11.3754 11.3754,11.3754"
-       sodipodi:nodetypes="ccc" />
   </a>
   <a
      id="a10908-2"
@@ -5693,15 +5683,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan33866"><tspan
+         id="tspan2405"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan33864">PB
+           id="tspan2403">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan33870"><tspan
+         id="tspan2409"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan33868">079</tspan></tspan></text>
+           id="tspan2407">079</tspan></tspan></text>
   </g>
   <g
      id="g118751"
@@ -5723,15 +5713,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan33874"><tspan
+         id="tspan2413"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan33872">PB
+           id="tspan2411">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan33878"><tspan
+         id="tspan2417"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan33876">079</tspan></tspan></text>
+           id="tspan2415">079</tspan></tspan></text>
   </g>
   <g
      id="g119748"
@@ -5837,4 +5827,9 @@
          style="fill:#ffcc00;fill-opacity:1" />
     </g>
   </a>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="M 1169.6225,1285.5311 H 119.36076"
+     id="path3275"
+     sodipodi:nodetypes="cc" />
 </svg>

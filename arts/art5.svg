@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="716"
-     inkscape:cy="1133"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="940.45202"
+     inkscape:cy="701.44993"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -2230,10 +2230,22 @@
      transform="translate(-366,-92.999996)"
      xlink:href="#g182"
      id="use595" />
-  <use
-     transform="matrix(1.1,0,0,1.1,-56.2528,-594.71191)"
-     xlink:href="#use72475"
-     id="use597" />
+  <g
+     id="g3642"
+     transform="translate(-22.984639,22.079457)">
+    <path
+       id="rect1248"
+       style="fill:#ff9d5b;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       d="m 988.56161,585.80551 c 0,-5.886 14.51919,-6.35974 14.51919,0 l 3.3814,81.86804 c 0,6.72644 -21.28197,6.45294 -21.28197,0 z"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.781377;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+       id="path2291"
+       cx="995.82123"
+       cy="585.60376"
+       rx="5.0662193"
+       ry="3.1310959" />
+  </g>
   <g
      fill="#999999"
      id="g623"
@@ -3406,6 +3418,10 @@
        id="path1039"
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;marker-end:url(#marker5914-7)" />
   </a>
+  <use
+     transform="matrix(1.1,0,0,1.1,-85.022279,-566.35461)"
+     xlink:href="#use72475"
+     id="use597" />
   <a
      class="svgobj"
      transform="translate(676.85205,-784.25895)"
@@ -4226,7 +4242,7 @@
        style="font-size:21.3333px;white-space:pre;inline-size:22.6113;display:inline;fill:#ffffff;stroke-width:1.68486"><tspan
          x="755.7392"
          y="562.89081"
-         id="tspan8137">8</tspan></text>
+         id="tspan9429">8</tspan></text>
   </g>
   <g
      id="g41358"
@@ -4277,7 +4293,7 @@
        style="font-size:21.3333px;white-space:pre;inline-size:21.3195;display:inline;fill:#ffffff;stroke-width:1.68486"><tspan
          x="755.7392"
          y="562.89081"
-         id="tspan8139">9</tspan></text>
+         id="tspan9431">9</tspan></text>
   </g>
   <text
      x="335.34412"
@@ -4512,9 +4528,4 @@
      d="m 1109.6226,1317.5312 -990.26177,0"
      id="path3275"
      sodipodi:nodetypes="cc" />
-  <path
-     id="rect7077"
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-     d="m 612.59253,1313.5155 13.67239,-13.6723 13.67235,13.6723"
-     sodipodi:nodetypes="ccc" />
 </svg>

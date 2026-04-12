@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.70286542"
-     inkscape:cx="936.16784"
+     inkscape:cx="685.76428"
      inkscape:cy="993.07774"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
@@ -7712,15 +7712,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan37747"><tspan
+         id="tspan3244"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan37745">PB
+           id="tspan3242">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan37751"><tspan
+         id="tspan3248"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan37749">079</tspan></tspan></text>
+           id="tspan3246">079</tspan></tspan></text>
   </g>
   <g
      id="g39523"
@@ -8281,9 +8281,4 @@
      d="M 1143.6225,1319.5311 H 119.36074"
      id="path3275"
      sodipodi:nodetypes="cc" />
-  <path
-     id="rect7077"
-     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-     d="m 617.81925,1315.5155 13.67238,-13.6723 13.67236,13.6723"
-     sodipodi:nodetypes="ccc" />
 </svg>

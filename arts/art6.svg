@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="591.14127"
-     inkscape:cy="203.64675"
+     inkscape:cx="93.338095"
+     inkscape:cy="656.19509"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -3193,10 +3193,5 @@
        d="M 697.62255,1313.531 H 119.36077"
        id="path3275"
        sodipodi:nodetypes="cc" />
-    <path
-       id="rect7077"
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
-       d="m 394.8193,1309.5154 13.67237,-13.6724 13.67235,13.6724"
-       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
