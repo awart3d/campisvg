@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 1920 1500"
    id="svg134030"
-   sodipodi:docname="image2 f.svg"
+   sodipodi:docname="art2.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    width="1920"
    height="1500"
@@ -23,14 +23,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="656"
-     inkscape:cy="552"
+     inkscape:cx="930"
+     inkscape:cy="728"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g133230" />
+     inkscape:current-layer="svg134030" />
   <style
      id="style1">.a:hover { opacity: 0.4; }
 </style>
@@ -4449,6 +4449,16 @@
          d="m 1844.2987,516.78571 h 49.5968"
          id="path13170" />
     </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.832;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+       d="M 1505.4247,1356.6134 H 631.60694"
+       id="path3275"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="rect7077"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.832;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+       d="m 1057.1404,1353.2724 11.3754,-11.3754 11.3754,11.3754"
+       sodipodi:nodetypes="ccc" />
   </a>
   <a
      id="a10908-2"
@@ -4931,7 +4941,7 @@
   </g>
   <g
      id="g41206-5"
-     transform="translate(-625.38069,765.48679)">
+     transform="translate(-625.38069,771.48679)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41200-3"
@@ -4957,7 +4967,7 @@
   </g>
   <g
      id="g41214-2"
-     transform="translate(-625.38069,826.39797)">
+     transform="translate(-625.38069,832.39797)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41208-9"
@@ -4983,7 +4993,7 @@
   </g>
   <g
      id="g41222-7"
-     transform="translate(-625.38069,887.30914)">
+     transform="translate(-625.38069,893.30914)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41216-0"
@@ -5009,7 +5019,7 @@
   </g>
   <g
      id="g41246-6"
-     transform="translate(-408.25458,765.48679)">
+     transform="translate(-408.25458,771.48679)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41240-0"
@@ -5035,7 +5045,7 @@
   </g>
   <g
      id="g41262-6"
-     transform="translate(-408.25458,826.39797)">
+     transform="translate(-408.25458,832.39797)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41256-1"
@@ -5061,7 +5071,7 @@
   </g>
   <g
      id="g41270-9"
-     transform="translate(-408.25458,887.30915)">
+     transform="translate(-408.25458,893.30915)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41264-2"
@@ -5087,7 +5097,7 @@
   </g>
   <g
      id="g41286-3"
-     transform="translate(-191.12848,765.48679)">
+     transform="translate(-191.12848,771.48679)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41280-7"
@@ -5113,7 +5123,7 @@
   </g>
   <g
      id="g41302-2"
-     transform="translate(-191.12848,826.39797)">
+     transform="translate(-191.12848,832.39797)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41296-2"
@@ -5139,7 +5149,7 @@
   </g>
   <g
      id="g41310-7"
-     transform="translate(-191.12848,887.30914)">
+     transform="translate(-191.12848,893.30914)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41304-3"
@@ -5165,7 +5175,7 @@
   </g>
   <g
      id="g41318-2"
-     transform="translate(25.997623,765.48679)">
+     transform="translate(25.997623,771.48679)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41312-9"
@@ -5191,7 +5201,7 @@
   </g>
   <g
      id="g41326-9"
-     transform="translate(25.997623,826.39797)">
+     transform="translate(25.997623,832.39797)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41320-4"
@@ -5217,7 +5227,7 @@
   </g>
   <g
      id="g41334-4"
-     transform="translate(25.997623,887.30914)">
+     transform="translate(25.997623,893.30914)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41328-5"
@@ -5243,7 +5253,7 @@
   </g>
   <g
      id="g41358-6"
-     transform="translate(243.12373,826.39797)">
+     transform="translate(243.12373,832.39797)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41352-1"
@@ -5269,7 +5279,7 @@
   </g>
   <g
      id="g41366-3"
-     transform="translate(243.12373,887.30915)">
+     transform="translate(243.12373,893.30915)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41360-2"
@@ -5295,7 +5305,7 @@
   </g>
   <g
      id="g41398-1"
-     transform="translate(243.12373,765.48679)">
+     transform="translate(243.12373,771.48679)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41392-5"
@@ -5321,7 +5331,7 @@
   </g>
   <text
      x="118.21803"
-     y="1327.8439"
+     y="1333.8439"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5332,12 +5342,12 @@
      id="text41682-7"
      style="fill:#000000"><tspan
        x="154.38454"
-       y="1327.8439"
+       y="1333.8439"
        id="tspan41680-6"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">CCA</tspan></text>
   <text
      x="56.092785"
-     y="1376.8801"
+     y="1382.8801"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5350,20 +5360,20 @@
        sodipodi:role="line"
        id="tspan199266"
        x="154.38454"
-       y="1376.8801"
+       y="1382.8801"
        style="text-align:start;text-anchor:start"><tspan
          x="154.38454"
-         y="1376.8801"
+         y="1382.8801"
          id="tspan10730-6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Residência</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan199268-9"
        x="154.38454"
-       y="1400.6301"
+       y="1406.6301"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Universitária</tspan></text>
   <text
      x="32.399792"
-     y="1437.3542"
+     y="1443.3542"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5376,25 +5386,25 @@
        sodipodi:role="line"
        id="tspan10937"
        x="154.47954"
-       y="1437.3542"
+       y="1443.3542"
        style="text-align:start;text-anchor:start"><tspan
          x="154.47954"
-         y="1437.3542"
+         y="1443.3542"
          id="tspan10884-7"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Restaurante</tspan></tspan><tspan
        sodipodi:role="line"
        x="154.47954"
-       y="1461.1042"
+       y="1467.1042"
        id="tspan10941"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Universitário</tspan><tspan
        sodipodi:role="line"
        id="tspan10939-4"
        x="154.47954"
-       y="1484.8542"
+       y="1490.8542"
        style="text-align:start;text-anchor:start" /></text>
   <text
      x="335.34412"
-     y="1327.8439"
+     y="1333.8439"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5405,12 +5415,12 @@
      id="text11163"
      style="fill:#000000"><tspan
        x="371.51062"
-       y="1327.8439"
+       y="1333.8439"
        id="tspan11161"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></text>
   <text
      x="335.34412"
-     y="1388.7551"
+     y="1394.7551"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5421,12 +5431,12 @@
      id="text11167-5"
      style="fill:#000000"><tspan
        x="371.51062"
-       y="1388.7551"
+       y="1394.7551"
        id="tspan11165-2"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Auditório</tspan></text>
   <text
      x="553.07825"
-     y="1327.8439"
+     y="1333.8439"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5437,12 +5447,12 @@
      id="text11349-5"
      style="fill:#000000"><tspan
        x="589.24475"
-       y="1327.8439"
+       y="1333.8439"
        id="tspan11347-4"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">LBTPC</tspan></text>
   <text
      x="770.20441"
-     y="1327.8439"
+     y="1333.8439"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5453,12 +5463,12 @@
      id="text11435-3"
      style="fill:#000000"><tspan
        x="806.37091"
-       y="1327.8439"
+       y="1333.8439"
        id="tspan11433-0"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">DCV</tspan></text>
   <text
      x="770.20441"
-     y="1388.7551"
+     y="1394.7551"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5469,12 +5479,12 @@
      id="text11439-7"
      style="fill:#000000"><tspan
        x="806.37091"
-       y="1388.7551"
+       y="1394.7551"
        id="tspan11437-8"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">DCSF</tspan></text>
   <text
      x="909.58728"
-     y="1315.9689"
+     y="1321.9689"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5487,20 +5497,20 @@
        sodipodi:role="line"
        id="tspan11575-4"
        x="1023.497"
-       y="1315.9689"
+       y="1321.9689"
        style="text-align:start;text-anchor:start"><tspan
          x="1023.497"
-         y="1315.9689"
+         y="1321.9689"
          id="tspan11506-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Museu do Brejo</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan11577-1"
        x="1023.497"
-       y="1339.7189"
+       y="1345.7189"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Paraibano</tspan></text>
   <text
      x="987.33051"
-     y="1388.7551"
+     y="1394.7551"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5511,12 +5521,12 @@
      id="text11512-4"
      style="fill:#000000"><tspan
        x="1023.497"
-       y="1388.7551"
+       y="1394.7551"
        id="tspan11510-9"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">NECAF</tspan></text>
   <text
      x="248.92062"
-     y="1437.3542"
+     y="1443.3542"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5529,25 +5539,25 @@
        sodipodi:role="line"
        id="tspan19999"
        x="371.00037"
-       y="1437.3542"
+       y="1443.3542"
        style="text-align:start;text-anchor:start"><tspan
          x="371.00037"
-         y="1437.3542"
+         y="1443.3542"
          id="tspan19997"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Central de</tspan></tspan><tspan
        sodipodi:role="line"
        x="371.00037"
-       y="1461.1042"
+       y="1467.1042"
        id="tspan20001"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Aulas</tspan><tspan
        sodipodi:role="line"
        id="tspan20003"
        x="371.00037"
-       y="1484.8542"
+       y="1490.8542"
        style="text-align:start;text-anchor:start" /></text>
   <text
      x="491.04578"
-     y="1376.8801"
+     y="1382.8801"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5560,20 +5570,20 @@
        sodipodi:role="line"
        id="tspan77809"
        x="589.33752"
-       y="1376.8801"
+       y="1382.8801"
        style="text-align:start;text-anchor:start"><tspan
          x="589.33752"
-         y="1376.8801"
+         y="1382.8801"
          id="tspan77807"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Hospital</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan77811"
        x="589.33752"
-       y="1400.6301"
+       y="1406.6301"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Veterinário</tspan></text>
   <text
      x="553.68127"
-     y="1449.3243"
+     y="1455.3243"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5584,12 +5594,12 @@
      id="text77916"
      style="fill:#000000"><tspan
        x="589.84778"
-       y="1449.3243"
+       y="1455.3243"
        id="tspan77914"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">DZ</tspan></text>
   <text
      x="715.39886"
-     y="1435.6633"
+     y="1441.6633"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5602,19 +5612,19 @@
        sodipodi:role="line"
        id="tspan77944"
        x="806.37091"
-       y="1435.6633"><tspan
+       y="1441.6633"><tspan
          x="806.37091"
-         y="1435.6633"
+         y="1441.6633"
          id="tspan77942"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Escola de</tspan></tspan><tspan
        sodipodi:role="line"
        id="tspan77946"
        x="806.37091"
-       y="1459.4133"
+       y="1465.4133"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Laticínios</tspan></text>
   <text
      x="986.72748"
-     y="1449.3243"
+     y="1455.3243"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -5625,7 +5635,7 @@
      id="text78051"
      style="fill:#000000"><tspan
        x="1022.894"
-       y="1449.3243"
+       y="1455.3243"
        id="tspan78049"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">DB</tspan></text>
   <g
@@ -5683,19 +5693,19 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan41127"><tspan
+         id="tspan33866"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan41125">PB
+           id="tspan33864">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan41131"><tspan
+         id="tspan33870"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan41129">079</tspan></tspan></text>
+           id="tspan33868">079</tspan></tspan></text>
   </g>
   <g
      id="g118751"
-     transform="translate(-671.16073,313.12461)">
+     transform="translate(-603.65854,321.43632)">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#3e4d74;stroke-width:2;stroke-linecap:round"
        id="rect118739"
@@ -5713,15 +5723,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan41135"><tspan
+         id="tspan33874"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan41133">PB
+           id="tspan33872">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan41139"><tspan
+         id="tspan33878"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan41137">079</tspan></tspan></text>
+           id="tspan33876">079</tspan></tspan></text>
   </g>
   <g
      id="g119748"

@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="858"
-     inkscape:cy="838"
+     inkscape:zoom="1"
+     inkscape:cx="716"
+     inkscape:cy="1133"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -2751,6 +2751,13 @@
        stroke-linecap="round"
        stroke-linejoin="round"
        id="g811">
+      <path
+         d="M 1114,971 V 875.69115 L 976,811"
+         fill="none"
+         marker-end="url(#Dot)"
+         stroke="#000000"
+         stroke-width="2"
+         id="path809" />
       <g
          id="g38418-1"
          transform="matrix(0.74,0,0,0.74,311,934)">
@@ -2792,14 +2799,12 @@
            text-anchor="middle"
            id="tspan805"
            style="fill:#000000">Acesso</tspan></text>
-      <path
-         d="M 1114,971 V 875.69115 L 976,811"
-         fill="none"
-         marker-end="url(#Dot)"
-         stroke="#000000"
-         stroke-width="2"
-         id="path809" />
     </g>
+    <path
+       id="rect104403-6-5"
+       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       d="m 1171.0762,946.5412 13.8638,20 h -27.7276 z"
+       sodipodi:nodetypes="cccc" />
   </a>
   <a
      class="svgobj"
@@ -2973,19 +2978,39 @@
      filter="url(#filter29333)"
      target="blank"
      xlink:href="https://maps.app.goo.gl/gZxQSKr6HHWnhccz8"
-     id="a868">
+     id="a868"
+     style="stroke:#808080">
+    <path
+       d="m 121,194 v 184 h 96"
+       fill="none"
+       marker-end="url(#Dot)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path866"
+       sodipodi:nodetypes="ccc"
+       style="stroke:#808080" />
     <use
        transform="translate(-989,-833)"
        xlink:href="#g38418-1"
-       id="use856" />
+       id="use856"
+       style="stroke:#808080" />
+    <path
+       id="rect104403-6-5-3"
+       style="fill:#2287f6;fill-opacity:1;stroke:#808080;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       d="m 182.0762,113.5412 13.8638,20 h -27.7276 z"
+       sodipodi:nodetypes="cccc" />
     <g
        transform="translate(19,-7)"
-       id="g864">
+       id="g864"
+       style="stroke:#808080">
       <use
          transform="translate(-1000,-818)"
          fill="#000000"
          xlink:href="#g43149"
-         id="use858" />
+         id="use858"
+         style="stroke:#808080" />
       <text
          x="108.085"
          y="182.62202"
@@ -2998,7 +3023,7 @@
          stroke-width="0.71"
          xml:space="preserve"
          id="text862"
-         style="fill:#000000"><tspan
+         style="fill:#000000;stroke:#808080"><tspan
            x="108.085"
            y="182.62202"
            fill="#ccff00"
@@ -3008,18 +3033,8 @@
            text-align="center"
            text-anchor="middle"
            id="tspan860"
-           style="fill:#000000">Acesso</tspan></text>
+           style="fill:#000000;stroke:#808080">Acesso</tspan></text>
     </g>
-    <path
-       d="m 121,194 v 184 h 96"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path866"
-       sodipodi:nodetypes="ccc" />
   </a>
   <text
      x="1550.2672"
@@ -3108,6 +3123,16 @@
      target="blank"
      xlink:href="https://www.prape.ufpb.br/residencia-universitaria/"
      id="a902">
+    <path
+       d="m 100,881 v 368 l 102.00209,62.817"
+       fill="none"
+       marker-end="url(#Dot)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path900"
+       sodipodi:nodetypes="ccc" />
     <use
        transform="translate(-854,-167)"
        xlink:href="#g1249"
@@ -3136,16 +3161,6 @@
          text-align="center"
          id="tspan896"
          style="fill:#000000">Universitária</tspan></text>
-    <path
-       d="m 100,881 v 368 l 102.00209,62.817"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path900"
-       sodipodi:nodetypes="ccc" />
   </a>
   <a
      class="svgobj"
@@ -4211,7 +4226,7 @@
        style="font-size:21.3333px;white-space:pre;inline-size:22.6113;display:inline;fill:#ffffff;stroke-width:1.68486"><tspan
          x="755.7392"
          y="562.89081"
-         id="tspan11500">8</tspan></text>
+         id="tspan8137">8</tspan></text>
   </g>
   <g
      id="g41358"
@@ -4262,7 +4277,7 @@
        style="font-size:21.3333px;white-space:pre;inline-size:21.3195;display:inline;fill:#ffffff;stroke-width:1.68486"><tspan
          x="755.7392"
          y="562.89081"
-         id="tspan11502">9</tspan></text>
+         id="tspan8139">9</tspan></text>
   </g>
   <text
      x="335.34412"
@@ -4492,4 +4507,14 @@
      xlink:href="#g151061"
      id="use152834"
      transform="translate(191.56409,-70.887519)" />
+  <path
+     style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="m 1109.6226,1317.5312 -990.26177,0"
+     id="path3275"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="rect7077"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     d="m 612.59253,1313.5155 13.67239,-13.6723 13.67235,13.6723"
+     sodipodi:nodetypes="ccc" />
 </svg>

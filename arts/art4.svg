@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.72343748"
-     inkscape:cx="931.66309"
-     inkscape:cy="616.5011"
+     inkscape:zoom="0.36171874"
+     inkscape:cx="1661.5119"
+     inkscape:cy="934.42767"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -4400,4 +4400,14 @@
          style="fill:#14ffb0;fill-opacity:1" />
     </g>
   </a>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="M 925.6225,1313.5311 H 119.36074"
+     id="path3275"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="rect7077"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     d="m 508.81925,1309.5155 13.67238,-13.6723 13.67236,13.6723"
+     sodipodi:nodetypes="ccc" />
 </svg>

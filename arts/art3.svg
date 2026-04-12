@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.70286542"
-     inkscape:cx="953.95218"
-     inkscape:cy="876.41244"
+     inkscape:cx="936.16784"
+     inkscape:cy="993.07774"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -7642,7 +7642,7 @@
      id="path36895" />
   <g
      id="g41206-0"
-     transform="translate(-625.38069,801.48674)">
+     transform="translate(-625.38069,811.48674)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41200-9"
@@ -7668,7 +7668,7 @@
   </g>
   <g
      id="g41214-0"
-     transform="translate(-625.38069,862.39792)">
+     transform="translate(-625.38069,872.39792)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41208-6"
@@ -7712,15 +7712,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan6791"><tspan
+         id="tspan37747"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan6789">PB
+           id="tspan37745">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan6795"><tspan
+         id="tspan37751"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan6793">079</tspan></tspan></text>
+           id="tspan37749">079</tspan></tspan></text>
   </g>
   <g
      id="g39523"
@@ -7820,7 +7820,7 @@
      style="fill:#ffffff;fill-opacity:1" />
   <g
      id="g41286"
-     transform="translate(-191.12848,801.48678)">
+     transform="translate(-191.12848,811.48678)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41280"
@@ -7846,7 +7846,7 @@
   </g>
   <g
      id="g41302"
-     transform="translate(-191.12848,862.39796)">
+     transform="translate(-191.12848,872.39796)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41296"
@@ -7872,7 +7872,7 @@
   </g>
   <g
      id="g41318"
-     transform="translate(25.997623,801.48678)">
+     transform="translate(25.997623,811.48678)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41312"
@@ -7898,7 +7898,7 @@
   </g>
   <g
      id="g41326"
-     transform="translate(25.997623,862.39796)">
+     transform="translate(25.997623,872.39796)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41320"
@@ -7924,7 +7924,7 @@
   </g>
   <g
      id="g41398"
-     transform="translate(243.12373,801.48678)">
+     transform="translate(243.12373,811.48678)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41392"
@@ -7950,7 +7950,7 @@
   </g>
   <g
      id="g41246-0"
-     transform="translate(-408.25458,801.48683)">
+     transform="translate(-408.25458,811.48683)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41240-2"
@@ -7976,7 +7976,7 @@
   </g>
   <g
      id="g41262-5"
-     transform="translate(-408.25458,862.39801)">
+     transform="translate(-408.25458,872.39801)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle41256-9"
@@ -8002,7 +8002,7 @@
   </g>
   <g
      id="g108662"
-     transform="translate(243.12373,862.39796)">
+     transform="translate(243.12373,872.39796)">
     <circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        id="circle108656"
@@ -8028,7 +8028,7 @@
   </g>
   <text
      x="118.21803"
-     y="1363.8439"
+     y="1373.8439"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8039,12 +8039,12 @@
      id="text108834"
      style="fill:#000000"><tspan
        x="154.38454"
-       y="1363.8439"
+       y="1373.8439"
        id="tspan108832"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">CCHSA</tspan></text>
   <text
      x="55.582657"
-     y="1412.4441"
+     y="1422.4441"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8057,20 +8057,20 @@
        sodipodi:role="line"
        id="tspan108850"
        x="153.87428"
-       y="1412.4441"
+       y="1422.4441"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"><tspan
          x="153.87428"
-         y="1412.4441"
+         y="1422.4441"
          id="tspan108848"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Restaurante</tspan></tspan><tspan
        sodipodi:role="line"
        x="153.87428"
-       y="1436.1941"
+       y="1446.1941"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan108852">Universitário</tspan></text>
   <text
      x="273.46945"
-     y="1352.0292"
+     y="1362.0292"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8082,21 +8082,21 @@
      style="fill:#000000"><tspan
        sodipodi:role="line"
        x="371.76111"
-       y="1352.0292"
+       y="1362.0292"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan108870"><tspan
          x="371.76111"
-         y="1352.0292"
+         y="1362.0292"
          id="tspan108868"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
        sodipodi:role="line"
        x="371.76111"
-       y="1375.7792"
+       y="1385.7792"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan108872">de Ensino</tspan></text>
   <text
      x="334.83386"
-     y="1422.4683"
+     y="1432.4683"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8107,12 +8107,12 @@
      id="text110417"
      style="fill:#000000"><tspan
        x="371.00037"
-       y="1422.4683"
+       y="1432.4683"
        id="tspan110415"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Aquicultura</tspan></text>
   <text
      x="491.80664"
-     y="1352.0292"
+     y="1362.0292"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8124,21 +8124,21 @@
      style="fill:#000000"><tspan
        sodipodi:role="line"
        x="590.09827"
-       y="1352.0292"
+       y="1362.0292"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan110604"><tspan
          x="590.09827"
-         y="1352.0292"
+         y="1362.0292"
          id="tspan110602"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
        sodipodi:role="line"
        x="590.09827"
-       y="1375.7792"
+       y="1385.7792"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan110606">de Informática</tspan></text>
   <text
      x="771.30841"
-     y="1361.993"
+     y="1371.993"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8149,12 +8149,12 @@
      id="text110898"
      style="fill:#000000"><tspan
        x="807.47491"
-       y="1361.993"
+       y="1371.993"
        id="tspan110896"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Apicultura</tspan></text>
   <text
      x="491.80664"
-     y="1412.8801"
+     y="1422.8801"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8166,21 +8166,21 @@
      style="fill:#000000"><tspan
        sodipodi:role="line"
        x="590.09827"
-       y="1412.8801"
+       y="1422.8801"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan110989"><tspan
          x="590.09827"
-         y="1412.8801"
+         y="1422.8801"
          id="tspan110987"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
        sodipodi:role="line"
        x="590.09827"
-       y="1436.6301"
+       y="1446.6301"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan110991">de Bebidas</tspan></text>
   <text
      x="709.91431"
-     y="1424.5974"
+     y="1434.5974"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8192,16 +8192,16 @@
      style="fill:#000000"><tspan
        sodipodi:role="line"
        x="806.69562"
-       y="1424.5974"
+       y="1434.5974"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan111096"><tspan
          x="806.69562"
-         y="1424.5974"
+         y="1434.5974"
          id="tspan111094"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Suinocultura</tspan></tspan></text>
   <text
      x="926.05878"
-     y="1352.0292"
+     y="1362.0292"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8213,21 +8213,21 @@
      style="fill:#000000"><tspan
        sodipodi:role="line"
        x="1024.3506"
-       y="1352.0292"
+       y="1362.0292"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan111195"><tspan
          x="1024.3506"
-         y="1352.0292"
+         y="1362.0292"
          id="tspan111193"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
        sodipodi:role="line"
        x="1024.3506"
-       y="1375.7792"
+       y="1385.7792"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
        id="tspan111197">de Sementes</tspan></text>
   <text
      x="986.82031"
-     y="1424.5974"
+     y="1434.5974"
      fill="#666666"
      font-family="'Open Sans'"
      font-size="19px"
@@ -8238,7 +8238,7 @@
      id="text111340"
      style="fill:#000000"><tspan
        x="1022.9868"
-       y="1424.5974"
+       y="1434.5974"
        id="tspan111338"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></text>
   <g
@@ -8276,4 +8276,14 @@
        id="path12547-5"
        sodipodi:nodetypes="cccc" />
   </g>
+  <path
+     style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="M 1143.6225,1319.5311 H 119.36074"
+     id="path3275"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="rect7077"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     d="m 617.81925,1315.5155 13.67238,-13.6723 13.67236,13.6723"
+     sodipodi:nodetypes="ccc" />
 </svg>

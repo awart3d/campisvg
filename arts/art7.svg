@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="602"
+     inkscape:cx="250"
      inkscape:cy="852"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
@@ -4557,4 +4557,14 @@
        id="path65715"
        sodipodi:nodetypes="cc" />
   </g>
+  <path
+     style="fill:none;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="M 1091.6226,1317.5312 H 119.36083"
+     id="path3275"
+     sodipodi:nodetypes="cc" />
+  <path
+     id="rect7077"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+     d="m 591.81935,1313.5155 13.67239,-13.6723 13.67235,13.6723"
+     sodipodi:nodetypes="ccc" />
 </svg>
