@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.70286542"
-     inkscape:cx="685.76428"
-     inkscape:cy="993.07774"
+     inkscape:zoom="0.4970009"
+     inkscape:cx="1368.2068"
+     inkscape:cy="456.73961"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -859,26 +859,6 @@
        width="69"
        height="55"
        id="rect1-4" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4847"
-       id="linearGradient6189"
-       x1="552.84076"
-       y1="654.6308"
-       x2="553.69537"
-       y2="655.30719"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.25079413,0.63693407)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4847"
-       id="linearGradient6329"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.25079413,0.63693407)"
-       x1="552.84076"
-       y1="654.6308"
-       x2="553.69537"
-       y2="655.30719" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient14651"
@@ -1934,16 +1914,6 @@
          style="stop-color:#77ce03;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4847"
-       id="linearGradient18714"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.05587442,-0.03530162)"
-       x1="999.677"
-       y1="593.52496"
-       x2="1000.2892"
-       y2="593.98816" />
-    <linearGradient
        id="linearGradient130716-6-6"
        x1="916.1001"
        x2="838.15814"
@@ -1962,27 +1932,6 @@
          style="stop-color:#7bc502;stop-opacity:1" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient68981"
-       id="linearGradient68983"
-       x1="1023.7268"
-       y1="613.5481"
-       x2="999.00757"
-       y2="592.6394"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient68981">
-      <stop
-         style="stop-color:#8b2aff;stop-opacity:1;"
-         offset="0"
-         id="stop68977" />
-      <stop
-         style="stop-color:#ff2a73;stop-opacity:1;"
-         offset="1"
-         id="stop68979" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient110786"
        x1="1006.1784"
        x2="1004.1375"
@@ -1999,16 +1948,6 @@
          offset="1"
          id="stop124" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4847"
-       id="linearGradient80444"
-       x1="999.99878"
-       y1="593.55951"
-       x2="1000.39"
-       y2="594"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4260538,0,0,1.4260538,-426.12493,-253.34315)" />
     <linearGradient
        id="linearGradient30137"
        x1="1001.2467"
@@ -2044,25 +1983,6 @@
          id="stop132727" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4847"
-       id="linearGradient18506"
-       x1="999.677"
-       y1="593.52496"
-       x2="1000.2892"
-       y2="593.98816"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.05587442,-0.03530162)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient92891"
-       id="linearGradient3732"
-       gradientUnits="userSpaceOnUse"
-       x1="1000"
-       y1="603"
-       x2="1060"
-       y2="603" />
-    <linearGradient
        id="linearGradient187918"
        x1="374"
        x2="374"
@@ -2081,6 +2001,315 @@
          id="stop20-7"
          style="stop-color:#f34400;stop-opacity:1;" />
     </linearGradient>
+    <marker
+       id="Dot-1"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path4-9" />
+    </marker>
+    <marker
+       id="marker49915"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49913" />
+    </marker>
+    <marker
+       id="marker49919"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49917" />
+    </marker>
+    <marker
+       id="marker49923"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49921" />
+    </marker>
+    <marker
+       id="marker49927"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49925" />
+    </marker>
+    <marker
+       id="marker49931"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49929" />
+    </marker>
+    <marker
+       id="marker49935"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49933" />
+    </marker>
+    <marker
+       id="marker49939"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49937" />
+    </marker>
+    <marker
+       id="marker49943"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49941" />
+    </marker>
+    <marker
+       id="marker49947"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49945" />
+    </marker>
+    <marker
+       id="marker49951"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49949" />
+    </marker>
+    <marker
+       id="marker49955"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49953" />
+    </marker>
+    <marker
+       id="marker49959"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49957" />
+    </marker>
+    <marker
+       id="marker49963"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path49961" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient68981"
+       id="linearGradient68983"
+       x1="1023.7268"
+       y1="613.5481"
+       x2="999.00757"
+       y2="592.6394"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient68981">
+      <stop
+         style="stop-color:#8b2aff;stop-opacity:1;"
+         offset="0"
+         id="stop68977" />
+      <stop
+         style="stop-color:#ff2a73;stop-opacity:1;"
+         offset="1"
+         id="stop68979" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4847"
+       id="linearGradient80444"
+       x1="999.99878"
+       y1="593.55951"
+       x2="1000.39"
+       y2="594"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.4260538,0,0,1.4260538,-426.12493,-253.34315)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4847"
+       id="linearGradient18714"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.05587442,-0.03530162)"
+       x1="999.677"
+       y1="593.52496"
+       x2="1000.2892"
+       y2="593.98816" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4847"
+       id="linearGradient51363"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.05587442,-0.03530162)"
+       x1="999.677"
+       y1="593.52496"
+       x2="1000.2892"
+       y2="593.98816" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4847"
+       id="linearGradient6189"
+       x1="552.84076"
+       y1="654.6308"
+       x2="553.69537"
+       y2="655.30719"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.25079413,0.63693407)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4847"
+       id="linearGradient53064"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.25079413,0.63693407)"
+       x1="552.84076"
+       y1="654.6308"
+       x2="553.69537"
+       y2="655.30719" />
   </defs>
   <rect
      style="fill:#ffffff;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
@@ -3053,49 +3282,6 @@
      id="path26586-0"
      sodipodi:nodetypes="ccccc"
      style="fill:url(#linearGradient82511);fill-opacity:1" />
-  <a
-     class="svgobj"
-     transform="matrix(0.90181848,0,0,0.90181848,3.4605734,69.776607)"
-     target="blank"
-     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
-     xlink:title="Fauna Brasileira | Bem-te-Vi"
-     id="a19124">
-    <g
-       transform="matrix(1.4,0,0,1.4,-323,-184)"
-       id="g19122">
-      <path
-         id="path19110"
-         style="fill:url(#linearGradient68983);fill-opacity:1"
-         d="m 997.81943,593.5533 -5.31868,1.34727 c 1.96789,0.43483 5.76603,1.23654 7.49919,2.09866 -1.26354,3.45093 1.62016,8.62134 12.99956,12.00099 8.5724,8.81916 15.0368,8.06579 18.5292,8.43725 -20.683,-9.77901 -11.6824,-14.06736 -25.5291,-21.43682 1.2923,-5.38045 -7.57795,-6.28881 -8.18017,-2.44735 z"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         d="m 1000,597 c -1.01056,3.45563 1.6268,8.71388 13,12 -7.3432,-4.33834 -5.2604,-9.72881 -13,-12 z"
-         fill="url(#linearGradient110786)"
-         id="path19114"
-         style="fill:url(#linearGradient110786)"
-         sodipodi:nodetypes="ccc" />
-      <ellipse
-         cx="1000"
-         cy="594"
-         rx="0.77999997"
-         ry="0.74000001"
-         id="ellipse19116" />
-      <ellipse
-         cx="999.92877"
-         cy="593.73279"
-         rx="0.55616093"
-         ry="0.52763993"
-         fill="#ffffff"
-         id="ellipse19118"
-         style="fill:url(#linearGradient80444);fill-opacity:1;stroke-width:1.42605" />
-      <path
-         d="m 999.48497,592.01936 c 3.00003,-0.5 5.21503,1.52064 6.61503,2.18064 -0.78,-2.4 -4.215,-3.88064 -6.61503,-2.18064 z"
-         fill="#ffffff"
-         id="path19120"
-         sodipodi:nodetypes="ccc"
-         style="fill:#ffcc00;fill-opacity:1" />
-    </g>
-  </a>
   <path
      d="m 1176,556 -11,0.54 0.75,2.6 11,-0.59 z"
      fill="#11f7f2"
@@ -4272,58 +4458,6 @@
      transform="matrix(0.79,0,0,0.79,369.12029,-111.99522)"
      xlink:href="#g25674"
      id="use1006" />
-  <a
-     class="svgobj"
-     transform="matrix(-1,0,0,1,1892.5764,-314.58441)"
-     target="blank"
-     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
-     xlink:title="Fauna Brasileira | Bem-te-Vi"
-     id="a133386">
-    <g
-       transform="matrix(1.4,0,0,1.4,-323,-184)"
-       id="g133384">
-      <path
-         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 5.7272,3.11566 10.3093,7.44543 17.6175,8.88482 C 1024.9157,614.36834 1021.0327,610.1555 1017,606 c -2.7,-4.1 -6.5,-8.5 -11,-10 1.3,-8 -13,-5 -6.5,0.56 z"
-         fill="url(#linearGradient30137)"
-         id="path133372"
-         style="fill:url(#linearGradient30137)"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         d="M 998.41357,593.72295 992.5,594.9 l 8.1,1.7 c -0.80984,-0.9368 -1.87634,-1.80322 -2.18643,-2.87705 z"
-         fill="url(#linearGradient30139)"
-         id="path133374"
-         style="fill:url(#linearGradient30139)"
-         sodipodi:nodetypes="cccc" />
-      <path
-         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 3.5,-8.5 -5.9,-2.8 -13,-12 z"
-         fill="url(#linearGradient30141)"
-         id="path133376"
-         style="fill:url(#linearGradient3732)" />
-      <g
-         id="g18654">
-        <ellipse
-           cx="1000"
-           cy="594"
-           rx="0.77999997"
-           ry="0.74000001"
-           id="ellipse133378" />
-        <ellipse
-           cx="999.82239"
-           cy="593.74304"
-           rx="0.50854248"
-           ry="0.48246339"
-           fill="#ffffff"
-           id="ellipse133380"
-           style="fill:url(#linearGradient18506);fill-opacity:1;stroke-width:1.30396" />
-      </g>
-      <path
-         d="m 999.95536,592.41752 c 3.00004,-0.5 4.74464,1.12248 6.14464,1.78248 -0.78,-2.4 -3.7446,-3.48248 -6.14464,-1.78248 z"
-         fill="#ffffff"
-         id="path133382"
-         sodipodi:nodetypes="ccc"
-         style="fill:#14ffb0;fill-opacity:1" />
-    </g>
-  </a>
   <use
      transform="matrix(0.76,0,0,0.76,-1.1374444,167.397)"
      xlink:href="#g25674"
@@ -5167,47 +5301,6 @@
      transform="translate(-655,-646)"
      xlink:href="#use72214"
      id="use1380" />
-  <a
-     class="svgobj"
-     transform="matrix(0.80957363,0,0,0.80957363,-99.562735,64.556989)"
-     target="blank"
-     xlink:href="https://butantan.gov.br/bubutantan/teiu-um-lagarto-tao-brasileiro-que-voce-com-certeza-ja-viu-por-ai"
-     xlink:title="Fauna Brasileira | Teiu"
-     id="a133370">
-    <path
-       d="m 959.5778,409.00033 c 2.67457,0.64077 47.5805,-0.91285 48.1938,-1.46149 -5.4737,-3.98192 -49.59324,-0.0967 -48.1938,1.46149 z"
-       fill="#999999"
-       id="path114784-8-6-7-3"
-       sodipodi:nodetypes="ccc"
-       style="fill:#09560d;fill-opacity:1;stroke-width:0.890235" />
-    <g
-       transform="matrix(0.82857907,0,0,0.82857907,244.03552,61.073719)"
-       id="g133368">
-      <path
-         d="m 917,402 c 11,-6.3 15,-5.3 26,-3.6 -6.2,7.4 -15,7.7 -24,13 -6.2,5.4 2.1,7.2 4.7,9.1 -6.9,-0.57 -14,-3.1 -14,-6.8 l -21,1.4 7.6,5.8 c -2.4,-0.74 -17,-0.48 -13,-4.7 -23,14 -50,0.01 -51,-13 25,31 46,0.36 85,-1.2 z"
-         fill="url(#linearGradient30135)"
-         id="path133362"
-         style="fill:url(#linearGradient30135)" />
-      <g
-         id="g18654-6"
-         transform="matrix(2.3057405,0,0,2.3057405,-1376.7056,-969.81974)">
-        <ellipse
-           cx="1000"
-           cy="594"
-           rx="0.77999997"
-           ry="0.74000001"
-           id="ellipse133378-6" />
-        <ellipse
-           cx="999.82239"
-           cy="593.74304"
-           rx="0.50854248"
-           ry="0.48246339"
-           fill="#ffffff"
-           id="ellipse133380-4"
-           style="fill:url(#linearGradient18714);fill-opacity:1;stroke-width:1.30396" />
-      </g>
-    </g>
-  </a>
   <use
      transform="translate(-756,-364)"
      xlink:href="#use72252"
@@ -5622,81 +5715,6 @@
      transform="matrix(0.77,0,0,0.77,66.8,-433.06)"
      xlink:href="#use72214"
      id="use1601" />
-  <g
-     transform="matrix(-0.96879263,-0.09397478,0.09397478,-0.96879263,2232.4871,1144.0548)"
-     id="g879">
-    <path
-       d="M 569.76546,636.43432 C 570.54546,637.03432 573.5,650 571.5,650 c 9.8,5.9 0.46546,-12.56568 -1.73454,-13.56568 z"
-       fill="#902828"
-       id="path855"
-       sodipodi:nodetypes="ccc" />
-    <path
-       d="m 589.45412,635.51881 c -2.26563,-0.31568 -39.57342,2.68068 -40.03712,3.18413 4.85127,2.85692 41.32079,-2.00656 40.03712,-3.18413 z"
-       fill="#999999"
-       id="path114784-8-6-1"
-       sodipodi:nodetypes="ccc"
-       style="fill:#09560d;fill-opacity:1;stroke-width:0.740451" />
-    <path
-       d="m 564,636 c 0.38,0.58 -7.8,15 -7.9,15 7.6,5.7 8.8,-14 7.9,-15 z"
-       fill="#c33636"
-       id="path857" />
-    <path
-       d="m 604.48284,659.82882 c -0.25,-0.65 -24.73842,-1.93646 -24.73842,-1.83646 -0.29,-9.5 24.73842,0.43646 24.73842,1.83646 z"
-       fill="#c33636"
-       id="path859"
-       style="fill:#fc792e;fill-opacity:1"
-       sodipodi:nodetypes="ccc" />
-    <path
-       d="m 548,639 8.9,11 c -10,6.3 -18,2.8 -10,12 0.47,0.53 2.7,3.1 3.8,3.2 0.19,0.016 -0.52,-3.3 0.42,-2.8 1.8,0.89 4.7,3.2 5.7,3.6 1,0.41 0.13,-3.2 0.48,-3.2 1.6,-0.59 6.28401,-3.25438 7.88401,-3.15438 13.58537,-1.3884 16.91924,-0.11416 19.33678,-3.85602 5.91375,-9.15326 6.52443,-22.17391 4.7763,-20.49081 0.0545,6.25262 -5.59975,8.43008 -8.90374,12.64227 0.78,-0.79 -15.89335,2.07894 -17.89335,1.05894 -2.3,-2.3 -13,-11 -14,-10 z"
-       fill="url(#linearGradient150088-3)"
-       id="path861"
-       style="fill:url(#linearGradient150088-3)"
-       sodipodi:nodetypes="ccccccccsccccc" />
-    <path
-       d="m 550.46346,654.03115 c -1.8,-0.62 -7.18633,-1.22384 -8.88633,3.30616 5.2,4.6 12.88633,-0.50616 8.88633,-3.30616 z"
-       fill="#ff9955"
-       id="path863"
-       sodipodi:nodetypes="ccc" />
-    <path
-       d="m 544,658 c -1.3,-1.3 -2.7,-2.2 -2.7,-0.15 0.13,0.68 1.5,0.82 2.7,0.15 z"
-       id="path865" />
-    <g
-       transform="matrix(0.9,-0.43,-0.43,-0.9,335,1488)"
-       id="g871">
-      <ellipse
-         cx="553"
-         cy="656"
-         rx="0.92000002"
-         ry="0.94999999"
-         id="ellipse867" />
-      <ellipse
-         cx="552.74921"
-         cy="655.63696"
-         rx="0.54000002"
-         ry="0.56"
-         fill="#ffffff"
-         id="ellipse869"
-         style="fill:url(#linearGradient6189);fill-opacity:1" />
-    </g>
-    <g
-       transform="matrix(0.9,-0.43,-0.43,-0.9,330.41163,1488.3246)"
-       id="g6327">
-      <ellipse
-         cx="553"
-         cy="656"
-         rx="0.92000002"
-         ry="0.94999999"
-         id="ellipse6323" />
-      <ellipse
-         cx="552.74921"
-         cy="655.63696"
-         rx="0.54000002"
-         ry="0.56"
-         fill="#ffffff"
-         id="ellipse6325"
-         style="fill:url(#linearGradient6329);fill-opacity:1" />
-    </g>
-  </g>
   <use
      transform="matrix(1.4689344,0,0,1.5819294,-299.47412,-1191.3321)"
      xlink:href="#use72252"
@@ -6212,238 +6230,10 @@
      transform="matrix(1.2659956,0,0,1.2659956,-242.06804,-180.85683)"
      xlink:href="#g37288"
      id="use1821" />
-  <a
-     class="svgobj"
-     transform="translate(58,215.9)"
-     filter="url(#filter29393)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a1837">
-    <g
-       transform="matrix(0.74,0,0,0.74,-19,923.7)"
-       fill="none"
-       id="g1827">
-      <rect
-         x="990"
-         y="43"
-         width="191"
-         height="117"
-         rx="0"
-         ry="0"
-         id="rect1825" />
-    </g>
-    <g
-       id="g1756"
-       transform="translate(0,15.6)">
-      <use
-         transform="translate(659)"
-         xlink:href="#use20181"
-         id="use1823" />
-      <text
-         x="786.90851"
-         y="1006.31"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         style="line-height:1;fill:#000000"
-         xml:space="preserve"
-         id="text1831"><tspan
-           x="786.90851"
-           y="1006.31"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-width="0.6"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan1829"
-           style="fill:#000000">Avicultura</tspan></text>
-    </g>
-    <path
-       d="M 787,986.6 V 931 H 889 V 697"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1835" />
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(58,212.68)"
-     filter="url(#filter29417)"
-     target="blank"
-     xlink:href="https://maps.app.goo.gl/TixxipEJzBharDT66"
-     id="a1849">
-    <g
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       id="g1847"
-       transform="translate(0,18)">
-      <use
-         transform="translate(989,0.82)"
-         xlink:href="#use20181"
-         id="use1839" />
-      <text
-         x="1116.2551"
-         y="1007.9888"
-         fill="#ccff00"
-         font-family="'Open Sans'"
-         font-size="24px"
-         font-weight="500"
-         stroke-width="0.71"
-         xml:space="preserve"
-         id="text1843"
-         style="fill:#000000"><tspan
-           x="1116.2551"
-           y="1007.9888"
-           fill="#ccff00"
-           font-family="'Open Sans'"
-           font-size="24px"
-           font-weight="600"
-           stroke-width="0.71"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan1841"
-           style="fill:#000000">Acesso</tspan></text>
-      <path
-         d="m 1114,972 v -54 l 296,-2.2"
-         fill="none"
-         marker-end="url(#Dot)"
-         stroke="#000000"
-         stroke-width="2"
-         id="path1845" />
-    </g>
-    <path
-       id="path106248-8"
-       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       d="m 1171.1362,965.82 13.8638,20 h -27.7276 z"
-       sodipodi:nodetypes="cccc" />
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(52,222.7)"
-     filter="url(#filter29405)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a1861">
-    <path
-       d="M 954,980 V 729 h 575"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1851" />
-    <g
-       transform="translate(0,1.7)"
-       id="g1859">
-      <use
-         transform="translate(829,7.1)"
-         xlink:href="#use20181"
-         id="use1853" />
-      <text
-         x="956.58026"
-         y="1011.0199"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.74"
-         style="line-height:1;fill:#000000"
-         xml:space="preserve"
-         id="text1857"><tspan
-           x="956.58026"
-           y="1011.0199"
-           dominant-baseline="auto"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stop-color="#000000"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           text-align="center"
-           text-anchor="middle"
-           style="line-height:1;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
-           id="tspan1855">Aquicultura</tspan></text>
-    </g>
-  </a>
   <use
      transform="matrix(1.6675171,0,0,1.6675171,-1357.6397,-831.58383)"
      xlink:href="#use72212"
      id="use1342" />
-  <a
-     class="svgobj"
-     transform="translate(58,215.6)"
-     filter="url(#filter29369)"
-     target="blank"
-     xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
-     id="a1879">
-    <use
-       transform="matrix(0.74,0,0,0.74,-349,924)"
-       xlink:href="#rect30639"
-       id="use1863" />
-    <path
-       d="M 456,955.6391 V 822 H 711 V 403 h 444"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1865"
-       sodipodi:nodetypes="ccccc" />
-    <g
-       transform="translate(12,-11)"
-       fill="#000080"
-       id="g1877">
-      <text
-         x="443.2392"
-         y="993.53271"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text1875"><tspan
-           x="443.2392"
-           y="993.53271"
-           text-align="center"
-           id="tspan1869"
-           style="fill:#000000"><tspan
-   fill="#ffffff"
-   font-family="'Open Sans'"
-   font-weight="800"
-   id="tspan1867"
-   style="fill:#000000">RU</tspan> </tspan><tspan
-           x="443.2392"
-           y="1017.5327"
-           text-align="center"
-           id="tspan1871"
-           style="fill:#000000">Restaurante</tspan><tspan
-           x="443.2392"
-           y="1041.5327"
-           text-align="center"
-           id="tspan1873"
-           style="fill:#000000">Universitário</tspan></text>
-    </g>
-  </a>
   <path
      d="m 1114,564 9.5,-2.8 7.9,1.1 -15,-29 -6.4,-1.7 -10,2.3 z"
      fill="#ff0000"
@@ -6452,440 +6242,6 @@
      stroke-width="2"
      id="path2131"
      style="fill:url(#linearGradient69005);fill-opacity:1" />
-  <a
-     class="svgobj"
-     transform="translate(930,-777.82)"
-     filter="url(#filter29357)"
-     target="blank"
-     xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-3"
-     id="a1907">
-    <path
-       d="m 290,1000 v 340 h -88"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1881" />
-    <g
-       transform="translate(-5.5)"
-       id="g1905">
-      <g
-         transform="translate(-313)"
-         id="g1895">
-        <text
-           x="616.15771"
-           y="993.53955"
-           fill="#fff6d5"
-           font-family="'Open Sans'"
-           font-size="21px"
-           font-weight="600"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           text-anchor="middle"
-           style="line-height:1"
-           xml:space="preserve"
-           id="text1889"><tspan
-             x="616.15771"
-             y="993.53955"
-             text-align="center"
-             id="tspan1883">Laboratório </tspan><tspan
-             x="616.15771"
-             y="1014.8729"
-             text-align="center"
-             id="tspan1885">de </tspan><tspan
-             x="616.15771"
-             y="1036.2062"
-             text-align="center"
-             id="tspan1887">Informática</tspan></text>
-        <g
-           transform="matrix(0.74,0,0,0.74,-195,924)"
-           id="g1893">
-          <rect
-             x="990"
-             y="43"
-             width="191"
-             height="117"
-             rx="0"
-             ry="0"
-             id="rect1891"
-             style="fill:#00ffff" />
-        </g>
-      </g>
-      <text
-         x="296.30869"
-         y="980.34326"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text1903"><tspan
-           x="296.30869"
-           y="980.34326"
-           font-weight="800"
-           text-align="center"
-           id="tspan1897"
-           style="fill:#000000">CCHSA </tspan><tspan
-           x="296.30869"
-           y="1004.3433"
-           font-weight="600"
-           text-align="center"
-           id="tspan1899"
-           style="fill:#000000">Vidal de</tspan><tspan
-           x="296.30869"
-           y="1028.3433"
-           font-weight="600"
-           text-align="center"
-           id="tspan1901"
-           style="fill:#000000">Negreiros</tspan></text>
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(58,231.5)"
-     filter="url(#filter29345)"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     target="blank"
-     xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/biblioteca-cchsa/apresentacao"
-     id="a1916">
-    <rect
-       id="use20181"
-       x="55"
-       y="971"
-       width="141"
-       height="55"
-       rx="0"
-       ry="0"
-       filter="url(#filter29405)"
-       stroke="#000000"
-       style="fill:#00ffff;stroke:none" />
-    <text
-       x="126.46609"
-       y="1007.0044"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="500"
-       stroke-width="0.75"
-       style="line-height:1;fill:#000000"
-       xml:space="preserve"
-       id="text1912"><tspan
-         x="126.46609"
-         y="1007.0044"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-width="0.75"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan1910"
-         style="fill:#000000">Biblioteca</tspan></text>
-    <path
-       d="M 127,971 V 696 H 286 V 396"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-width="2"
-       id="path1914" />
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(58,215.6)"
-     filter="url(#filter29381)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a1941">
-    <path
-       d="M 619,976 V 882 H 779 V 578 l 167.60204,1.5"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1918"
-       sodipodi:nodetypes="ccccc" />
-    <g
-       transform="translate(11)"
-       id="g1931">
-      <text
-         x="616.15771"
-         y="993.53955"
-         fill="#fff6d5"
-         font-family="'Open Sans'"
-         font-size="21px"
-         font-weight="600"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1"
-         xml:space="preserve"
-         id="text1926"><tspan
-           x="616.15771"
-           y="993.53955"
-           text-align="center"
-           id="tspan1920">Laboratório </tspan><tspan
-           x="616.15771"
-           y="1014.8729"
-           text-align="center"
-           id="tspan1922">de </tspan><tspan
-           x="616.15771"
-           y="1036.2062"
-           text-align="center"
-           id="tspan1924">Informática</tspan></text>
-      <g
-         transform="matrix(0.74,0,0,0.74,-195,924)"
-         id="g1929">
-        <rect
-           id="rect30639"
-           x="990"
-           y="43"
-           width="191"
-           height="117"
-           rx="0"
-           ry="0"
-           style="fill:#00ffff" />
-      </g>
-    </g>
-    <text
-       x="622.30438"
-       y="983.06787"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="600"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.6"
-       text-anchor="middle"
-       style="line-height:1.2;fill:#000000"
-       xml:space="preserve"
-       id="text1939"><tspan
-         x="622.30438"
-         y="983.06787"
-         text-align="center"
-         id="tspan1933"
-         style="fill:#000000">Laboratório </tspan><tspan
-         x="622.30438"
-         y="1007.0679"
-         text-align="center"
-         id="tspan1935"
-         style="fill:#000000">de </tspan><tspan
-         x="622.30438"
-         y="1031.0679"
-         text-align="center"
-         id="tspan1937"
-         style="fill:#000000">Informática</tspan></text>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(58,39.5)"
-     filter="url(#filter29333)"
-     target="blank"
-     xlink:href="https://maps.app.goo.gl/L7DKsJtCuxBmutLC7"
-     id="a1957">
-    <use
-       transform="translate(-2.4e-6,-832)"
-       xlink:href="#use20181"
-       id="use1943" />
-    <g
-       transform="translate(19,-7)"
-       id="g1951">
-      <use
-         transform="translate(-1000,-818)"
-         fill="#000000"
-         xlink:href="#g43149"
-         id="use1945" />
-      <text
-         x="108.085"
-         y="182.62202"
-         fill="#ccff00"
-         font-family="'Open Sans'"
-         font-size="27px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.71"
-         xml:space="preserve"
-         id="text1949"
-         style="fill:#000000"><tspan
-           x="108.085"
-           y="182.62202"
-           fill="#ccff00"
-           font-family="'Open Sans'"
-           font-weight="600"
-           stroke-width="0.71"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan1947"
-           style="fill:#000000">Acessos</tspan></text>
-    </g>
-    <path
-       d="M 118,194 V 732.29429 H 79"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1953"
-       sodipodi:nodetypes="ccc" />
-    <path
-       d="M 134,194 V 442.86186 H 236"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1955"
-       sodipodi:nodetypes="ccc" />
-    <path
-       id="path106248"
-       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       d="M 182.1362,115 196,135 h -27.72756 z"
-       sodipodi:nodetypes="cccc" />
-  </a>
-  <g
-     id="g29489"
-     transform="translate(377.61327,7.456505)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="path29134"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text29436"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan29434"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-  </g>
-  <g
-     id="g29545"
-     transform="translate(461.71475,62.524567)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle29539"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text29543"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan29541"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-  </g>
-  <g
-     id="g39862"
-     transform="translate(833.14416,389.45972)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39856"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.46454"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39860"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.46454"
-         y="562.89081"
-         id="tspan39858"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
-  </g>
-  <g
-     id="g39918"
-     transform="translate(247.86555,237.93975)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39912"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.41125"
-       y="562.74152"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39916"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.41125"
-         y="562.74152"
-         id="tspan39914"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
-  </g>
-  <g
-     id="g40254"
-     transform="translate(-412.7758,72.053625)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40248"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.02728"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40252"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.02728"
-         y="562.84814"
-         id="tspan40250"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">10</tspan></text>
-  </g>
   <text
      x="1499.1124"
      y="1217.9419"
@@ -7058,410 +6414,6 @@
        style="-inkscape-stroke:none"
        id="path2017" />
   </g>
-  <a
-     class="svgobj"
-     transform="translate(248,376.6)"
-     filter="url(#filter29465)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2035">
-    <g
-       transform="matrix(0.74,0,0,0.74,-703,763)"
-       id="g2023">
-      <rect
-         x="990"
-         y="43"
-         width="191"
-         height="117"
-         rx="0"
-         ry="0"
-         id="rect2021"
-         style="fill:#00ffff" />
-    </g>
-    <text
-       x="100.94586"
-       y="822.59528"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="600"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.65"
-       text-anchor="middle"
-       style="line-height:1.2;fill:#000000"
-       xml:space="preserve"
-       id="text2031"><tspan
-         x="100.94586"
-         y="822.59528"
-         text-align="center"
-         id="tspan2025"
-         style="fill:#000000">Laboratório</tspan><tspan
-         x="100.94586"
-         y="846.59528"
-         text-align="center"
-         id="tspan2027"
-         style="fill:#000000">de</tspan><tspan
-         x="100.94586"
-         y="870.59528"
-         text-align="center"
-         id="tspan2029"
-         style="fill:#000000">Sementes</tspan></text>
-    <path
-       d="M 100,795 V 615 h 80 V 439"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path2033" />
-  </a>
-  <g
-     id="g40198"
-     transform="translate(-331.96348,255.62443)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40192"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.49658"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40196"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.49658"
-         y="562.84814"
-         id="tspan40194"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">9</tspan></text>
-  </g>
-  <a
-     class="svgobj"
-     transform="translate(126,-800.7)"
-     filter="url(#filter29453)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2045">
-    <use
-       transform="translate(481,8.2)"
-       xlink:href="#use20181"
-       id="use2037" />
-    <text
-       x="606.56787"
-       y="1013.5318"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="500"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.58"
-       style="line-height:1;fill:#000000"
-       xml:space="preserve"
-       id="text2041"><tspan
-         x="606.56787"
-         y="1013.5318"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-width="0.58"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan2039"
-         style="fill:#000000">Suinocultura</tspan></text>
-    <path
-       d="m 606,1034 v 331 h 94"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path2043"
-       sodipodi:nodetypes="ccc" />
-  </a>
-  <g
-     id="g40142"
-     transform="translate(68.692307,11.276857)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40136"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.4859"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40140"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.4859"
-         y="562.84814"
-         id="tspan40138"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
-  </g>
-  <a
-     class="svgobj"
-     transform="translate(296,-800.7)"
-     filter="url(#filter29441)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2055">
-    <use
-       transform="translate(477,8.2)"
-       xlink:href="#use20181"
-       id="use2047" />
-    <path
-       d="M 603,1034.9716 V 1226"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path2049"
-       sodipodi:nodetypes="cc" />
-    <text
-       x="603.53607"
-       y="1014.232"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="500"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.6"
-       style="line-height:1;fill:#000000"
-       xml:space="preserve"
-       id="text2053"><tspan
-         x="603.53607"
-         y="1014.232"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-width="0.6"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan2051"
-         style="fill:#000000">Apicultura</tspan></text>
-  </a>
-  <g
-     id="g40086"
-     transform="translate(143.27026,-125.81226)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40080"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40084"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan40082"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
-  </g>
-  <a
-     class="svgobj"
-     transform="translate(465,-784.82)"
-     filter="url(#filter29429)"
-     target="blank"
-     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2071">
-    <path
-       d="m 593,1000 v 238 H 454 v 105"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path2057" />
-    <g
-       transform="matrix(0.74,0,0,0.74,-210,931)"
-       id="g2061">
-      <rect
-         x="990"
-         y="43"
-         width="191"
-         height="117"
-         rx="0"
-         ry="0"
-         id="rect2059"
-         style="fill:#00ffff" />
-    </g>
-    <text
-       x="596.81781"
-       y="990.35413"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="600"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.6"
-       text-anchor="middle"
-       style="line-height:1.2;fill:#000000"
-       xml:space="preserve"
-       id="text2069"><tspan
-         x="596.81781"
-         y="990.35413"
-         text-align="center"
-         id="tspan2063"
-         style="fill:#000000">Laboratório </tspan><tspan
-         x="596.81781"
-         y="1014.3541"
-         text-align="center"
-         id="tspan2065"
-         style="fill:#000000">de </tspan><tspan
-         x="596.81781"
-         y="1038.3541"
-         text-align="center"
-         id="tspan2067"
-         style="fill:#000000">Bebidas</tspan></text>
-  </a>
-  <g
-     id="g39974"
-     transform="translate(162.53554,0.722643)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39968"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.38989"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39972"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.38989"
-         y="562.84814"
-         id="tspan39970"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
-  </g>
-  <a
-     class="svgobj"
-     transform="translate(915,-784.82)"
-     filter="url(#filter29477)"
-     target="blank"
-     xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios/laboratorio-da-brinquedoteca-o-graozinho"
-     id="a2089">
-    <path
-       d="m 595,1000 v 369 h -76"
-       fill="none"
-       marker-end="url(#Dot)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path2073"
-       sodipodi:nodetypes="ccc" />
-    <g
-       transform="translate(-20)"
-       id="g2087">
-      <g
-         transform="matrix(0.74,0,0,0.74,-190,931)"
-         id="g2077">
-        <rect
-           x="990"
-           y="43"
-           width="191"
-           height="117"
-           rx="0"
-           ry="0"
-           id="rect2075"
-           style="fill:#00ffff" />
-      </g>
-      <text
-         x="616.15771"
-         y="993.53955"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1;fill:#000000"
-         xml:space="preserve"
-         id="text2085"><tspan
-           x="616.15771"
-           y="993.53955"
-           text-align="center"
-           id="tspan2079"
-           style="fill:#000000">Laboratório </tspan><tspan
-           x="616.15771"
-           y="1013.5396"
-           text-align="center"
-           id="tspan2081"
-           style="fill:#000000">de </tspan><tspan
-           x="616.15771"
-           y="1033.5396"
-           text-align="center"
-           id="tspan2083"
-           style="fill:#000000">Ensino</tspan></text>
-    </g>
-  </a>
-  <g
-     id="g39806"
-     transform="translate(680.25085,25.587376)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39800"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39804"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan39802"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
-  </g>
   <path
      d="m 1058.0115,570.39394 2.8,1.3 2.6885,4.80606 47,-2.6 -3.1,-4.3 -3.9491,-2.00428 z"
      fill="#ff0000"
@@ -7548,27 +6500,6 @@
     </g>
   </a>
   <a
-     id="a10908-4"
-     xlink:href="https://www.instagram.com/ufpb.oficial/"
-     target="blank"
-     transform="translate(-201,-49.99999)"
-     class="svgobj"
-     xlink:title="UFPB"
-     xlink:show="UFPB Insta">
-    <rect
-       x="1816"
-       width="104"
-       height="80"
-       stop-color="#000000"
-       style="font-variation-settings:normal;fill:#ffffff;stroke-width:0.272165;-inkscape-stroke:none"
-       id="rect10902-7"
-       y="76" />
-    <path
-       d="m 1868.0031,107.02645 c -4.9593,-0.0157 -8.9891,3.99865 -9.0048,8.95793 -0.016,4.95927 3.9987,8.98917 8.9579,9.00479 4.9593,0.0156 8.9892,-3.99866 9.0048,-8.95793 0.016,-4.95928 -3.9987,-8.98918 -8.9579,-9.00479 z m -0.046,3.15518 c 3.2176,-0.0156 5.834,2.58508 5.8496,5.80275 0.016,3.21767 -2.5851,5.83398 -5.8028,5.8496 -3.2176,0.0156 -5.834,-2.58507 -5.8496,-5.80274 -0.016,-3.21768 2.5851,-5.834 5.8028,-5.84961 z m 7.2943,-3.52226 c 0,-1.15585 0.9372,-2.09305 2.0932,-2.09305 1.1558,0 2.093,0.9372 2.093,2.09305 0,1.15587 -0.9372,2.09306 -2.093,2.09306 -1.156,0 -2.0932,-0.93719 -2.0932,-2.09306 z m 10.1296,2.12429 c -0.133,-2.80375 -0.7733,-5.28729 -2.8273,-7.33348 -2.0461,-2.046184 -4.5297,-2.686595 -7.3334,-2.827172 -2.8897,-0.164008 -11.5509,-0.164008 -14.4406,0 -2.796,0.132768 -5.2795,0.773179 -7.3334,2.819362 -2.0539,2.04619 -2.6866,4.52974 -2.8273,7.33348 -0.1638,2.88966 -0.1638,11.55082 0,14.44048 0.133,2.80375 0.7734,5.2873 2.8273,7.33348 2.0539,2.04619 4.5297,2.6866 7.3334,2.82718 2.8897,0.16401 11.5509,0.16401 14.4406,0 2.8037,-0.13276 5.2873,-0.77318 7.3334,-2.82718 2.0462,-2.04618 2.6866,-4.52973 2.8273,-7.33348 0.1639,-2.88966 0.1639,-11.543 0,-14.43267 z m -3.7331,17.5332 c -0.6093,1.53074 -1.7885,2.71003 -3.3271,3.327 -2.3039,0.91377 -7.7708,0.70289 -10.3169,0.70289 -2.546,0 -8.0208,0.20306 -10.3169,-0.70289 -1.5307,-0.60916 -2.7099,-1.78845 -3.327,-3.327 -0.9137,-2.30392 -0.7029,-7.77084 -0.7029,-10.31686 0,-2.54602 -0.2031,-8.02076 0.7029,-10.31685 0.6093,-1.53076 1.7885,-2.71004 3.327,-3.32702 2.304,-0.91376 7.7709,-0.70289 10.3169,-0.70289 2.5461,0 8.0208,-0.20306 10.3169,0.70289 1.5307,0.60917 2.71,1.78846 3.3271,3.32702 0.9136,2.30391 0.7028,7.77083 0.7028,10.31685 0,2.54602 0.2108,8.02076 -0.7028,10.31686 z"
-       id="path10696"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.078099" />
-  </a>
-  <a
      id="a10554-3-8"
      xlink:href="https://maps.app.goo.gl/76PjPA2RVREzUcz3A"
      target="blank"
@@ -7590,51 +6521,32 @@
        fill-rule="evenodd"
        filter="url(#filter28765)"
        stroke-width="5"
-       id="path20163-7-5" />
-  </a>
-  <a
-     id="a11334-0"
-     xlink:href="https://www.tiktok.com/search?q=Universidade%20Federal%20da%20Paraiba"
-     target="blank"
-     transform="translate(-66,-61.99999)"
-     class="svgobj"
-     xlink:title="UFPB"
-     xlink:show="UFPB Tiktok">
-    <rect
-       x="1816"
-       width="104"
-       height="80"
-       stop-color="#000000"
-       style="font-variation-settings:normal;fill:#ffffff;stroke-width:0.272165;-inkscape-stroke:none"
-       id="rect11328-3"
-       y="88" />
-    <path
-       d="m 1880.9898,125.1641 c -2.5539,0.007 -5.0369,-0.78036 -7.0942,-2.27012 v 10.64119 c 0,1.91542 -0.5888,3.83084 -1.7025,5.39154 -1.0642,1.56071 -2.6249,2.76672 -4.4694,3.47613 -1.7735,0.67394 -3.7599,0.78035 -5.6044,0.30504 -1.8444,-0.4753 -3.547,-1.48976 -4.8239,-2.97953 -1.277,-1.48977 -2.0573,-3.2633 -2.2702,-5.17871 -0.2127,-1.91542 0.1703,-3.83084 1.0642,-5.53342 0.9222,-1.7026 2.341,-3.05048 4.0436,-3.90178 1.7026,-0.8513 3.6181,-1.206 5.5334,-0.92223 v 5.24965 c -0.8512,-0.26958 -1.7735,-0.26958 -2.6957,0.0234 -0.8514,0.29086 -1.6317,0.8513 -2.1282,1.56072 -0.5321,0.70941 -0.7804,1.63164 -0.7804,2.55388 0.01,0.92224 0.305,1.77353 0.8513,2.55388 0.5462,0.78036 1.2769,1.27695 2.1992,1.56072 0.8512,0.27667 1.7735,0.27667 2.6957,-0.007 0.8513,-0.28377 1.6317,-0.8513 2.1283,-1.56071 0.532,-0.70942 0.8513,-1.63165 0.8513,-2.55389 v -20.57298 h 5.1077 c -0.01,0.43274 0.034,0.8513 0.1136,1.27694 0.1773,0.92224 0.5462,1.84448 1.0641,2.62483 0.5391,0.78036 1.206,1.48977 2.0572,1.98636 1.1351,0.78035 2.483,1.13506 3.9018,1.13506 v 5.10778 z"
-       fill="#999999"
-       stroke-width="0.0581719"
-       id="path20157-6"
-       style="fill:#000000" />
-  </a>
-  <a
-     id="a10646"
-     xlink:href="https://www.youtube.com/@TVUFPB"
-     target="blank"
-     transform="translate(-336,-49.99999)"
-     class="svgobj"
-     xlink:title="UFPB"
-     xlink:show="UFPB Youtube">
-    <rect
-       x="1816"
-       width="104"
-       height="80"
-       stop-color="#000000"
-       style="font-variation-settings:normal;fill:#ffffff;stroke-width:0.272165;-inkscape-stroke:none"
-       id="rect10642"
-       y="76" />
-    <path
-       d="m 1885.0314,107.41276 c -0.4037,-1.54297 -1.6147,-2.7539 -3.1446,-3.16406 C 1879.1199,103.5 1868,103.5 1868,103.5 c 0,0 -11.1197,0 -13.8932,0.7487 -1.53,0.41016 -2.7345,1.62109 -3.1445,3.16406 -0.7422,2.79297 -0.7422,8.61328 -0.7422,8.61328 0,0 0,5.82031 0.7422,8.61329 0.41,1.53645 1.6145,2.70181 3.1445,3.11197 C 1856.8803,128.5 1868,128.5 1868,128.5 c 0,0 11.1199,0 13.8933,-0.7487 1.5298,-0.41016 2.7343,-1.57552 3.1445,-3.11197 0.7421,-2.79298 0.7421,-8.61329 0.7421,-8.61329 0,0 0,-5.82031 -0.7421,-8.61328 z m -20.6708,13.89974 v -10.57292 l 9.2904,5.28646 z"
-       id="path10990"
-       style="fill:#000000;fill-opacity:1;stroke-width:0.0651043" />
+       id="path20163-7-5"
+       style="fill:#ffffff" />
+    <g
+       id="g16323"
+       transform="matrix(0.70920113,0,0,0.70920113,526.19146,76.993913)">
+      <path
+         fill="#1a73e8"
+         d="m 1906,-9 c -4.4,-1.4 -9.2,-2.2 -14.1,-2.2 -14.1,0 -26.8,6.4 -35.3,16.5 l 21.8,18.3 z"
+         id="path16056" />
+      <path
+         fill="#ea4335"
+         d="m 1856.6,5.3 c -6.7,8 -10.8,18.4 -10.8,29.6 0,8.7 1.7,15.7 4.6,22 l 28,-33.3 z"
+         id="path16058" />
+      <path
+         fill="#4285f4"
+         d="m 1892,17.3 c 9.8,0 17.7,7.9 17.7,17.7 0,4.3 -1.6,8.3 -4.2,11.4 0,0 13.9,-16.6 27.5,-32.7 -5.6,-10.8 -15.3,-19 -27,-22.7 l -27.6,32.6 c 3.3,-3.8 8.1,-6.3 13.6,-6.3"
+         id="path16060" />
+      <path
+         fill="#fbbc04"
+         d="m 1892,52.6 c -9.8,0 -17.7,-7.9 -17.7,-17.7 0,-4.3 1.5,-8.3 4.1,-11.3 l -28,33.3 c 4.8,10.6 12.8,19.2 21,29.9 l 34.1,-40.5 c -3.3,3.9 -8.1,6.3 -13.5,6.3"
+         id="path16062" />
+      <path
+         fill="#34a853"
+         d="m 1904.9,98 c 15.4,-24.1 33.3,-35 33.3,-63 0,-7.7 -1.9,-14.9 -5.2,-21.3 l -61.6,73.1 c 2.6,3.4 5.3,7.3 7.9,11.3 9.4,14.5 6.8,23.1 12.8,23.1 6,0 3.4,-8.7 12.8,-23.2"
+         id="path16064" />
+    </g>
   </a>
   <path
      style="fill:#000000;stroke-width:0.431033"
@@ -7712,15 +6624,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan3244"><tspan
+         id="tspan56308"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan3242">PB
+           id="tspan56306">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan3248"><tspan
+         id="tspan56312"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan3246">079</tspan></tspan></text>
+           id="tspan56310">079</tspan></tspan></text>
   </g>
   <g
      id="g39523"
@@ -8281,4 +7193,1472 @@
      d="M 1143.6225,1319.5311 H 119.36074"
      id="path3275"
      sodipodi:nodetypes="cc" />
+  <rect
+     style="fill:#fff5f5;fill-opacity:0.01;stroke-width:3.16729;stroke-linecap:round;stroke-linejoin:round"
+     id="rect37385"
+     width="1920"
+     height="1157.1097"
+     x="0"
+     y="151.52676" />
+  <g
+     transform="matrix(-0.96879263,-0.09397478,0.09397478,-0.96879263,2259.6736,1127.7191)"
+     id="g879">
+    <path
+       d="M 569.76546,636.43432 C 570.54546,637.03432 573.5,650 571.5,650 c 9.8,5.9 0.46546,-12.56568 -1.73454,-13.56568 z"
+       fill="#902828"
+       id="path855"
+       sodipodi:nodetypes="ccc" />
+    <path
+       d="m 589.45412,635.51881 c -2.26563,-0.31568 -39.57342,2.68068 -40.03712,3.18413 4.85127,2.85692 41.32079,-2.00656 40.03712,-3.18413 z"
+       fill="#999999"
+       id="path114784-8-6-1"
+       sodipodi:nodetypes="ccc"
+       style="fill:#09560d;fill-opacity:1;stroke-width:0.740451" />
+    <path
+       d="m 564,636 c 0.38,0.58 -7.8,15 -7.9,15 7.6,5.7 8.8,-14 7.9,-15 z"
+       fill="#c33636"
+       id="path857" />
+    <path
+       d="m 604.48284,659.82882 c -0.25,-0.65 -24.73842,-1.93646 -24.73842,-1.83646 -0.29,-9.5 24.73842,0.43646 24.73842,1.83646 z"
+       fill="#c33636"
+       id="path859"
+       style="fill:#fc792e;fill-opacity:1"
+       sodipodi:nodetypes="ccc" />
+    <path
+       d="m 548,639 8.9,11 c -10,6.3 -18,2.8 -10,12 0.47,0.53 2.7,3.1 3.8,3.2 0.19,0.016 -0.52,-3.3 0.42,-2.8 1.8,0.89 4.7,3.2 5.7,3.6 1,0.41 0.13,-3.2 0.48,-3.2 1.6,-0.59 6.28401,-3.25438 7.88401,-3.15438 13.58537,-1.3884 16.91924,-0.11416 19.33678,-3.85602 5.91375,-9.15326 6.52443,-22.17391 4.7763,-20.49081 0.0545,6.25262 -5.59975,8.43008 -8.90374,12.64227 0.78,-0.79 -15.89335,2.07894 -17.89335,1.05894 -2.3,-2.3 -13,-11 -14,-10 z"
+       fill="url(#linearGradient150088-3)"
+       id="path861"
+       style="fill:url(#linearGradient150088-3)"
+       sodipodi:nodetypes="ccccccccsccccc" />
+    <path
+       d="m 550.46346,654.03115 c -1.8,-0.62 -7.18633,-1.22384 -8.88633,3.30616 5.2,4.6 12.88633,-0.50616 8.88633,-3.30616 z"
+       fill="#ff9955"
+       id="path863"
+       sodipodi:nodetypes="ccc" />
+    <path
+       d="m 544,658 c -1.3,-1.3 -2.7,-2.2 -2.7,-0.15 0.13,0.68 1.5,0.82 2.7,0.15 z"
+       id="path865" />
+    <g
+       transform="matrix(0.9,-0.43,-0.43,-0.9,335,1488)"
+       id="g871">
+      <ellipse
+         cx="553"
+         cy="656"
+         rx="0.92000002"
+         ry="0.94999999"
+         id="ellipse867" />
+      <ellipse
+         cx="552.74921"
+         cy="655.63696"
+         rx="0.54000002"
+         ry="0.56"
+         fill="#ffffff"
+         id="ellipse869"
+         style="fill:url(#linearGradient53064);fill-opacity:1" />
+    </g>
+    <g
+       transform="matrix(0.9,-0.43,-0.43,-0.9,330.41163,1488.3246)"
+       id="g6327">
+      <ellipse
+         cx="553"
+         cy="656"
+         rx="0.92000002"
+         ry="0.94999999"
+         id="ellipse6323" />
+      <ellipse
+         cx="552.74921"
+         cy="655.63696"
+         rx="0.54000002"
+         ry="0.56"
+         fill="#ffffff"
+         id="ellipse6325"
+         style="fill:url(#linearGradient6189);fill-opacity:1" />
+    </g>
+  </g>
+  <g
+     id="g40254"
+     transform="translate(-412.7758,72.053625)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle40248"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.02728"
+       y="562.84814"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text40252"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.02728"
+         y="562.84814"
+         id="tspan40250"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">10</tspan></text>
+  </g>
+  <a
+     class="svgobj"
+     transform="matrix(0.90181848,0,0,0.90181848,3.4605734,69.776607)"
+     target="blank"
+     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
+     xlink:title="Fauna Brasileira | Bem-te-Vi"
+     id="a19124">
+    <g
+       transform="matrix(1.4,0,0,1.4,-323,-184)"
+       id="g19122">
+      <path
+         id="path19110"
+         style="fill:url(#linearGradient68983);fill-opacity:1"
+         d="m 997.81943,593.5533 -5.31868,1.34727 c 1.96789,0.43483 5.76603,1.23654 7.49919,2.09866 -1.26354,3.45093 1.62016,8.62134 12.99956,12.00099 8.5724,8.81916 15.0368,8.06579 18.5292,8.43725 -20.683,-9.77901 -11.6824,-14.06736 -25.5291,-21.43682 1.2923,-5.38045 -7.57795,-6.28881 -8.18017,-2.44735 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         d="m 1000,597 c -1.01056,3.45563 1.6268,8.71388 13,12 -7.3432,-4.33834 -5.2604,-9.72881 -13,-12 z"
+         fill="url(#linearGradient110786)"
+         id="path19114"
+         style="fill:url(#linearGradient110786)"
+         sodipodi:nodetypes="ccc" />
+      <ellipse
+         cx="1000"
+         cy="594"
+         rx="0.77999997"
+         ry="0.74000001"
+         id="ellipse19116" />
+      <ellipse
+         cx="999.92877"
+         cy="593.73279"
+         rx="0.55616093"
+         ry="0.52763993"
+         fill="#ffffff"
+         id="ellipse19118"
+         style="fill:url(#linearGradient80444);fill-opacity:1;stroke-width:1.42605" />
+      <path
+         d="m 999.48497,592.01936 c 3.00003,-0.5 5.21503,1.52064 6.61503,2.18064 -0.78,-2.4 -4.215,-3.88064 -6.61503,-2.18064 z"
+         fill="#ffffff"
+         id="path19120"
+         sodipodi:nodetypes="ccc"
+         style="fill:#ffcc00;fill-opacity:1" />
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="matrix(-1,0,0,1,1892.5764,-314.58441)"
+     target="blank"
+     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
+     xlink:title="Fauna Brasileira | Bem-te-Vi"
+     id="a133386">
+    <g
+       transform="matrix(1.4,0,0,1.4,-323,-184)"
+       id="g133384">
+      <path
+         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 5.7272,3.11566 10.3093,7.44543 17.6175,8.88482 C 1024.9157,614.36834 1021.0327,610.1555 1017,606 c -2.7,-4.1 -6.5,-8.5 -11,-10 1.3,-8 -13,-5 -6.5,0.56 z"
+         fill="url(#linearGradient30137)"
+         id="path133372"
+         style="fill:url(#linearGradient30137)"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         d="M 998.41357,593.72295 992.5,594.9 l 8.1,1.7 c -0.80984,-0.9368 -1.87634,-1.80322 -2.18643,-2.87705 z"
+         fill="url(#linearGradient30139)"
+         id="path133374"
+         style="fill:url(#linearGradient30139)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 3.5,-8.5 -5.9,-2.8 -13,-12 z"
+         fill="url(#linearGradient30141)"
+         id="path133376"
+         style="fill:url(#linearGradient34915)" />
+      <g
+         id="g18654">
+        <ellipse
+           cx="1000"
+           cy="594"
+           rx="0.77999997"
+           ry="0.74000001"
+           id="ellipse133378" />
+        <ellipse
+           cx="999.82239"
+           cy="593.74304"
+           rx="0.50854248"
+           ry="0.48246339"
+           fill="#ffffff"
+           id="ellipse133380"
+           style="fill:url(#linearGradient51363);fill-opacity:1;stroke-width:1.30396" />
+      </g>
+      <path
+         d="m 999.95536,592.41752 c 3.00004,-0.5 4.74464,1.12248 6.14464,1.78248 -0.78,-2.4 -3.7446,-3.48248 -6.14464,-1.78248 z"
+         fill="#ffffff"
+         id="path133382"
+         sodipodi:nodetypes="ccc"
+         style="fill:#14ffb0;fill-opacity:1" />
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="matrix(-0.80957363,0,0,0.80957363,1414.8992,524.50859)"
+     target="blank"
+     xlink:href="https://butantan.gov.br/bubutantan/teiu-um-lagarto-tao-brasileiro-que-voce-com-certeza-ja-viu-por-ai"
+     xlink:title="Fauna Brasileira | Teiu"
+     id="a133370">
+    <path
+       d="m 959.5778,409.00033 c 2.67457,0.64077 47.5805,-0.91285 48.1938,-1.46149 -5.4737,-3.98192 -49.59324,-0.0967 -48.1938,1.46149 z"
+       fill="#999999"
+       id="path114784-8-6-7-3"
+       sodipodi:nodetypes="ccc"
+       style="fill:#09560d;fill-opacity:1;stroke-width:0.890235" />
+    <g
+       transform="matrix(0.82857907,0,0,0.82857907,244.03552,61.073719)"
+       id="g133368">
+      <path
+         d="m 917,402 c 11,-6.3 15,-5.3 26,-3.6 -6.2,7.4 -15,7.7 -24,13 -6.2,5.4 2.1,7.2 4.7,9.1 -6.9,-0.57 -14,-3.1 -14,-6.8 l -21,1.4 7.6,5.8 c -2.4,-0.74 -17,-0.48 -13,-4.7 -23,14 -50,0.01 -51,-13 25,31 46,0.36 85,-1.2 z"
+         fill="url(#linearGradient30135)"
+         id="path133362"
+         style="fill:url(#linearGradient30135)" />
+      <g
+         id="g18654-6"
+         transform="matrix(2.3057405,0,0,2.3057405,-1376.7056,-969.81974)">
+        <ellipse
+           cx="1000"
+           cy="594"
+           rx="0.77999997"
+           ry="0.74000001"
+           id="ellipse133378-6" />
+        <ellipse
+           cx="999.82239"
+           cy="593.74304"
+           rx="0.50854248"
+           ry="0.48246339"
+           fill="#ffffff"
+           id="ellipse133380-4"
+           style="fill:url(#linearGradient18714);fill-opacity:1;stroke-width:1.30396" />
+      </g>
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(58,215.9)"
+     filter="url(#filter29393)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a1837">
+    <g
+       transform="matrix(0.74,0,0,0.74,-19,923.7)"
+       fill="none"
+       id="g1827">
+      <rect
+         x="990"
+         y="43"
+         width="191"
+         height="117"
+         rx="0"
+         ry="0"
+         id="rect1825" />
+    </g>
+    <g
+       id="g1756"
+       transform="translate(0,15.6)">
+      <use
+         transform="translate(659)"
+         xlink:href="#use20181"
+         id="use1823" />
+      <text
+         x="786.90851"
+         y="1006.31"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         style="line-height:1;fill:#000000"
+         xml:space="preserve"
+         id="text1831"><tspan
+           x="786.90851"
+           y="1006.31"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-width="0.6"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan1829"
+           style="fill:#000000">Avicultura</tspan></text>
+    </g>
+    <path
+       d="M 787,986.6 V 931 H 889 V 697"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1835"
+       style="marker-end:url(#Dot-1)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(58,212.68)"
+     filter="url(#filter29417)"
+     target="blank"
+     xlink:href="https://maps.app.goo.gl/TixxipEJzBharDT66"
+     id="a1849">
+    <g
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g1847"
+       transform="translate(0,18)">
+      <use
+         transform="translate(989,0.82)"
+         xlink:href="#use20181"
+         id="use1839" />
+      <text
+         x="1116.2551"
+         y="1007.9888"
+         fill="#ccff00"
+         font-family="'Open Sans'"
+         font-size="24px"
+         font-weight="500"
+         stroke-width="0.71"
+         xml:space="preserve"
+         id="text1843"
+         style="fill:#000000"><tspan
+           x="1116.2551"
+           y="1007.9888"
+           fill="#ccff00"
+           font-family="'Open Sans'"
+           font-size="24px"
+           font-weight="600"
+           stroke-width="0.71"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan1841"
+           style="fill:#000000">Acesso</tspan></text>
+      <path
+         d="m 1114,972 v -54 l 296,-2.2"
+         fill="none"
+         marker-end="url(#Dot-1)"
+         stroke="#000000"
+         stroke-width="2"
+         id="path1845"
+         style="marker-end:url(#Dot-1)" />
+    </g>
+    <path
+       id="path106248-8"
+       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       d="m 1171.1362,965.82 13.8638,20 h -27.7276 z"
+       sodipodi:nodetypes="cccc" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(52,222.7)"
+     filter="url(#filter29405)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a1861">
+    <path
+       d="M 954,980 V 729 h 575"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1851"
+       style="marker-end:url(#Dot-1)" />
+    <g
+       transform="translate(0,1.7)"
+       id="g1859">
+      <use
+         transform="translate(829,7.1)"
+         xlink:href="#use20181"
+         id="use1853" />
+      <text
+         x="956.58026"
+         y="1011.0199"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.74"
+         style="line-height:1;fill:#000000"
+         xml:space="preserve"
+         id="text1857"><tspan
+           x="956.58026"
+           y="1011.0199"
+           dominant-baseline="auto"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stop-color="#000000"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           text-align="center"
+           text-anchor="middle"
+           style="line-height:1;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
+           id="tspan1855">Aquicultura</tspan></text>
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(58,215.6)"
+     filter="url(#filter29369)"
+     target="blank"
+     xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
+     id="a1879">
+    <use
+       transform="matrix(0.74,0,0,0.74,-349,924)"
+       xlink:href="#rect30639"
+       id="use1863" />
+    <path
+       d="M 456,955.6391 V 822 H 711 V 403 h 444"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1865"
+       sodipodi:nodetypes="ccccc"
+       style="marker-end:url(#Dot-1)" />
+    <g
+       transform="translate(12,-11)"
+       fill="#000080"
+       id="g1877">
+      <text
+         x="443.2392"
+         y="993.53271"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text1875"><tspan
+           x="443.2392"
+           y="993.53271"
+           text-align="center"
+           id="tspan1869"
+           style="fill:#000000"><tspan
+   fill="#ffffff"
+   font-family="'Open Sans'"
+   font-weight="800"
+   id="tspan1867"
+   style="fill:#000000">RU</tspan> </tspan><tspan
+           x="443.2392"
+           y="1017.5327"
+           text-align="center"
+           id="tspan1871"
+           style="fill:#000000">Restaurante</tspan><tspan
+           x="443.2392"
+           y="1041.5327"
+           text-align="center"
+           id="tspan1873"
+           style="fill:#000000">Universitário</tspan></text>
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(930,-777.82)"
+     filter="url(#filter29357)"
+     target="blank"
+     xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-3"
+     id="a1907">
+    <path
+       d="m 290,1000 v 340 h -88"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1881"
+       style="marker-end:url(#Dot-1)" />
+    <g
+       transform="translate(-5.5)"
+       id="g1905">
+      <g
+         transform="translate(-313)"
+         id="g1895">
+        <text
+           x="616.15771"
+           y="993.53955"
+           fill="#fff6d5"
+           font-family="'Open Sans'"
+           font-size="21px"
+           font-weight="600"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           text-anchor="middle"
+           style="line-height:1"
+           xml:space="preserve"
+           id="text1889"><tspan
+             x="616.15771"
+             y="993.53955"
+             text-align="center"
+             id="tspan1883">Laboratório </tspan><tspan
+             x="616.15771"
+             y="1014.8729"
+             text-align="center"
+             id="tspan1885">de </tspan><tspan
+             x="616.15771"
+             y="1036.2062"
+             text-align="center"
+             id="tspan1887">Informática</tspan></text>
+        <g
+           transform="matrix(0.74,0,0,0.74,-195,924)"
+           id="g1893">
+          <rect
+             x="990"
+             y="43"
+             width="191"
+             height="117"
+             rx="0"
+             ry="0"
+             id="rect1891"
+             style="fill:#00ffff" />
+        </g>
+      </g>
+      <text
+         x="296.30869"
+         y="980.34326"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text1903"><tspan
+           x="296.30869"
+           y="980.34326"
+           font-weight="800"
+           text-align="center"
+           id="tspan1897"
+           style="fill:#000000">CCHSA </tspan><tspan
+           x="296.30869"
+           y="1004.3433"
+           font-weight="600"
+           text-align="center"
+           id="tspan1899"
+           style="fill:#000000">Vidal de</tspan><tspan
+           x="296.30869"
+           y="1028.3433"
+           font-weight="600"
+           text-align="center"
+           id="tspan1901"
+           style="fill:#000000">Negreiros</tspan></text>
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(58,231.5)"
+     filter="url(#filter29345)"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     target="blank"
+     xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/biblioteca-cchsa/apresentacao"
+     id="a1916">
+    <rect
+       id="use20181"
+       x="55"
+       y="971"
+       width="141"
+       height="55"
+       rx="0"
+       ry="0"
+       filter="url(#filter29405)"
+       stroke="#000000"
+       style="fill:#00ffff;stroke:none" />
+    <text
+       x="126.46609"
+       y="1007.0044"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="500"
+       stroke-width="0.75"
+       style="line-height:1;fill:#000000"
+       xml:space="preserve"
+       id="text1912"><tspan
+         x="126.46609"
+         y="1007.0044"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-width="0.75"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan1910"
+         style="fill:#000000">Biblioteca</tspan></text>
+    <path
+       d="M 127,971 V 696 H 286 V 396"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-width="2"
+       id="path1914"
+       style="marker-end:url(#Dot-1)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(58,215.6)"
+     filter="url(#filter29381)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a1941">
+    <path
+       d="M 619,976 V 882 H 779 V 578 l 167.60204,1.5"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1918"
+       sodipodi:nodetypes="ccccc"
+       style="marker-end:url(#Dot-1)" />
+    <g
+       transform="translate(11)"
+       id="g1931">
+      <text
+         x="616.15771"
+         y="993.53955"
+         fill="#fff6d5"
+         font-family="'Open Sans'"
+         font-size="21px"
+         font-weight="600"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1"
+         xml:space="preserve"
+         id="text1926"><tspan
+           x="616.15771"
+           y="993.53955"
+           text-align="center"
+           id="tspan1920">Laboratório </tspan><tspan
+           x="616.15771"
+           y="1014.8729"
+           text-align="center"
+           id="tspan1922">de </tspan><tspan
+           x="616.15771"
+           y="1036.2062"
+           text-align="center"
+           id="tspan1924">Informática</tspan></text>
+      <g
+         transform="matrix(0.74,0,0,0.74,-195,924)"
+         id="g1929">
+        <rect
+           id="rect30639"
+           x="990"
+           y="43"
+           width="191"
+           height="117"
+           rx="0"
+           ry="0"
+           style="fill:#00ffff" />
+      </g>
+    </g>
+    <text
+       x="622.30438"
+       y="983.06787"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="600"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.6"
+       text-anchor="middle"
+       style="line-height:1.2;fill:#000000"
+       xml:space="preserve"
+       id="text1939"><tspan
+         x="622.30438"
+         y="983.06787"
+         text-align="center"
+         id="tspan1933"
+         style="fill:#000000">Laboratório </tspan><tspan
+         x="622.30438"
+         y="1007.0679"
+         text-align="center"
+         id="tspan1935"
+         style="fill:#000000">de </tspan><tspan
+         x="622.30438"
+         y="1031.0679"
+         text-align="center"
+         id="tspan1937"
+         style="fill:#000000">Informática</tspan></text>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(58,39.5)"
+     filter="url(#filter29333)"
+     target="blank"
+     xlink:href="https://maps.app.goo.gl/L7DKsJtCuxBmutLC7"
+     id="a1957">
+    <use
+       transform="translate(-2.4e-6,-832)"
+       xlink:href="#use20181"
+       id="use1943" />
+    <g
+       transform="translate(19,-7)"
+       id="g1951">
+      <use
+         transform="translate(-1000,-818)"
+         fill="#000000"
+         xlink:href="#g43149"
+         id="use1945" />
+      <text
+         x="108.085"
+         y="182.62202"
+         fill="#ccff00"
+         font-family="'Open Sans'"
+         font-size="27px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.71"
+         xml:space="preserve"
+         id="text1949"
+         style="fill:#000000"><tspan
+           x="108.085"
+           y="182.62202"
+           fill="#ccff00"
+           font-family="'Open Sans'"
+           font-weight="600"
+           stroke-width="0.71"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan1947"
+           style="fill:#000000">Acessos</tspan></text>
+    </g>
+    <path
+       d="M 118,194 V 732.29429 H 79"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1953"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
+    <path
+       d="M 134,194 V 442.86186 H 236"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1955"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
+    <path
+       id="path106248"
+       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       d="M 182.1362,115 196,135 h -27.72756 z"
+       sodipodi:nodetypes="cccc" />
+  </a>
+  <g
+     id="g29489"
+     transform="translate(377.61327,7.456505)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="path29134"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="757.84058"
+       y="562.84814"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text29436"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="757.84058"
+         y="562.84814"
+         id="tspan29434"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
+  </g>
+  <g
+     id="g29545"
+     transform="translate(461.71475,62.524567)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle29539"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.52325"
+       y="563.92017"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text29543"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.52325"
+         y="563.92017"
+         id="tspan29541"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
+  </g>
+  <g
+     id="g39862"
+     transform="translate(833.14416,389.45972)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle39856"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.46454"
+       y="562.89081"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text39860"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.46454"
+         y="562.89081"
+         id="tspan39858"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
+  </g>
+  <g
+     id="g39918"
+     transform="translate(247.86555,237.93975)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle39912"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.41125"
+       y="562.74152"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text39916"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.41125"
+         y="562.74152"
+         id="tspan39914"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
+  </g>
+  <a
+     class="svgobj"
+     transform="translate(248,376.6)"
+     filter="url(#filter29465)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a2035">
+    <g
+       transform="matrix(0.74,0,0,0.74,-703,763)"
+       id="g2023">
+      <rect
+         x="990"
+         y="43"
+         width="191"
+         height="117"
+         rx="0"
+         ry="0"
+         id="rect2021"
+         style="fill:#00ffff" />
+    </g>
+    <text
+       x="100.94586"
+       y="822.59528"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="600"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.65"
+       text-anchor="middle"
+       style="line-height:1.2;fill:#000000"
+       xml:space="preserve"
+       id="text2031"><tspan
+         x="100.94586"
+         y="822.59528"
+         text-align="center"
+         id="tspan2025"
+         style="fill:#000000">Laboratório</tspan><tspan
+         x="100.94586"
+         y="846.59528"
+         text-align="center"
+         id="tspan2027"
+         style="fill:#000000">de</tspan><tspan
+         x="100.94586"
+         y="870.59528"
+         text-align="center"
+         id="tspan2029"
+         style="fill:#000000">Sementes</tspan></text>
+    <path
+       d="M 100,795 V 615 h 80 V 439"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2033"
+       style="marker-end:url(#Dot-1)" />
+  </a>
+  <g
+     id="g40198"
+     transform="translate(-331.96348,255.62443)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle40192"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.49658"
+       y="562.84814"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text40196"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.49658"
+         y="562.84814"
+         id="tspan40194"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">9</tspan></text>
+  </g>
+  <a
+     class="svgobj"
+     transform="translate(126,-800.7)"
+     filter="url(#filter29453)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a2045">
+    <use
+       transform="translate(481,8.2)"
+       xlink:href="#use20181"
+       id="use2037" />
+    <text
+       x="606.56787"
+       y="1013.5318"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="500"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.58"
+       style="line-height:1;fill:#000000"
+       xml:space="preserve"
+       id="text2041"><tspan
+         x="606.56787"
+         y="1013.5318"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-width="0.58"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan2039"
+         style="fill:#000000">Suinocultura</tspan></text>
+    <path
+       d="m 606,1034 v 331 h 94"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2043"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
+  </a>
+  <g
+     id="g40142"
+     transform="translate(68.692307,11.276857)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle40136"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.4859"
+       y="562.84814"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text40140"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.4859"
+         y="562.84814"
+         id="tspan40138"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
+  </g>
+  <a
+     class="svgobj"
+     transform="translate(296,-800.7)"
+     filter="url(#filter29441)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a2055">
+    <use
+       transform="translate(477,8.2)"
+       xlink:href="#use20181"
+       id="use2047" />
+    <path
+       d="M 603,1034.9716 V 1226"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2049"
+       sodipodi:nodetypes="cc"
+       style="marker-end:url(#Dot-1)" />
+    <text
+       x="603.53607"
+       y="1014.232"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="500"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.6"
+       style="line-height:1;fill:#000000"
+       xml:space="preserve"
+       id="text2053"><tspan
+         x="603.53607"
+         y="1014.232"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-width="0.6"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan2051"
+         style="fill:#000000">Apicultura</tspan></text>
+  </a>
+  <g
+     id="g40086"
+     transform="translate(143.27026,-125.81226)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle40080"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.52325"
+       y="563.92017"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text40084"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.52325"
+         y="563.92017"
+         id="tspan40082"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
+  </g>
+  <a
+     class="svgobj"
+     transform="translate(465,-784.82)"
+     filter="url(#filter29429)"
+     target="blank"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     id="a2071">
+    <path
+       d="m 593,1000 v 238 H 454 v 105"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2057"
+       style="marker-end:url(#Dot-1)" />
+    <g
+       transform="matrix(0.74,0,0,0.74,-210,931)"
+       id="g2061">
+      <rect
+         x="990"
+         y="43"
+         width="191"
+         height="117"
+         rx="0"
+         ry="0"
+         id="rect2059"
+         style="fill:#00ffff" />
+    </g>
+    <text
+       x="596.81781"
+       y="990.35413"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="600"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.6"
+       text-anchor="middle"
+       style="line-height:1.2;fill:#000000"
+       xml:space="preserve"
+       id="text2069"><tspan
+         x="596.81781"
+         y="990.35413"
+         text-align="center"
+         id="tspan2063"
+         style="fill:#000000">Laboratório </tspan><tspan
+         x="596.81781"
+         y="1014.3541"
+         text-align="center"
+         id="tspan2065"
+         style="fill:#000000">de </tspan><tspan
+         x="596.81781"
+         y="1038.3541"
+         text-align="center"
+         id="tspan2067"
+         style="fill:#000000">Bebidas</tspan></text>
+  </a>
+  <g
+     id="g39974"
+     transform="translate(162.53554,0.722643)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle39968"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.38989"
+       y="562.84814"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text39972"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.38989"
+         y="562.84814"
+         id="tspan39970"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
+  </g>
+  <a
+     class="svgobj"
+     transform="translate(915,-784.82)"
+     filter="url(#filter29477)"
+     target="blank"
+     xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios/laboratorio-da-brinquedoteca-o-graozinho"
+     id="a2089">
+    <path
+       d="m 595,1000 v 369 h -76"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2073"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
+    <g
+       transform="translate(-20)"
+       id="g2087">
+      <g
+         transform="matrix(0.74,0,0,0.74,-190,931)"
+         id="g2077">
+        <rect
+           x="990"
+           y="43"
+           width="191"
+           height="117"
+           rx="0"
+           ry="0"
+           id="rect2075"
+           style="fill:#00ffff" />
+      </g>
+      <text
+         x="616.15771"
+         y="993.53955"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1;fill:#000000"
+         xml:space="preserve"
+         id="text2085"><tspan
+           x="616.15771"
+           y="993.53955"
+           text-align="center"
+           id="tspan2079"
+           style="fill:#000000">Laboratório </tspan><tspan
+           x="616.15771"
+           y="1013.5396"
+           text-align="center"
+           id="tspan2081"
+           style="fill:#000000">de </tspan><tspan
+           x="616.15771"
+           y="1033.5396"
+           text-align="center"
+           id="tspan2083"
+           style="fill:#000000">Ensino</tspan></text>
+    </g>
+  </a>
+  <g
+     id="g39806"
+     transform="translate(680.25085,25.587376)">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       id="circle39800"
+       cx="756.47522"
+       cy="555.23218"
+       r="15" />
+    <text
+       x="756.52325"
+       y="563.92017"
+       fill="#666666"
+       font-family="'Open Sans'"
+       font-size="32.0124px"
+       font-weight="500"
+       text-align="center"
+       text-anchor="middle"
+       xml:space="preserve"
+       id="text39804"
+       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+         x="756.52325"
+         y="563.92017"
+         id="tspan39802"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
+  </g>
+  <g
+     transform="matrix(1.2620252,0,0,1.2620252,1491.4178,1160.2456)"
+     style="display:inline;fill:#b3b3b3;enable-background:new"
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     inkscape:export-filename="/home/val/Área de Trabalho/sti_logo_cor.png"
+     id="g8456">
+    <rect
+       y="215.49812"
+       x="221.42191"
+       height="8.5559225"
+       width="8.5559225"
+       id="rect8405"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.285197" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.285197"
+       id="rect8407"
+       width="8.5559225"
+       height="8.5559225"
+       x="221.42191"
+       y="238.03242" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+       id="rect8409"
+       width="5.1545982"
+       height="5.1545982"
+       x="223.06297"
+       y="228.36855" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+       id="rect8411"
+       width="5.1545982"
+       height="5.1545982"
+       x="231.62589"
+       y="235.38161" />
+    <rect
+       y="228.36855"
+       x="231.62589"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect8413"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+       id="rect8415"
+       width="5.1545982"
+       height="5.1545982"
+       x="231.62589"
+       y="221.35547" />
+    <rect
+       y="229.1725"
+       x="238.83466"
+       height="3.5466995"
+       width="3.5466995"
+       id="rect8417"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.118223" />
+    <rect
+       y="222.83968"
+       x="238.8965"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect8419"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+       id="rect8421"
+       width="2.1861699"
+       height="2.1861699"
+       x="238.8965"
+       y="236.86581" />
+    <rect
+       y="242.59039"
+       x="233.11009"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect8423"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+       id="rect8426"
+       width="2.1861699"
+       height="2.1861699"
+       x="233.11009"
+       y="217.30707" />
+    <rect
+       transform="scale(-1,1)"
+       y="235.38161"
+       x="-219.48315"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect8428"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+       id="rect8430"
+       width="5.1545982"
+       height="5.1545982"
+       x="-219.48315"
+       y="228.36855" />
+    <rect
+       transform="scale(-1,1)"
+       y="221.35547"
+       x="-219.48315"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect8432"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.118223"
+       id="rect8434"
+       width="3.5466995"
+       height="3.5466995"
+       x="-212.27437"
+       y="229.1725" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+       id="rect8436"
+       width="2.1861699"
+       height="2.1861699"
+       x="-212.21254"
+       y="222.83968" />
+    <rect
+       transform="scale(-1,1)"
+       y="236.86581"
+       x="-212.21254"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect8438"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+       id="rect8440"
+       width="2.1861699"
+       height="2.1861699"
+       x="-217.99893"
+       y="242.59039" />
+    <rect
+       transform="scale(-1,1)"
+       y="217.30707"
+       x="-217.99893"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect8442"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+    <g
+       aria-label="STI"
+       style="font-style:normal;font-weight:normal;font-size:11.4124px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.285311"
+       id="text8446"
+       transform="matrix(1.5299634,0,0,1.5299634,-130.80122,-114.04236)">
+      <path
+         d="m 261.25567,216.17881 v 4.22617 q -1.645,-0.73557 -3.20975,-1.11004 -1.56475,-0.37447 -2.95564,-0.37447 -1.8456,0 -2.72828,0.50821 -0.88268,0.50821 -0.88268,1.57813 0,0.80243 0.58845,1.25715 0.60183,0.44134 2.16658,0.76231 l 2.19332,0.44134 q 3.33012,0.6687 4.73438,2.03284 1.40426,1.36414 1.40426,3.87844 0,3.30337 -1.96597,4.92161 -1.95259,1.60488 -5.97815,1.60488 -1.8991,0 -3.81157,-0.3611 -1.91248,-0.3611 -3.82495,-1.06992 v -4.34653 q 1.91247,1.01642 3.69121,1.53801 1.79211,0.50821 3.45048,0.50821 1.68511,0 2.58117,-0.56171 0.89605,-0.5617 0.89605,-1.60487 0,-0.93618 -0.6152,-1.44439 -0.60183,-0.50821 -2.42068,-0.90943 l -1.99272,-0.44134 q -2.99576,-0.64194 -4.38665,-2.04621 -1.37752,-1.40426 -1.37752,-3.78482 0,-2.98239 1.92585,-4.58727 1.92585,-1.60487 5.53681,-1.60487 1.64499,0 3.38361,0.25411 1.73861,0.24073 3.59759,0.73556 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.3898px;font-family:'PrimaSans BT';-inkscape-font-specification:'PrimaSans BT Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.285311"
+         id="path3643-3"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 264.70614,215.55024 h 18.40255 v 3.89181 h -6.6201 v 16.07548 h -5.14897 v -16.07548 h -6.63348 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.3898px;font-family:'PrimaSans BT';-inkscape-font-specification:'PrimaSans BT Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.285311"
+         id="path3645-6"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 285.7701,215.55024 h 5.14897 v 19.96729 h -5.14897 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.3898px;font-family:'PrimaSans BT';-inkscape-font-specification:'PrimaSans BT Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.285311"
+         id="path3647-7"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
 </svg>

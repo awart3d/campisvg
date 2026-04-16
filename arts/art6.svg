@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="782"
-     inkscape:cy="750"
+     inkscape:cx="1316"
+     inkscape:cy="426"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -1290,6 +1290,74 @@
          id="stop20-7"
          style="stop-color:#f34400;stop-opacity:1;" />
     </linearGradient>
+    <marker
+       id="Dot-8-3"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path4-4-6" />
+    </marker>
+    <marker
+       id="marker39516"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path39514" />
+    </marker>
+    <marker
+       id="marker39520"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path39518" />
+    </marker>
+    <marker
+       id="marker39524"
+       overflow="visible"
+       markerHeight="5.6666665"
+       markerWidth="5.6666665"
+       orient="auto"
+       preserveAspectRatio="xMidYMid"
+       viewBox="0 0 5.6666667 5.6666667">
+      <path
+         transform="scale(0.5)"
+         d="M 5,0 C 5,2.8 2.8,5 0,5 -2.8,5 -5,2.8 -5,0 c 0,-2.8 2.3,-5 5,-5 2.8,0 5,2.2 5,5 z"
+         fill="context-stroke"
+         fill-rule="evenodd"
+         stroke="context-stroke"
+         stroke-width="1pt"
+         id="path39522" />
+    </marker>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -2579,27 +2647,6 @@
       </g>
     </a>
     <a
-       id="a10908-5"
-       xlink:href="https://www.instagram.com/ufpb.oficial/"
-       target="blank"
-       transform="translate(-201,-49.999995)"
-       class="svgobj"
-       xlink:title="UFPB"
-       xlink:show="UFPB Insta">
-      <rect
-         x="1816"
-         width="104"
-         height="80"
-         stop-color="#000000"
-         style="font-variation-settings:normal;fill:#ffffff;stroke-width:0.272165;-inkscape-stroke:none"
-         id="rect10902-4"
-         y="76" />
-      <path
-         d="m 1868.0031,107.02645 c -4.9593,-0.0157 -8.9891,3.99865 -9.0048,8.95793 -0.016,4.95927 3.9987,8.98917 8.9579,9.00479 4.9593,0.0156 8.9892,-3.99866 9.0048,-8.95793 0.016,-4.95928 -3.9987,-8.98918 -8.9579,-9.00479 z m -0.046,3.15518 c 3.2176,-0.0156 5.834,2.58508 5.8496,5.80275 0.016,3.21767 -2.5851,5.83398 -5.8028,5.8496 -3.2176,0.0156 -5.834,-2.58507 -5.8496,-5.80274 -0.016,-3.21768 2.5851,-5.834 5.8028,-5.84961 z m 7.2943,-3.52226 c 0,-1.15585 0.9372,-2.09305 2.0932,-2.09305 1.1558,0 2.093,0.9372 2.093,2.09305 0,1.15587 -0.9372,2.09306 -2.093,2.09306 -1.156,0 -2.0932,-0.93719 -2.0932,-2.09306 z m 10.1296,2.12429 c -0.133,-2.80375 -0.7733,-5.28729 -2.8273,-7.33348 -2.0461,-2.046184 -4.5297,-2.686595 -7.3334,-2.827172 -2.8897,-0.164008 -11.5509,-0.164008 -14.4406,0 -2.796,0.132768 -5.2795,0.773179 -7.3334,2.819362 -2.0539,2.04619 -2.6866,4.52974 -2.8273,7.33348 -0.1638,2.88966 -0.1638,11.55082 0,14.44048 0.133,2.80375 0.7734,5.2873 2.8273,7.33348 2.0539,2.04619 4.5297,2.6866 7.3334,2.82718 2.8897,0.16401 11.5509,0.16401 14.4406,0 2.8037,-0.13276 5.2873,-0.77318 7.3334,-2.82718 2.0462,-2.04618 2.6866,-4.52973 2.8273,-7.33348 0.1639,-2.88966 0.1639,-11.543 0,-14.43267 z m -3.7331,17.5332 c -0.6093,1.53074 -1.7885,2.71003 -3.3271,3.327 -2.3039,0.91377 -7.7708,0.70289 -10.3169,0.70289 -2.546,0 -8.0208,0.20306 -10.3169,-0.70289 -1.5307,-0.60916 -2.7099,-1.78845 -3.327,-3.327 -0.9137,-2.30392 -0.7029,-7.77084 -0.7029,-10.31686 0,-2.54602 -0.2031,-8.02076 0.7029,-10.31685 0.6093,-1.53076 1.7885,-2.71004 3.327,-3.32702 2.304,-0.91376 7.7709,-0.70289 10.3169,-0.70289 2.5461,0 8.0208,-0.20306 10.3169,0.70289 1.5307,0.60917 2.71,1.78846 3.3271,3.32702 0.9136,2.30391 0.7028,7.77083 0.7028,10.31685 0,2.54602 0.2108,8.02076 -0.7028,10.31686 z"
-         id="path10696"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.078099" />
-    </a>
-    <a
        id="a10554-3"
        xlink:href="https://maps.app.goo.gl/eA2GsMJGHigbagYT8"
        target="blank"
@@ -2621,51 +2668,32 @@
          fill-rule="evenodd"
          filter="url(#filter28765)"
          stroke-width="5"
-         id="path20163-7" />
-    </a>
-    <a
-       id="a11334-7"
-       xlink:href="https://www.tiktok.com/search?q=Universidade%20Federal%20da%20Paraiba"
-       target="blank"
-       transform="translate(-66,-61.999995)"
-       class="svgobj"
-       xlink:title="UFPB"
-       xlink:show="UFPB Tiktok">
-      <rect
-         x="1816"
-         width="104"
-         height="80"
-         stop-color="#000000"
-         style="font-variation-settings:normal;fill:#ffffff;stroke-width:0.272165;-inkscape-stroke:none"
-         id="rect11328-4"
-         y="88" />
-      <path
-         d="m 1880.9898,125.1641 c -2.5539,0.007 -5.0369,-0.78036 -7.0942,-2.27012 v 10.64119 c 0,1.91542 -0.5888,3.83084 -1.7025,5.39154 -1.0642,1.56071 -2.6249,2.76672 -4.4694,3.47613 -1.7735,0.67394 -3.7599,0.78035 -5.6044,0.30504 -1.8444,-0.4753 -3.547,-1.48976 -4.8239,-2.97953 -1.277,-1.48977 -2.0573,-3.2633 -2.2702,-5.17871 -0.2127,-1.91542 0.1703,-3.83084 1.0642,-5.53342 0.9222,-1.7026 2.341,-3.05048 4.0436,-3.90178 1.7026,-0.8513 3.6181,-1.206 5.5334,-0.92223 v 5.24965 c -0.8512,-0.26958 -1.7735,-0.26958 -2.6957,0.0234 -0.8514,0.29086 -1.6317,0.8513 -2.1282,1.56072 -0.5321,0.70941 -0.7804,1.63164 -0.7804,2.55388 0.01,0.92224 0.305,1.77353 0.8513,2.55388 0.5462,0.78036 1.2769,1.27695 2.1992,1.56072 0.8512,0.27667 1.7735,0.27667 2.6957,-0.007 0.8513,-0.28377 1.6317,-0.8513 2.1283,-1.56071 0.532,-0.70942 0.8513,-1.63165 0.8513,-2.55389 v -20.57298 h 5.1077 c -0.01,0.43274 0.034,0.8513 0.1136,1.27694 0.1773,0.92224 0.5462,1.84448 1.0641,2.62483 0.5391,0.78036 1.206,1.48977 2.0572,1.98636 1.1351,0.78035 2.483,1.13506 3.9018,1.13506 v 5.10778 z"
-         fill="#999999"
-         stroke-width="0.0581719"
-         id="path20157-4"
-         style="fill:#000000" />
-    </a>
-    <a
-       id="a10646"
-       xlink:href="https://www.youtube.com/@TVUFPB"
-       target="blank"
-       transform="translate(-336,-49.999995)"
-       class="svgobj"
-       xlink:title="UFPB"
-       xlink:show="UFPB Youtube">
-      <rect
-         x="1816"
-         width="104"
-         height="80"
-         stop-color="#000000"
-         style="font-variation-settings:normal;fill:#ffffff;stroke-width:0.272165;-inkscape-stroke:none"
-         id="rect10642"
-         y="76" />
-      <path
-         d="m 1885.0314,107.41276 c -0.4037,-1.54297 -1.6147,-2.7539 -3.1446,-3.16406 C 1879.1199,103.5 1868,103.5 1868,103.5 c 0,0 -11.1197,0 -13.8932,0.7487 -1.53,0.41016 -2.7345,1.62109 -3.1445,3.16406 -0.7422,2.79297 -0.7422,8.61328 -0.7422,8.61328 0,0 0,5.82031 0.7422,8.61329 0.41,1.53645 1.6145,2.70181 3.1445,3.11197 C 1856.8803,128.5 1868,128.5 1868,128.5 c 0,0 11.1199,0 13.8933,-0.7487 1.5298,-0.41016 2.7343,-1.57552 3.1445,-3.11197 0.7421,-2.79298 0.7421,-8.61329 0.7421,-8.61329 0,0 0,-5.82031 -0.7421,-8.61328 z m -20.6708,13.89974 v -10.57292 l 9.2904,5.28646 z"
-         id="path10990"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.0651043" />
+         id="path20163-7"
+         style="fill:#ffffff" />
+      <g
+         id="g16323"
+         transform="matrix(0.70920113,0,0,0.70920113,526.19146,76.993938)">
+        <path
+           fill="#1a73e8"
+           d="m 1906,-9 c -4.4,-1.4 -9.2,-2.2 -14.1,-2.2 -14.1,0 -26.8,6.4 -35.3,16.5 l 21.8,18.3 z"
+           id="path16056" />
+        <path
+           fill="#ea4335"
+           d="m 1856.6,5.3 c -6.7,8 -10.8,18.4 -10.8,29.6 0,8.7 1.7,15.7 4.6,22 l 28,-33.3 z"
+           id="path16058" />
+        <path
+           fill="#4285f4"
+           d="m 1892,17.3 c 9.8,0 17.7,7.9 17.7,17.7 0,4.3 -1.6,8.3 -4.2,11.4 0,0 13.9,-16.6 27.5,-32.7 -5.6,-10.8 -15.3,-19 -27,-22.7 l -27.6,32.6 c 3.3,-3.8 8.1,-6.3 13.6,-6.3"
+           id="path16060" />
+        <path
+           fill="#fbbc04"
+           d="m 1892,52.6 c -9.8,0 -17.7,-7.9 -17.7,-17.7 0,-4.3 1.5,-8.3 4.1,-11.3 l -28,33.3 c 4.8,10.6 12.8,19.2 21,29.9 l 34.1,-40.5 c -3.3,3.9 -8.1,6.3 -13.5,6.3"
+           id="path16062" />
+        <path
+           fill="#34a853"
+           d="m 1904.9,98 c 15.4,-24.1 33.3,-35 33.3,-63 0,-7.7 -1.9,-14.9 -5.2,-21.3 l -61.6,73.1 c 2.6,3.4 5.3,7.3 7.9,11.3 9.4,14.5 6.8,23.1 12.8,23.1 6,0 3.4,-8.7 12.8,-23.2"
+           id="path16064" />
+      </g>
     </a>
     <g
        id="g41206"
@@ -2808,241 +2836,6 @@
          x="163.48654"
          y="1399.8109"
          style="text-align:start;text-anchor:start" /></text>
-    <a
-       class="svgobj"
-       transform="translate(-465.32408,230.982)"
-       filter="url(#filter29417)"
-       target="blank"
-       xlink:href="https://maps.app.goo.gl/8iYzaq7byURfjrzz9"
-       xlink:title="Acesso"
-       id="a913"
-       xlink:show="Acesso">
-      <g
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         id="g911">
-        <path
-           d="M 1114,972 V 555"
-           fill="none"
-           marker-end="url(#Dot-8)"
-           stroke="#000000"
-           stroke-width="2"
-           id="path909"
-           style="marker-end:url(#Dot-8)"
-           sodipodi:nodetypes="cc" />
-        <path
-           id="rect104403-6-5"
-           style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-           d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
-           sodipodi:nodetypes="cccc" />
-        <g
-           id="g38418-1"
-           transform="matrix(0.74,0,0,0.74,311,934)">
-          <rect
-             x="990"
-             y="51"
-             width="191"
-             height="74"
-             rx="0"
-             ry="0"
-             filter="url(#filter29405)"
-             stroke="#000000"
-             stroke-width="1.4"
-             id="rect902"
-             style="fill:#00ffff;stroke:none;stroke-width:0;stroke-dasharray:none" />
-        </g>
-        <text
-           x="1116.2551"
-           y="1007.9888"
-           fill="#ccff00"
-           font-family="'Open Sans'"
-           font-size="24px"
-           font-weight="500"
-           stroke-width="0.71"
-           xml:space="preserve"
-           id="text907"
-           style="fill:#000000"><tspan
-             x="1116.2551"
-             y="1007.9888"
-             fill="#ccff00"
-             font-family="'Open Sans'"
-             font-size="24px"
-             font-weight="600"
-             stroke-width="0.71"
-             text-align="center"
-             text-anchor="middle"
-             id="tspan905"
-             style="fill:#000000">Acesso</tspan></text>
-      </g>
-    </a>
-    <a
-       class="svgobj"
-       transform="translate(508.29203,231.662)"
-       filter="url(#filter29381)"
-       target="blank"
-       xlink:href="https://www.ccj.ufpb.br/santarita/"
-       xlink:title="UFPB"
-       id="a980"
-       xlink:show="UFPB">
-      <path
-         d="M 619,971 618.83,688 771.77257,575.42399"
-         fill="none"
-         marker-end="url(#Dot-8)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="2"
-         id="path970"
-         style="marker-end:url(#Dot-8)"
-         sodipodi:nodetypes="ccc" />
-      <g
-         transform="translate(11)"
-         id="g974">
-        <use
-           transform="translate(-506,-0.68)"
-           filter="url(#filter29417)"
-           xlink:href="#g38418-1"
-           id="use972" />
-      </g>
-      <text
-         x="620.30731"
-         y="1007.0679"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text978"><tspan
-           x="620.30731"
-           y="1007.0679"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-width="0.6"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan976"
-           style="fill:#000000">Laboratórios</tspan></text>
-    </a>
-    <a
-       class="svgobj"
-       transform="translate(758.18163,207.9)"
-       filter="url(#filter29405)"
-       target="blank"
-       xlink:href="https://www.ccj.ufpb.br/santarita/"
-       xlink:title="UFPB"
-       id="a932"
-       xlink:show="UFPB">
-      <path
-         d="M 954,963 V 623 L 516,403"
-         fill="none"
-         marker-end="url(#Dot-8)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="2"
-         id="path915"
-         style="marker-end:url(#Dot-8)"
-         sodipodi:nodetypes="ccc" />
-      <g
-         transform="translate(0,1.7)"
-         id="g930">
-        <g
-           id="g38418"
-           transform="matrix(0.74,0,0,0.74,151,930)">
-          <rect
-             x="990"
-             y="43"
-             width="191"
-             height="117"
-             rx="0"
-             ry="0"
-             id="rect917"
-             style="fill:#00ffff" />
-        </g>
-        <text
-           x="955.41327"
-           y="1000.8607"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           text-anchor="middle"
-           style="line-height:1.2;fill:#000000"
-           xml:space="preserve"
-           id="text928"><tspan
-             sodipodi:role="line"
-             id="tspan11701"
-             x="955.41327"
-             y="1000.8607">Central</tspan><tspan
-             sodipodi:role="line"
-             id="tspan11703"
-             x="955.41327"
-             y="1024.8607">de Aulas</tspan></text>
-      </g>
-    </a>
-    <a
-       class="svgobj"
-       transform="translate(582.69959,231.662)"
-       filter="url(#filter29357)"
-       target="blank"
-       xlink:href="https://www.ccj.ufpb.br/santarita/"
-       id="a956"
-       xlink:title="UFPB"
-       xlink:show="UFPB">
-      <path
-         d="M 290,971 V 650.90173 L 485.30421,516.64702"
-         fill="none"
-         marker-end="url(#Dot-8)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="2"
-         id="path946"
-         style="marker-end:url(#Dot-8)"
-         sodipodi:nodetypes="ccc" />
-      <g
-         transform="translate(-5.5)"
-         id="g954">
-        <use
-           transform="translate(-819,-0.68)"
-           filter="url(#filter29417)"
-           xlink:href="#g38418-1"
-           id="use948" />
-        <text
-           x="296.67978"
-           y="1007.0044"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="500"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           style="line-height:1.2;fill:#000000"
-           xml:space="preserve"
-           id="text952"><tspan
-             x="296.67978"
-             y="1007.0044"
-             fill="#ffffff"
-             font-family="'Open Sans'"
-             font-size="20px"
-             font-weight="600"
-             stroke-width="0.6"
-             text-align="center"
-             text-anchor="middle"
-             id="tspan950"
-             style="fill:#000000">Auditório</tspan></text>
-      </g>
-    </a>
     <use
        x="0"
        y="0"
@@ -3200,7 +2993,7 @@
        sodipodi:nodetypes="cc" />
     <g
        id="g127337"
-       transform="translate(1955.9841,-106.61163)">
+       transform="translate(1955.9841,-76.61163)">
       <g
          id="g2098"
          transform="matrix(0,-2.5926681,2.5926681,0,-102.74464,688.35691)"
@@ -3232,6 +3025,500 @@
          d="m -198.48574,457.15168 v -13.97886 l 13.302,13.30207 v -13.82135"
          id="path12547-5"
          sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       transform="matrix(1.2620252,0,0,1.2620252,1491.4178,1160.2456)"
+       style="display:inline;fill:#b3b3b3;enable-background:new"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/val/Área de Trabalho/sti_logo_cor.png"
+       id="g8456">
+      <rect
+         y="215.49812"
+         x="221.42191"
+         height="8.5559225"
+         width="8.5559225"
+         id="rect8405"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.285197" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.285197"
+         id="rect8407"
+         width="8.5559225"
+         height="8.5559225"
+         x="221.42191"
+         y="238.03242" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+         id="rect8409"
+         width="5.1545982"
+         height="5.1545982"
+         x="223.06297"
+         y="228.36855" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+         id="rect8411"
+         width="5.1545982"
+         height="5.1545982"
+         x="231.62589"
+         y="235.38161" />
+      <rect
+         y="228.36855"
+         x="231.62589"
+         height="5.1545982"
+         width="5.1545982"
+         id="rect8413"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+         id="rect8415"
+         width="5.1545982"
+         height="5.1545982"
+         x="231.62589"
+         y="221.35547" />
+      <rect
+         y="229.1725"
+         x="238.83466"
+         height="3.5466995"
+         width="3.5466995"
+         id="rect8417"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.118223" />
+      <rect
+         y="222.83968"
+         x="238.8965"
+         height="2.1861699"
+         width="2.1861699"
+         id="rect8419"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+         id="rect8421"
+         width="2.1861699"
+         height="2.1861699"
+         x="238.8965"
+         y="236.86581" />
+      <rect
+         y="242.59039"
+         x="233.11009"
+         height="2.1861699"
+         width="2.1861699"
+         id="rect8423"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+         id="rect8426"
+         width="2.1861699"
+         height="2.1861699"
+         x="233.11009"
+         y="217.30707" />
+      <rect
+         transform="scale(-1,1)"
+         y="235.38161"
+         x="-219.48315"
+         height="5.1545982"
+         width="5.1545982"
+         id="rect8428"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182"
+         id="rect8430"
+         width="5.1545982"
+         height="5.1545982"
+         x="-219.48315"
+         y="228.36855" />
+      <rect
+         transform="scale(-1,1)"
+         y="221.35547"
+         x="-219.48315"
+         height="5.1545982"
+         width="5.1545982"
+         id="rect8432"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.17182" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.118223"
+         id="rect8434"
+         width="3.5466995"
+         height="3.5466995"
+         x="-212.27437"
+         y="229.1725" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+         id="rect8436"
+         width="2.1861699"
+         height="2.1861699"
+         x="-212.21254"
+         y="222.83968" />
+      <rect
+         transform="scale(-1,1)"
+         y="236.86581"
+         x="-212.21254"
+         height="2.1861699"
+         width="2.1861699"
+         id="rect8438"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+      <rect
+         transform="scale(-1,1)"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723"
+         id="rect8440"
+         width="2.1861699"
+         height="2.1861699"
+         x="-217.99893"
+         y="242.59039" />
+      <rect
+         transform="scale(-1,1)"
+         y="217.30707"
+         x="-217.99893"
+         height="2.1861699"
+         width="2.1861699"
+         id="rect8442"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0728723" />
+      <g
+         aria-label="STI"
+         style="font-style:normal;font-weight:normal;font-size:11.4124px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.285311"
+         id="text8446"
+         transform="matrix(1.5299634,0,0,1.5299634,-130.80122,-114.04236)">
+        <path
+           d="m 261.25567,216.17881 v 4.22617 q -1.645,-0.73557 -3.20975,-1.11004 -1.56475,-0.37447 -2.95564,-0.37447 -1.8456,0 -2.72828,0.50821 -0.88268,0.50821 -0.88268,1.57813 0,0.80243 0.58845,1.25715 0.60183,0.44134 2.16658,0.76231 l 2.19332,0.44134 q 3.33012,0.6687 4.73438,2.03284 1.40426,1.36414 1.40426,3.87844 0,3.30337 -1.96597,4.92161 -1.95259,1.60488 -5.97815,1.60488 -1.8991,0 -3.81157,-0.3611 -1.91248,-0.3611 -3.82495,-1.06992 v -4.34653 q 1.91247,1.01642 3.69121,1.53801 1.79211,0.50821 3.45048,0.50821 1.68511,0 2.58117,-0.56171 0.89605,-0.5617 0.89605,-1.60487 0,-0.93618 -0.6152,-1.44439 -0.60183,-0.50821 -2.42068,-0.90943 l -1.99272,-0.44134 q -2.99576,-0.64194 -4.38665,-2.04621 -1.37752,-1.40426 -1.37752,-3.78482 0,-2.98239 1.92585,-4.58727 1.92585,-1.60487 5.53681,-1.60487 1.64499,0 3.38361,0.25411 1.73861,0.24073 3.59759,0.73556 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.3898px;font-family:'PrimaSans BT';-inkscape-font-specification:'PrimaSans BT Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.285311"
+           id="path3643-3"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 264.70614,215.55024 h 18.40255 v 3.89181 h -6.6201 v 16.07548 h -5.14897 v -16.07548 h -6.63348 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.3898px;font-family:'PrimaSans BT';-inkscape-font-specification:'PrimaSans BT Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.285311"
+           id="path3645-6"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 285.7701,215.55024 h 5.14897 v 19.96729 h -5.14897 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.3898px;font-family:'PrimaSans BT';-inkscape-font-specification:'PrimaSans BT Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.285311"
+           id="path3647-7"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       style="fill:#fff5f5;fill-opacity:0.01;stroke-width:3.16729;stroke-linecap:round;stroke-linejoin:round"
+       id="rect37385"
+       width="1920"
+       height="1157.1097"
+       x="0"
+       y="151.52676" />
+    <a
+       class="svgobj"
+       transform="translate(-465.32408,230.982)"
+       filter="url(#filter29417)"
+       target="blank"
+       xlink:href="https://maps.app.goo.gl/8iYzaq7byURfjrzz9"
+       xlink:title="Acesso"
+       id="a913"
+       xlink:show="Acesso"
+       style="display:inline">
+      <g
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="g911">
+        <path
+           d="M 1114,972 V 555"
+           fill="none"
+           marker-end="url(#Dot-8-3)"
+           stroke="#000000"
+           stroke-width="2"
+           id="path909"
+           style="marker-end:url(#Dot-8-3)"
+           sodipodi:nodetypes="cc" />
+        <path
+           id="rect104403-6-5"
+           style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g38418-1"
+           transform="matrix(0.74,0,0,0.74,311,934)">
+          <rect
+             x="990"
+             y="51"
+             width="191"
+             height="74"
+             rx="0"
+             ry="0"
+             filter="url(#filter29405)"
+             stroke="#000000"
+             stroke-width="1.4"
+             id="rect902"
+             style="fill:#00ffff;stroke:none;stroke-width:0;stroke-dasharray:none" />
+        </g>
+        <text
+           x="1116.2551"
+           y="1007.9888"
+           fill="#ccff00"
+           font-family="'Open Sans'"
+           font-size="24px"
+           font-weight="500"
+           stroke-width="0.71"
+           xml:space="preserve"
+           id="text907"
+           style="fill:#000000"><tspan
+             x="1116.2551"
+             y="1007.9888"
+             fill="#ccff00"
+             font-family="'Open Sans'"
+             font-size="24px"
+             font-weight="600"
+             stroke-width="0.71"
+             text-align="center"
+             text-anchor="middle"
+             id="tspan905"
+             style="fill:#000000">Acesso</tspan></text>
+      </g>
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(508.29203,231.662)"
+       filter="url(#filter29381)"
+       target="blank"
+       xlink:href="https://www.ccj.ufpb.br/santarita/"
+       xlink:title="UFPB"
+       id="a980"
+       xlink:show="UFPB"
+       style="display:inline">
+      <path
+         d="M 619,971 618.83,688 771.77257,575.42399"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path970"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="ccc" />
+      <g
+         transform="translate(11)"
+         id="g974">
+        <use
+           transform="translate(-506,-0.68)"
+           filter="url(#filter29417)"
+           xlink:href="#g38418-1"
+           id="use972" />
+      </g>
+      <text
+         x="620.30731"
+         y="1007.0679"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text978"><tspan
+           x="620.30731"
+           y="1007.0679"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-width="0.6"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan976"
+           style="fill:#000000">Laboratórios</tspan></text>
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(758.18163,207.9)"
+       filter="url(#filter29405)"
+       target="blank"
+       xlink:href="https://www.ccj.ufpb.br/santarita/"
+       xlink:title="UFPB"
+       id="a932"
+       xlink:show="UFPB"
+       style="display:inline">
+      <path
+         d="M 954,963 V 623 L 516,403"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path915"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="ccc" />
+      <g
+         transform="translate(0,1.7)"
+         id="g930">
+        <g
+           id="g38418"
+           transform="matrix(0.74,0,0,0.74,151,930)">
+          <rect
+             x="990"
+             y="43"
+             width="191"
+             height="117"
+             rx="0"
+             ry="0"
+             id="rect917"
+             style="fill:#00ffff" />
+        </g>
+        <text
+           x="955.41327"
+           y="1000.8607"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           text-anchor="middle"
+           style="line-height:1.2;fill:#000000"
+           xml:space="preserve"
+           id="text928"><tspan
+             sodipodi:role="line"
+             id="tspan11701"
+             x="955.41327"
+             y="1000.8607">Central</tspan><tspan
+             sodipodi:role="line"
+             id="tspan11703"
+             x="955.41327"
+             y="1024.8607">de Aulas</tspan></text>
+      </g>
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(582.69959,231.662)"
+       filter="url(#filter29357)"
+       target="blank"
+       xlink:href="https://www.ccj.ufpb.br/santarita/"
+       id="a956"
+       xlink:title="UFPB"
+       xlink:show="UFPB"
+       style="display:inline">
+      <path
+         d="M 290,971 V 650.90173 L 485.30421,516.64702"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path946"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="ccc" />
+      <g
+         transform="translate(-5.5)"
+         id="g954">
+        <use
+           transform="translate(-819,-0.68)"
+           filter="url(#filter29417)"
+           xlink:href="#g38418-1"
+           id="use948" />
+        <text
+           x="296.67978"
+           y="1007.0044"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="500"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           style="line-height:1.2;fill:#000000"
+           xml:space="preserve"
+           id="text952"><tspan
+             x="296.67978"
+             y="1007.0044"
+             fill="#ffffff"
+             font-family="'Open Sans'"
+             font-size="20px"
+             font-weight="600"
+             stroke-width="0.6"
+             text-align="center"
+             text-anchor="middle"
+             id="tspan950"
+             style="fill:#000000">Auditório</tspan></text>
+      </g>
+    </a>
+    <g
+       id="g39851"
+       transform="translate(514.0291,52.582689)">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+         id="circle39845"
+         cx="756.47522"
+         cy="555.23218"
+         r="15" />
+      <text
+         x="757.84058"
+         y="562.84814"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="32.0124px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text39849"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+           x="757.84058"
+           y="562.84814"
+           id="tspan39847"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
+    </g>
+    <g
+       id="g39859"
+       transform="translate(311.56232,190.92266)">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+         id="circle39853"
+         cx="756.47522"
+         cy="555.23218"
+         r="15" />
+      <text
+         x="756.38989"
+         y="562.84814"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="32.0124px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text39857"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+           x="756.38989"
+           y="562.84814"
+           id="tspan39855"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
+    </g>
+    <g
+       id="g39867"
+       transform="translate(525.51477,251.84439)">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+         id="circle39861"
+         cx="756.47522"
+         cy="555.23218"
+         r="15" />
+      <text
+         x="757.84058"
+         y="562.84814"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="32.0124px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text39865"
+         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+           x="757.84058"
+           y="562.84814"
+           id="tspan39863"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
     </g>
   </g>
 </svg>
