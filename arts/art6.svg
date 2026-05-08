@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.5"
-     inkscape:cx="1316"
-     inkscape:cy="426"
+     inkscape:cx="1105"
+     inkscape:cy="1058"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -44,17 +44,117 @@
      id="defs127">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient64527">
+      <stop
+         style="stop-color:#ff5200;stop-opacity:1;"
+         offset="0"
+         id="stop64523" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="1"
+         id="stop64525" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient43960">
+      <stop
+         style="stop-color:#d3d3d3;stop-opacity:1;"
+         offset="0"
+         id="stop43954" />
+      <stop
+         style="stop-color:#f4f4f4;stop-opacity:1;"
+         offset="0.82230669"
+         id="stop43956" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop43958" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient43044">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop43040" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0.05980117;"
+         offset="1"
+         id="stop43042" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient36186">
+      <stop
+         style="stop-color:#e9e9e9;stop-opacity:1;"
+         offset="0"
+         id="stop36182" />
+      <stop
+         style="stop-color:#f4f4f4;stop-opacity:1;"
+         offset="0.82230669"
+         id="stop37990" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop36184" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15926">
+      <stop
+         style="stop-color:#189308;stop-opacity:1;"
+         offset="0"
+         id="stop15922" />
+      <stop
+         style="stop-color:#8bc983;stop-opacity:1;"
+         offset="0.88116342"
+         id="stop21870" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop15924" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient15280">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1;"
+         offset="0"
+         id="stop15276" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0;"
+         offset="1"
+         id="stop15278" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9561">
+      <stop
+         style="stop-color:#a1d69a;stop-opacity:1;"
+         offset="0"
+         id="stop9557" />
+      <stop
+         style="stop-color:#94d18b;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop11995" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop9559" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient112843">
       <stop
-         style="stop-color:#999999;stop-opacity:1"
+         style="stop-color:#b2b2b2;stop-opacity:1;"
          offset="0"
          id="stop112837" />
       <stop
-         style="stop-color:#808080;stop-opacity:1"
+         style="stop-color:#b6b6b6;stop-opacity:1;"
          offset="0.6042639"
          id="stop112839" />
       <stop
-         style="stop-color:#dfdfdf;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
          id="stop112841" />
     </linearGradient>
@@ -66,8 +166,8 @@
          offset="0"
          id="stop83670" />
       <stop
-         style="stop-color:#808080;stop-opacity:1;"
-         offset="0.86104161"
+         style="stop-color:#747474;stop-opacity:1;"
+         offset="0.6953187"
          id="stop83810" />
       <stop
          style="stop-color:#808080;stop-opacity:0;"
@@ -921,23 +1021,23 @@
        inkscape:collect="always"
        xlink:href="#linearGradient83674"
        id="radialGradient83676"
-       cx="819.70605"
-       cy="832.39685"
-       fx="819.70605"
-       fy="832.39685"
+       cx="928.96906"
+       cy="889.32739"
+       fx="928.96906"
+       fy="889.32739"
        r="727.70398"
-       gradientTransform="matrix(0.97918989,0.19088128,-0.04712787,0.24175826,71.696645,525.22783)"
+       gradientTransform="matrix(1.1701359,0.23583159,-0.04866312,0.24145392,-76.445838,489.53874)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient112843"
        id="radialGradient112505"
-       cx="808.99707"
-       cy="949.71625"
-       fx="808.99707"
-       fy="949.71625"
+       cx="931.26727"
+       cy="967.15979"
+       fx="931.26727"
+       fy="967.15979"
        r="756.20746"
-       gradientTransform="matrix(0.91634519,0.17806905,-0.04939016,0.25416228,114.36723,582.66041)"
+       gradientTransform="matrix(1.1368565,0.23536983,-0.05249179,0.25353986,-53.393169,538.827)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
@@ -1358,6 +1458,92 @@
          stroke-width="1pt"
          id="path39522" />
     </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9561"
+       id="radialGradient9563"
+       cx="890.37347"
+       cy="1072.8409"
+       fx="890.37347"
+       fy="1072.8409"
+       r="862.77775"
+       gradientTransform="matrix(1.0218355,0.19894312,-0.04242419,0.21790422,26.072698,661.93068)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15280"
+       id="radialGradient15282"
+       cx="983.30335"
+       cy="960.01411"
+       fx="983.30335"
+       fy="960.01411"
+       r="856.7016"
+       gradientTransform="matrix(1,0,0,0.2042867,0,763.896)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43044"
+       id="radialGradient15374"
+       cx="908.29004"
+       cy="1040.743"
+       fx="908.29004"
+       fy="1040.743"
+       r="858.55487"
+       gradientTransform="matrix(1,0,0,0.20203604,0,830.47547)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15926"
+       id="radialGradient15928"
+       cx="942.47949"
+       cy="758.01233"
+       fx="942.47949"
+       fy="758.01233"
+       r="714.25348"
+       gradientTransform="matrix(1.0545869,0.21190576,-0.04466141,0.22226545,-0.74324768,564.74398)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36186"
+       id="radialGradient36188"
+       cx="977.52191"
+       cy="819.48432"
+       fx="977.52191"
+       fy="819.48432"
+       r="857.45249"
+       gradientTransform="matrix(1,0,0,0.21052533,0,646.96211)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36186"
+       id="radialGradient42588"
+       cx="975.61639"
+       cy="821.54633"
+       fx="975.61639"
+       fy="821.54633"
+       r="859.35797"
+       gradientTransform="matrix(1,0,0,0.20765906,0,650.94479)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient43960"
+       id="radialGradient43682"
+       cx="977.12555"
+       cy="820.20593"
+       fx="977.12555"
+       fy="820.20593"
+       r="857.84882"
+       gradientTransform="matrix(1,0,0,0.20958686,0,648.30156)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient64527"
+       id="linearGradient64529"
+       x1="1172.9294"
+       y1="524.22375"
+       x2="1190.2098"
+       y2="588.7149"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -1380,11 +1566,6 @@
        y="0"
        rx="0"
        ry="0" />
-    <path
-       style="fill:#aedca8;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-       d="M 1453.0871,1166.574 37.773137,881.30802 27.595702,886.10783 1453.7201,1202.467 Z"
-       id="path14297"
-       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:url(#radialGradient22874);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
        d="M 879.24413,246.80072 1888,473.94547 1405.8366,996.36852 393.76314,771.19102 Z"
@@ -1413,8 +1594,8 @@
     <path
        id="path28740"
        style="fill:#f2f2f2;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-       d="m 1084.918,489.58008 -195.67858,212.91305 9.81797,28.8665 -20.40848,22.83995 -39.8144,1.74488 -87.57084,94.78796 656.35153,146.03125 5.3106,-10.49609 -623.68361,-138.76367 52.60957,-56.9372 c 12.07025,-12.07025 33.98448,-13.08346 44.73828,-24.8383 l 31.24845,-37.02919 c 7.79588,-13.85899 -3.05732,-18.78753 1.69626,-26.29547 l 31.54337,-30.04828 143.65898,33.53955 -29.4607,31.4862 151.3997,-4.3562 229.7282,51.11365 164.1172,-177.61719 -19.6485,-4.37109 -12.6972,13.74023 -476.8857,-106.1016 12.6962,-13.74019 z m 8.0351,29.23047 477.5196,105.41797 -52.9395,57.29296 -476.8848,-106.10351 z m -65.4843,70.87109 475.8144,107.26172 -63.3477,68.55859 -476.88472,-106.10351 z"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccc" />
+       d="m 1084.918,489.58008 -195.67777,212.91211 9.81641,28.86719 -20.4082,22.83984 -39.81446,1.74609 -87.57031,94.78711 708.65043,160.38088 5.3105,-10.4961 -675.98241,-153.11329 52.60937,-56.9375 c 12.07024,-12.07024 33.98449,-13.08307 44.73828,-24.83789 l 32.38868,-37.27735 c 9.74379,-13.00859 -4.19694,-18.53894 0.55664,-26.04687 l 2.71679,-2.58789 44.89649,10.22656 10.27906,-11.10046 -42.98609,-10.73939 16.63671,-15.84765 143.65818,33.53906 -29.459,31.48633 151.3985,-4.35547 229.7285,51.11328 164.1172,-177.61719 -19.6485,-4.37109 -12.6972,13.74023 -476.8848,-106.10156 12.6953,-13.74023 z m 8.0351,29.23047 477.5196,105.41797 -52.9395,57.29296 -476.8848,-106.10351 z m -65.4843,70.87109 475.8144,107.26172 -63.3477,68.55859 -476.88472,-106.10351 z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccc" />
     <use
        x="0"
        y="0"
@@ -1422,16 +1603,16 @@
        id="use43031"
        transform="translate(77.598037,-84.901505)" />
     <use
-       transform="matrix(1.462432,0,0,1.462432,-985.97109,-29.174444)"
+       transform="matrix(1.462432,0,0,1.462432,-1087.6292,-65.749454)"
        xlink:href="#g25674"
        id="use533"
        style="display:inline" />
     <use
-       transform="matrix(1.0330189,0,0,1.0330189,-682.58065,179.33888)"
+       transform="matrix(0.92711735,0,0,0.92711735,-513.97048,213.77384)"
        xlink:href="#use72212"
        id="use396" />
     <use
-       transform="matrix(1.4249846,0,0,1.4249846,-1569.4297,-3.6337978)"
+       transform="matrix(1.07395,0,0,1.07395,-930.11762,131.91007)"
        xlink:href="#use72214"
        id="use310"
        style="display:inline" />
@@ -1474,7 +1655,7 @@
          id="path15932"
          sodipodi:nodetypes="cccccc" />
       <path
-         style="fill:#ff0000;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+         style="fill:url(#linearGradient64529);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
          d="m 1161.7561,522.37402 82.671,18.394 -62.707,67.864 -81.7163,-18.323 z"
          id="path6260"
          sodipodi:nodetypes="ccccc" />
@@ -1491,16 +1672,12 @@
     </g>
     <path
        style="fill:url(#radialGradient83676);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-       d="M 146.54555,714.35855 1602.8421,1040.2 1563.3811,1083.786 106.45155,757.74955 Z"
+       d="M 69.186195,692.35628 1890.697,1102.9204 1856.6925,1142.991 111.22074,754.56023 Z"
        id="path25751"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#189308;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-       d="m 134.87414,776.22102 13.193,-7.33 1415.31396,314.89498 -3.932,4.2555 z"
-       id="path5087" />
-    <path
        style="fill:#ffffff;stroke:#ffdd55;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:24, 24;stroke-dashoffset:0;stop-color:#000000"
-       d="M 167.48114,747.00152 1526.2478,1048.5055"
+       d="M 137.79802,735.98927 1775.1758,1102.5944"
        id="path22309"
        sodipodi:nodetypes="cc" />
     <g
@@ -1649,7 +1826,7 @@
        y="0"
        xlink:href="#g4231"
        id="use6204"
-       transform="translate(-118.10296,-26.276005)"
+       transform="translate(-114.10296,-25.568899)"
        style="display:inline;fill:#2e71a5;fill-opacity:1" />
     <g
        id="g4231"
@@ -1681,78 +1858,11 @@
          id="path53442"
          sodipodi:nodetypes="ccccc" />
     </g>
-    <g
-       id="g22268"
-       transform="translate(14.0313,128.1825)">
-      <path
-         style="fill:#e9e9e9;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-         d="m 121.94481,638.96885 1413.51549,285.39616 0.083,9.60301 -3.811,4.125 -1411.50296,-289.39 -0.15992,-7.34503 z"
-         id="path22264"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         style="fill:#fefefe;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-         d="m 121.94481,638.96885 1413.51549,285.39616 -2.4917,2.25727 L 120.06942,641.35799 Z"
-         id="path22266"
-         sodipodi:nodetypes="ccccc" />
-    </g>
     <use
-       transform="matrix(1.8331925,0,0,1.8331925,-1870.3975,33.311495)"
+       transform="matrix(1.6804148,0,0,1.6804148,-1623.9254,89.363364)"
        xlink:href="#use72214"
        id="use723"
        style="display:inline" />
-    <path
-       style="fill:url(#radialGradient112505);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-       d="m 1453.0871,1166.574 97.101,-105.087 L 137.10014,774.98452 37.773137,881.30802 Z"
-       id="path27514"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#ffffff;stroke:#cccccc;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
-       d="M 127.1915,785.59112 1539.9841,1072.5303"
-       id="path22313"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:48, 48;stroke-dashoffset:0;stop-color:#000000"
-       d="M 69.05123,847.82673 1483.4975,1133.6625"
-       id="path22260"
-       sodipodi:nodetypes="cc" />
-    <g
-       id="g22274"
-       transform="translate(-78.6452,228.481)">
-      <path
-         style="fill:#e9e9e9;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-         d="m 118.13381,643.09285 1417.32649,281.27216 0.083,9.60301 -3.811,4.125 -1415.31396,-285.266 -0.15992,-7.34503 z"
-         id="path22270"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         style="fill:#fefefe;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-         d="m 118.13381,643.09285 1417.32649,281.27216 -2.4917,2.25727 L 116.25842,645.48199 Z"
-         id="path22272"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <path
-       style="fill:#ffffff;stroke:#cccccc;stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
-       d="M 50.324111,867.87297 1466.8249,1151.7064"
-       id="path22311"
-       sodipodi:nodetypes="cc" />
-    <g
-       id="g11275"
-       transform="translate(-32,178)">
-      <path
-         style="fill:#e9e9e9;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-         d="m 121.15211,640.4121 1414.30819,283.95291 0.083,9.60301 -3.811,4.125 -1412.29566,-287.94675 -0.15992,-7.34503 z"
-         id="path10189"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         style="fill:#fefefe;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-         d="m 121.15211,640.4121 1414.30819,283.95291 -2.4917,2.25727 L 119.27672,642.80124 Z"
-         id="path11139"
-         sodipodi:nodetypes="ccccc" />
-    </g>
-    <path
-       style="fill:#e9e9e9;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
-       d="m 1549.5746,1062.1505 13.8065,21.6355 -109.661,118.681 -0.633,-35.893 z"
-       id="path11463"
-       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#189108;fill-opacity:1;stroke:#f2f2f2;stroke-width:3;stroke-linecap:round;stop-color:#000000;stroke-opacity:1;stroke-dasharray:none;stroke-linejoin:round"
        d="m 683.28614,769.56902 11.629,2.587 127.17665,-138.96791 -10.78194,-2.34206 z"
@@ -1769,7 +1879,7 @@
        id="path22686"
        sodipodi:nodetypes="ccccc" />
     <use
-       transform="matrix(1.5624479,0,0,1.5624479,-2011.2246,-46.010837)"
+       transform="matrix(1.5624479,0,0,1.5624479,-2119.8351,-85.087216)"
        fill="#ff0000"
        xlink:href="#g25674"
        id="use872" />
@@ -1958,61 +2068,18 @@
        transform="matrix(1.4541263,0,0,1.4541263,-1009.9822,-239.41187)"
        xlink:href="#use72212"
        id="use804" />
-    <a
-       class="svgobj"
-       transform="matrix(1.2769315,0,0,1.2769315,191.72977,-186.93825)"
-       target="blank"
-       xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
-       xlink:title="Fauna Brasileira | Bem-te-Vi"
-       id="a19124">
-      <g
-         transform="matrix(1.4,0,0,1.4,-323,-184)"
-         id="g19122">
-        <path
-           id="path19110"
-           style="fill:url(#linearGradient68983);fill-opacity:1"
-           d="m 997.81943,593.5533 -5.31868,1.34727 c 1.96789,0.43483 5.76603,1.23654 7.49919,2.09866 -1.26354,3.45093 1.62016,8.62134 12.99956,12.00099 8.5724,8.81916 15.0368,8.06579 18.5292,8.43725 -20.683,-9.77901 -11.6824,-14.06736 -25.5291,-21.43682 1.2923,-5.38045 -7.57795,-6.28881 -8.18017,-2.44735 z"
-           sodipodi:nodetypes="ccccccc" />
-        <path
-           d="m 1000,597 c -1.01056,3.45563 1.6268,8.71388 13,12 -7.3432,-4.33834 -5.2604,-9.72881 -13,-12 z"
-           fill="url(#linearGradient110786)"
-           id="path19114"
-           style="fill:url(#linearGradient110786)"
-           sodipodi:nodetypes="ccc" />
-        <ellipse
-           cx="1000"
-           cy="594"
-           rx="0.77999997"
-           ry="0.74000001"
-           id="ellipse19116" />
-        <ellipse
-           cx="999.92877"
-           cy="593.73279"
-           rx="0.55616093"
-           ry="0.52763993"
-           fill="#ffffff"
-           id="ellipse19118"
-           style="fill:url(#linearGradient80444);fill-opacity:1;stroke-width:1.42605" />
-        <path
-           d="m 999.48497,592.01936 c 3.00003,-0.5 5.21503,1.52064 6.61503,2.18064 -0.78,-2.4 -4.215,-3.88064 -6.61503,-2.18064 z"
-           fill="#ffffff"
-           id="path19120"
-           sodipodi:nodetypes="ccc"
-           style="fill:#ffcc00;fill-opacity:1" />
-      </g>
-    </a>
     <use
-       transform="matrix(1.9023129,0,0,1.9023129,-2252.6702,-657.34213)"
+       transform="matrix(1.9023129,0,0,1.9023129,-2248.715,-645.01024)"
        xlink:href="#use72252"
        id="use308"
        style="display:inline" />
     <use
-       transform="translate(-912.57053,-188.85499)"
+       transform="translate(-922.31559,-203.15748)"
        xlink:href="#use72214"
        id="use312"
        style="display:inline" />
     <use
-       transform="matrix(1.5015286,0,0,1.5015286,-1129.5721,72.500395)"
+       transform="matrix(1.5015286,0,0,1.5015286,-1118.1875,60.918759)"
        xlink:href="#g36733"
        id="use233"
        style="display:inline" />
@@ -2022,7 +2089,7 @@
        id="use560"
        style="display:inline" />
     <use
-       transform="matrix(1.7715892,0,0,1.7715892,-1947.6023,-523.46794)"
+       transform="matrix(1.7715892,0,0,1.7715892,-1964.8665,-548.80608)"
        xlink:href="#use72214"
        id="use272"
        style="display:inline" />
@@ -2033,7 +2100,7 @@
        id="use122569"
        transform="translate(404.77044,-277.09751)" />
     <use
-       transform="matrix(2.0220342,0,0,2.0220342,-2372.3361,-986.52223)"
+       transform="matrix(2.0220342,0,0,2.0220342,-2368.132,-973.41424)"
        xlink:href="#use72252"
        id="use390"
        style="display:inline" />
@@ -2043,22 +2110,22 @@
        id="use418"
        style="display:inline" />
     <use
-       transform="matrix(1.4745669,0,0,1.4745669,-1424.4973,-253.62558)"
+       transform="matrix(1.3054339,0,0,1.3054339,-892.67879,-121.67403)"
        xlink:href="#use72212"
        id="use410"
        style="display:inline" />
     <use
-       transform="matrix(1.6035493,0,0,1.6035493,-2070.3494,-113.36135)"
+       transform="matrix(1.6035493,0,0,1.6035493,-2085.9761,-136.2961)"
        xlink:href="#use72214"
        id="use802"
        style="display:inline" />
     <use
-       transform="matrix(1.3045446,0,0,1.3045446,-720.72467,54.691691)"
+       transform="matrix(1.3045446,0,0,1.3045446,-733.43753,36.033455)"
        xlink:href="#use72214"
        id="use808"
        style="display:inline" />
     <g
-       transform="matrix(2.198372,0,0,2.198372,687.42679,221.92011)"
+       transform="matrix(2.198372,0,0,2.198372,706.04747,208.57858)"
        id="g525"
        style="display:inline">
       <path
@@ -2091,12 +2158,12 @@
          id="path523" />
     </g>
     <use
-       transform="matrix(1.335921,0,0,1.335921,-923.24698,-173.93948)"
+       transform="matrix(1.335921,0,0,1.335921,-1239.9966,-262.54389)"
        xlink:href="#g25674"
        id="use810"
        style="display:inline" />
     <use
-       transform="matrix(1.4110458,0,0,1.4110458,-1886.3085,-12.98943)"
+       transform="matrix(1.4110458,0,0,1.4110458,-1900.0592,-33.170899)"
        xlink:href="#use72214"
        id="use814"
        style="display:inline" />
@@ -2106,13 +2173,13 @@
        id="use414"
        style="display:inline" />
     <use
-       transform="matrix(1.0880093,0,0,1.0880093,-789.08614,-31.759513)"
+       transform="matrix(1.0880093,0,0,1.0880093,-864.71697,-58.970318)"
        fill="#ff0000"
        xlink:href="#g25674"
        id="use822"
        style="display:inline" />
     <use
-       transform="matrix(1.7387114,0,0,1.7387114,-1626.4283,-17.577424)"
+       transform="matrix(1.4662895,0,0,1.4662895,-1110.5625,119.29114)"
        xlink:href="#use72214"
        id="use449"
        style="display:inline" />
@@ -2198,9 +2265,42 @@
          fill="#09e900"
          id="path326" />
     </g>
+    <g
+       id="g36733"
+       transform="matrix(1.9,0,0,1.9,1036.7671,-45.33898)">
+      <path
+         d="m 373,279 -4.8,-2.9 20,-0.03 z"
+         fill="#002c14"
+         fill-opacity="0.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.21"
+         id="path375" />
+      <path
+         d="m 373,279 1.5,-10e-6 c -0.074,-7.8 0.24,-18 -0.31,-23 -1.1,4.1 -0.97,15 -1.2,23 z"
+         fill="#e9765b"
+         id="path377"
+         style="fill:#ff0000;fill-opacity:1" />
+      <path
+         d="m 373,260 c -3.4,-7.9 9.8,-6.4 11,-0.36 -3.9,-1.5 -6.6,-1.8 -11,0.36 z"
+         fill="#0af700"
+         id="path379" />
+      <path
+         d="m 375,261 c 1.1,-5.1 -6.9,-8.1 -14,-2.7 8.6,-2.2 7.6,4.9 14,2.7 z"
+         fill="#00e203"
+         id="path381" />
+      <path
+         d="m 372,257 c -1.9,-4.3 5.4,-4.3 6.8,-12 0.19,3.3 -0.79,13 -6.8,12 z"
+         fill="#07cb00"
+         id="path383" />
+      <path
+         d="m 375,259 c 0.79,-0.76 0.19,-5.9 -5.9,-13 -0.35,3.1 -1.3,12 5.9,13 z"
+         fill="#08c600"
+         id="path385" />
+    </g>
     <a
        class="svgobj"
-       transform="matrix(0.88339045,0,0,0.88339045,734.53217,95.578384)"
+       transform="matrix(0.88339045,0,0,0.88339045,843.74924,131.90536)"
        target="blank"
        xlink:href="https://butantan.gov.br/bubutantan/teiu-um-lagarto-tao-brasileiro-que-voce-com-certeza-ja-viu-por-ai"
        xlink:title="Fauna Brasileira | Teiu"
@@ -2241,7 +2341,7 @@
     </a>
     <g
        id="g25674"
-       transform="matrix(2.1,0,0,2.1,814.68004,-107.79589)">
+       transform="matrix(2.1,0,0,2.1,884.19308,-82.786173)">
       <path
          d="m 373,279 -4.9,-1.8 h 16 z"
          fill="#002c14"
@@ -2274,41 +2374,8 @@
          id="path269" />
     </g>
     <g
-       id="g36733"
-       transform="matrix(1.9,0,0,1.9,1036.7671,-45.33898)">
-      <path
-         d="m 373,279 -4.8,-2.9 20,-0.03 z"
-         fill="#002c14"
-         fill-opacity="0.5"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.21"
-         id="path375" />
-      <path
-         d="m 373,279 1.5,-10e-6 c -0.074,-7.8 0.24,-18 -0.31,-23 -1.1,4.1 -0.97,15 -1.2,23 z"
-         fill="#e9765b"
-         id="path377"
-         style="fill:#ff0000;fill-opacity:1" />
-      <path
-         d="m 373,260 c -3.4,-7.9 9.8,-6.4 11,-0.36 -3.9,-1.5 -6.6,-1.8 -11,0.36 z"
-         fill="#0af700"
-         id="path379" />
-      <path
-         d="m 375,261 c 1.1,-5.1 -6.9,-8.1 -14,-2.7 8.6,-2.2 7.6,4.9 14,2.7 z"
-         fill="#00e203"
-         id="path381" />
-      <path
-         d="m 372,257 c -1.9,-4.3 5.4,-4.3 6.8,-12 0.19,3.3 -0.79,13 -6.8,12 z"
-         fill="#07cb00"
-         id="path383" />
-      <path
-         d="m 375,259 c 0.79,-0.76 0.19,-5.9 -5.9,-13 -0.35,3.1 -1.3,12 5.9,13 z"
-         fill="#08c600"
-         id="path385" />
-    </g>
-    <g
        id="use72214"
-       transform="matrix(2.3,0,0,2.3,899.78014,-132.91959)">
+       transform="matrix(2.3,0,0,2.3,909.5252,-118.6171)">
       <path
          d="m 373,279 -5.6,-3.3 h 18 z"
          fill="#002c14"
@@ -2342,7 +2409,7 @@
     </g>
     <g
        id="use72252"
-       transform="matrix(1.7,0,0,1.7,1014.2654,165.92869)">
+       transform="matrix(1.7,0,0,1.7,1012.1862,159.44612)">
       <path
          d="m 391,275 -17,3.8 -5.7,-4.3 z"
          fill="#002c14"
@@ -2445,46 +2512,63 @@
        id="use122571"
        transform="translate(740.41522,-202.78605)" />
     <use
-       transform="matrix(1.1814573,0,0,1.1814573,-365.31463,8.7496386)"
+       transform="matrix(1.1814573,0,0,1.1814573,-367.43595,5.9211899)"
        xlink:href="#use72212"
        id="use806" />
     <use
-       transform="matrix(1.4100848,0,0,1.4100848,-625.20537,9.6376036)"
+       transform="matrix(1.4100848,0,0,1.4100848,-723.22464,-25.628218)"
        xlink:href="#g25674"
        id="use816"
        style="display:inline" />
+    <a
+       class="svgobj"
+       transform="matrix(1.2769315,0,0,1.2769315,191.72977,-186.93825)"
+       target="blank"
+       xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
+       xlink:title="Fauna Brasileira | Bem-te-Vi"
+       id="a19124">
+      <g
+         transform="matrix(1.4,0,0,1.4,-323,-184)"
+         id="g19122">
+        <path
+           id="path19110"
+           style="fill:url(#linearGradient68983);fill-opacity:1"
+           d="m 997.81943,593.5533 -5.31868,1.34727 c 1.96789,0.43483 5.76603,1.23654 7.49919,2.09866 -1.26354,3.45093 1.62016,8.62134 12.99956,12.00099 8.5724,8.81916 15.0368,8.06579 18.5292,8.43725 -20.683,-9.77901 -11.6824,-14.06736 -25.5291,-21.43682 1.2923,-5.38045 -7.57795,-6.28881 -8.18017,-2.44735 z"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           d="m 1000,597 c -1.01056,3.45563 1.6268,8.71388 13,12 -7.3432,-4.33834 -5.2604,-9.72881 -13,-12 z"
+           fill="url(#linearGradient110786)"
+           id="path19114"
+           style="fill:url(#linearGradient110786)"
+           sodipodi:nodetypes="ccc" />
+        <ellipse
+           cx="1000"
+           cy="594"
+           rx="0.77999997"
+           ry="0.74000001"
+           id="ellipse19116" />
+        <ellipse
+           cx="999.92877"
+           cy="593.73279"
+           rx="0.55616093"
+           ry="0.52763993"
+           fill="#ffffff"
+           id="ellipse19118"
+           style="fill:url(#linearGradient80444);fill-opacity:1;stroke-width:1.42605" />
+        <path
+           d="m 999.48497,592.01936 c 3.00003,-0.5 5.21503,1.52064 6.61503,2.18064 -0.78,-2.4 -4.215,-3.88064 -6.61503,-2.18064 z"
+           fill="#ffffff"
+           id="path19120"
+           sodipodi:nodetypes="ccc"
+           style="fill:#ffcc00;fill-opacity:1" />
+      </g>
+    </a>
     <use
-       transform="matrix(0.85902038,0,0,0.85902038,285.66303,286.93093)"
+       transform="matrix(0.85902038,0,0,0.85902038,225.94992,265.44707)"
        fill="#ff0000"
        xlink:href="#g25674"
        id="use800"
        style="display:inline" />
-    <g
-       id="g28342"
-       transform="matrix(3.784106,0,0,3.784106,-5442.3983,-2461.9804)"
-       style="display:inline">
-      <path
-         style="fill:none;fill-opacity:1;stroke:#ececec;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 1723.3521,918.76838 V 885.50147"
-         id="path25740" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#ececec;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 1732.1086,881.30637 -8.7565,4.1951 -6.5106,-4.09651"
-         id="path26398"
-         sodipodi:nodetypes="ccc" />
-      <circle
-         style="fill:url(#radialGradient27780);fill-opacity:1;stroke:none;stroke-width:4.85448;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         id="path26528"
-         cx="1732.8617"
-         cy="881.97656"
-         r="6.900598" />
-      <circle
-         style="fill:url(#radialGradient28312);fill-opacity:1;stroke:none;stroke-width:4.85448;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         id="circle28262"
-         cx="1716.2876"
-         cy="881.60004"
-         r="6.900598" />
-    </g>
     <a
        id="a67999"
        xlink:href="https://www.ccj.ufpb.br/santarita/wp-content/uploads/sites/106/sites/306/2025/06/guia-do-estudante-ccj_novo.pdf"
@@ -2550,13 +2634,8 @@
         </a>
       </g>
     </a>
-    <path
-       style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:48, 48;stroke-dashoffset:0;stop-color:#000000"
-       d="M 109.20123,805.81253 1521.2585,1092.7959"
-       id="path22262"
-       sodipodi:nodetypes="cc" />
     <use
-       transform="matrix(1.0880093,0,0,1.0880093,-885.34128,284.09386)"
+       transform="matrix(1.0880093,0,0,1.0880093,-960.97211,256.88305)"
        fill="#ff0000"
        xlink:href="#g25674"
        id="use46502"
@@ -2646,6 +2725,156 @@
         </g>
       </g>
     </a>
+    <g
+       id="g3259"
+       transform="translate(4.141729e-5,4.9339893e-5)">
+      <g
+         id="g2858"
+         style="display:inline;fill:#b3b3b3;fill-opacity:0.1;enable-background:new"
+         transform="matrix(48.246677,0,0,48.246677,-3761.6113,-10397.068)">
+        <rect
+           y="215.49812"
+           x="90.660461"
+           height="8.5559225"
+           width="8.5559225"
+           id="rect2801"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.285197" />
+        <rect
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.285197"
+           id="rect2803"
+           width="8.5559225"
+           height="8.5559225"
+           x="90.660461"
+           y="238.03242" />
+        <rect
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+           id="rect2805"
+           width="5.1545982"
+           height="5.1545982"
+           x="92.301529"
+           y="228.36855" />
+        <rect
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+           id="rect2807"
+           width="5.1545982"
+           height="5.1545982"
+           x="100.86444"
+           y="235.38161" />
+        <rect
+           y="228.36855"
+           x="100.86444"
+           height="5.1545982"
+           width="5.1545982"
+           id="rect2809"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+        <rect
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+           id="rect2811"
+           width="5.1545982"
+           height="5.1545982"
+           x="100.86444"
+           y="221.35547" />
+        <rect
+           y="229.1725"
+           x="108.07321"
+           height="3.5466995"
+           width="3.5466995"
+           id="rect2813"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.118223" />
+        <rect
+           y="222.83968"
+           x="108.13506"
+           height="2.1861699"
+           width="2.1861699"
+           id="rect2815"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+        <rect
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+           id="rect2817"
+           width="2.1861699"
+           height="2.1861699"
+           x="108.13506"
+           y="236.86581" />
+        <rect
+           y="242.59039"
+           x="102.34865"
+           height="2.1861699"
+           width="2.1861699"
+           id="rect2819"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+        <rect
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+           id="rect2821"
+           width="2.1861699"
+           height="2.1861699"
+           x="102.34865"
+           y="217.30707" />
+        <rect
+           transform="scale(-1,1)"
+           y="235.38161"
+           x="-88.72171"
+           height="5.1545982"
+           width="5.1545982"
+           id="rect2823"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+        <rect
+           transform="scale(-1,1)"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+           id="rect2825"
+           width="5.1545982"
+           height="5.1545982"
+           x="-88.72171"
+           y="228.36855" />
+        <rect
+           transform="scale(-1,1)"
+           y="221.35547"
+           x="-88.72171"
+           height="5.1545982"
+           width="5.1545982"
+           id="rect2827"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+        <rect
+           transform="scale(-1,1)"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.118223"
+           id="rect2829"
+           width="3.5466995"
+           height="3.5466995"
+           x="-81.512924"
+           y="229.1725" />
+        <rect
+           transform="scale(-1,1)"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+           id="rect2831"
+           width="2.1861699"
+           height="2.1861699"
+           x="-81.451096"
+           y="222.83968" />
+        <rect
+           transform="scale(-1,1)"
+           y="236.86581"
+           x="-81.451096"
+           height="2.1861699"
+           width="2.1861699"
+           id="rect2833"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+        <rect
+           transform="scale(-1,1)"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+           id="rect2835"
+           width="2.1861699"
+           height="2.1861699"
+           x="-87.237488"
+           y="242.59039" />
+        <rect
+           transform="scale(-1,1)"
+           y="217.30707"
+           x="-87.237488"
+           height="2.1861699"
+           width="2.1861699"
+           id="rect2837"
+           style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+      </g>
+    </g>
     <a
        id="a10554-3"
        xlink:href="https://maps.app.goo.gl/eA2GsMJGHigbagYT8"
@@ -2695,153 +2924,179 @@
            id="path16064" />
       </g>
     </a>
-    <g
-       id="g41206"
-       transform="translate(-617.38069,801.48677)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         id="circle41200"
-         cx="756.47522"
-         cy="555.23218"
-         r="15" />
-      <text
-         x="757.84058"
-         y="562.84814"
-         fill="#666666"
-         font-family="'Open Sans'"
-         font-size="32.0124px"
-         font-weight="500"
-         text-align="center"
-         text-anchor="middle"
-         xml:space="preserve"
-         id="text41204"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-           x="757.84058"
-           y="562.84814"
-           id="tspan41202"
-           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-    </g>
-    <g
-       id="g41246"
-       transform="translate(-400.25458,801.48677)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         id="circle41240"
-         cx="756.47522"
-         cy="555.23218"
-         r="15" />
-      <text
-         x="756.38989"
-         y="562.84814"
-         fill="#666666"
-         font-family="'Open Sans'"
-         font-size="32.0124px"
-         font-weight="500"
-         text-align="center"
-         text-anchor="middle"
-         xml:space="preserve"
-         id="text41244"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-           x="756.38989"
-           y="562.84814"
-           id="tspan41242"
-           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-    </g>
-    <text
-       x="343.34412"
-       y="1363.8439"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="19px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text11163"
-       style="fill:#000000"><tspan
-         x="379.51062"
-         y="1363.8439"
-         id="tspan11161"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Auditório</tspan></text>
-    <g
-       id="g41286"
-       transform="translate(-203.12848,801.48672)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         id="circle41280"
-         cx="756.47522"
-         cy="555.23218"
-         r="15" />
-      <text
-         x="757.84058"
-         y="562.84814"
-         fill="#666666"
-         font-family="'Open Sans'"
-         font-size="32.0124px"
-         font-weight="500"
-         text-align="center"
-         text-anchor="middle"
-         xml:space="preserve"
-         id="text41284"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-           x="757.84058"
-           y="562.84814"
-           id="tspan41282"
-           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
-    </g>
-    <text
-       x="541.07825"
-       y="1363.8439"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="19px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text11349"
-       style="fill:#000000"><tspan
-         x="577.24475"
-         y="1363.8439"
-         id="tspan11347"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratórios</tspan></text>
-    <text
-       x="41.406765"
-       y="1352.3109"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="19px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68120"
-       style="fill:#000000"><tspan
-         sodipodi:role="line"
-         id="tspan68114"
-         x="163.48654"
-         y="1352.3109"
-         style="text-align:start;text-anchor:start"><tspan
-           x="163.48654"
+    <a
+       id="a3349"
+       xlink:title="Centro de Ciências Jurídicas - Auditório"
+       xlink:show="Centro de Ciências Jurídicas - Auditório"
+       xlink:href="https://www.ccj.ufpb.br/joaopessoa/formulario-reservas-unidade-santa-rita/"
+       target="blank"
+       xlink:type="blank"
+       transform="translate(0,20)">
+      <g
+         id="g981">
+        <g
+           id="g41246"
+           transform="translate(-400.25458,801.48677)">
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+             id="circle41240"
+             cx="756.47522"
+             cy="555.23218"
+             r="15" />
+          <text
+             x="756.38989"
+             y="562.84814"
+             fill="#666666"
+             font-family="'Open Sans'"
+             font-size="32.0124px"
+             font-weight="500"
+             text-align="center"
+             text-anchor="middle"
+             xml:space="preserve"
+             id="text41244"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+               x="756.38989"
+               y="562.84814"
+               id="tspan41242"
+               style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
+        </g>
+        <text
+           x="343.34412"
+           y="1363.8439"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="19px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text11163"
+           style="fill:#000000"><tspan
+             x="379.51062"
+             y="1363.8439"
+             id="tspan11161"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Auditório</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a64243"
+       xlink:href="https://www.ccj.ufpb.br/santarita/catalogo-de-servicos/"
+       target="blank">
+      <g
+         id="g989"
+         transform="translate(0,20)">
+        <g
+           id="g41286"
+           transform="translate(-203.12848,801.48672)">
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+             id="circle41280"
+             cx="756.47522"
+             cy="555.23218"
+             r="15" />
+          <text
+             x="757.84058"
+             y="562.84814"
+             fill="#666666"
+             font-family="'Open Sans'"
+             font-size="32.0124px"
+             font-weight="500"
+             text-align="center"
+             text-anchor="middle"
+             xml:space="preserve"
+             id="text41284"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+               x="757.84058"
+               y="562.84814"
+               id="tspan41282"
+               style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
+        </g>
+        <text
+           x="541.07825"
+           y="1363.8439"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="19px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text11349"
+           style="fill:#000000"><tspan
+             x="577.24475"
+             y="1363.8439"
+             id="tspan11347"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratórios</tspan></text>
+      </g>
+    </a>
+    <a
+       id="a3340"
+       xlink:href="https://www.ccj.ufpb.br/santarita/"
+       target="blank"
+       xlink:title="Centro de Ciências Jurídicas - Central de Aulas"
+       xlink:show="Centro de Ciências Jurídicas - Central de Aulas"
+       transform="translate(0,20)">
+      <g
+         id="g973">
+        <g
+           id="g41206"
+           transform="translate(-617.38069,801.48677)">
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+             id="circle41200"
+             cx="756.47522"
+             cy="555.23218"
+             r="15" />
+          <text
+             x="757.84058"
+             y="562.84814"
+             fill="#666666"
+             font-family="'Open Sans'"
+             font-size="32.0124px"
+             font-weight="500"
+             text-align="center"
+             text-anchor="middle"
+             xml:space="preserve"
+             id="text41204"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+               x="757.84058"
+               y="562.84814"
+               id="tspan41202"
+               style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
+        </g>
+        <text
+           x="41.406765"
            y="1352.3109"
-           id="tspan68112"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Central de</tspan></tspan><tspan
-         sodipodi:role="line"
-         x="163.48654"
-         y="1376.0609"
-         id="tspan68116"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Aulas</tspan><tspan
-         sodipodi:role="line"
-         id="tspan68118"
-         x="163.48654"
-         y="1399.8109"
-         style="text-align:start;text-anchor:start" /></text>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#g28342"
-       id="use120268"
-       transform="translate(-755.60858,-151.15165)" />
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="19px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text68120"
+           style="fill:#000000"><tspan
+             sodipodi:role="line"
+             id="tspan68114"
+             x="163.48654"
+             y="1352.3109"
+             style="text-align:start;text-anchor:start"><tspan
+               x="163.48654"
+               y="1352.3109"
+               id="tspan68112"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Central de</tspan></tspan><tspan
+             sodipodi:role="line"
+             x="163.48654"
+             y="1376.0609"
+             id="tspan68116"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Aulas</tspan><tspan
+             sodipodi:role="line"
+             id="tspan68118"
+             x="163.48654"
+             y="1399.8109"
+             style="text-align:start;text-anchor:start" /></text>
+      </g>
+    </a>
     <g
        id="use54053"
        transform="matrix(2.8004514,0,0,2.8004514,-4091.8667,-1852.9693)">
@@ -2879,8 +3134,8 @@
        id="use122567"
        transform="translate(188.7984,-205.67731)" />
     <text
-       x="258.7756"
-       y="678.31604"
+       x="237.94159"
+       y="687.35498"
        fill="#666666"
        font-family="'Open Sans'"
        font-size="19px"
@@ -2890,53 +3145,13 @@
        xml:space="preserve"
        id="text21273"
        style="display:inline;fill:#1a1a1a;stroke-width:0.999997"><tspan
-         x="258.7756"
-         y="678.31604"
+         x="237.94159"
+         y="687.35498"
          id="tspan21271"
          style="fill:#1a1a1a;stroke-width:0.999997">Rua Barão Adauto L. Cardoso</tspan></text>
-    <g
-       id="g15165-3"
-       transform="matrix(6.7961913,0,0,6.7961913,-944.96675,-124.67225)">
-      <path
-         id="path15159-3-5"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.223994;stroke-linecap:round;stroke-dasharray:none"
-         d="m 170.47601,142.12154 h 7.4892 v 4.9205 l -3.7446,2.68793 -3.7446,-2.68793 z"
-         sodipodi:nodetypes="cccccc" />
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.175px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';fill:#4700f6;fill-opacity:1;stroke:#ffd42a;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
-         x="174.22696"
-         y="145.98094"
-         id="text15163-6"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
-           x="174.22696"
-           y="145.98094"
-           id="tspan15161-2">230</tspan></text>
-    </g>
-    <g
-       id="g150909"
-       transform="matrix(6.7961913,0,0,6.7961913,204.62022,47.510836)">
-      <path
-         id="path150903"
-         style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.223994;stroke-linecap:round;stroke-dasharray:none"
-         d="m 170.47601,142.12154 h 7.4892 v 4.9205 l -3.7446,2.68793 -3.7446,-2.68793 z"
-         sodipodi:nodetypes="cccccc" />
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:3.175px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';fill:#4700f6;fill-opacity:1;stroke:#ffd42a;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
-         x="174.22696"
-         y="145.98094"
-         id="text150907"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
-           x="174.22696"
-           y="145.98094"
-           id="tspan150905">230</tspan></text>
-    </g>
     <a
        class="svgobj"
-       transform="matrix(-1.3053633,0,0,1.3053633,2430.7662,-549.4512)"
+       transform="matrix(-1.4315901,0,0,1.4315901,2807.7653,-567.65663)"
        target="blank"
        xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
        xlink:title="Fauna Brasileira | Bem-te-Vi"
@@ -2986,14 +3201,152 @@
            style="fill:#14ffb0;fill-opacity:1" />
       </g>
     </a>
-    <path
-       style="display:inline;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
-       d="M 697.62255,1313.531 H 119.36077"
-       id="path3275"
-       sodipodi:nodetypes="cc" />
+    <g
+       id="g57580"
+       transform="translate(-3.7541504,16.183228)">
+      <path
+         style="fill:url(#radialGradient9563);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+         d="M 1752.5182,1228.4808 37.773137,881.30802 27.595702,886.10783 C 632.29647,1036.0129 1184.6893,1143.7102 1753.1512,1264.3738 Z"
+         id="path14297"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:url(#radialGradient15928);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+         d="m 139.61137,775.04023 -21.55282,-32.52836 1592.59055,352.45173 -3.932,4.2555 z"
+         id="path5087"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g22268"
+         transform="translate(14.0313,128.1825)">
+        <path
+           style="fill:url(#radialGradient36188);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+           d="m 90.328553,632.50706 1744.562847,353.76472 0.083,9.60301 -3.811,4.125 L 88.613083,642.24123 88.453163,634.8962 Z"
+           id="path22264"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#fefefe;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+           d="m 121.94481,638.96885 1712.94659,347.30293 -2.4917,2.25727 L 120.06942,641.35799 Z"
+           id="path22266"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:url(#radialGradient112505);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+         d="m 1752.5182,1228.4808 97.101,-105.087 L 137.10014,774.98452 37.773137,881.30802 Z"
+         id="path27514"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;stroke:url(#radialGradient15282);stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+         d="M 127.1915,785.59112 1839.4152,1134.4371"
+         id="path22313"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:48, 48;stroke-dashoffset:0;stop-color:#000000"
+         d="M 69.05123,847.82673 1782.9286,1195.5693"
+         id="path22260"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g22274"
+         transform="translate(-78.6452,228.481)">
+        <path
+           style="fill:url(#radialGradient42588);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+           d="m 118.13381,643.09285 1716.75759,343.17893 0.083,9.60301 -3.811,4.125 -1714.74506,-347.17277 -0.15992,-7.34503 z"
+           id="path22270"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#fefefe;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+           d="M 118.13381,643.09285 1865.9643,991.7162 1863.4726,993.97347 116.25842,645.48199 Z"
+           id="path22272"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#ffffff;stroke:url(#radialGradient15374);stroke-width:1;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+         d="M 50.324111,867.87297 1766.256,1213.6132"
+         id="path22311"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g11275"
+         transform="translate(-32,178)">
+        <path
+           style="fill:url(#radialGradient43682);fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+           d="m 121.15211,640.4121 1713.73929,345.85968 0.083,9.60301 -3.811,4.125 -1711.72676,-349.85352 -0.15992,-7.34503 z"
+           id="path10189"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#fefefe;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+           d="m 121.15211,640.4121 1713.73929,345.85968 -2.4917,2.25727 L 119.27672,642.80124 Z"
+           id="path11139"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ccff00;stroke-width:0;stroke-linecap:square;stop-color:#000000"
+         d="m 1849.0057,1124.0573 13.8065,21.6355 -109.661,118.681 -0.633,-35.893 z"
+         id="path11463"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:48, 48;stroke-dashoffset:0;stop-color:#000000"
+         d="M 108.40345,802.73245 1823.9664,1149.9316"
+         id="path22262"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g28342"
+         transform="matrix(3.784106,0,0,3.784106,-5222.9484,-2416.9436)"
+         style="display:inline">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ececec;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 1723.3521,918.76838 V 885.50147"
+           id="path25740" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#ececec;stroke-width:2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 1732.1086,881.30637 -8.7565,4.1951 -6.5106,-4.09651"
+           id="path26398"
+           sodipodi:nodetypes="ccc" />
+        <circle
+           style="fill:url(#radialGradient27780);fill-opacity:1;stroke:none;stroke-width:4.85448;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="path26528"
+           cx="1732.8617"
+           cy="881.97656"
+           r="6.900598" />
+        <circle
+           style="fill:url(#radialGradient28312);fill-opacity:1;stroke:none;stroke-width:4.85448;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="circle28262"
+           cx="1716.2876"
+           cy="881.60004"
+           r="6.900598" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g28342"
+         id="use120268"
+         transform="translate(-751.83851,-150.284)" />
+      <g
+         id="g150909"
+         transform="matrix(6.7961913,0,0,6.7961913,-172.64744,-2.3281377)">
+        <path
+           id="path150903"
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.223994;stroke-linecap:round;stroke-dasharray:none"
+           d="m 170.47601,142.12154 h 7.4892 v 4.9205 l -3.7446,2.68793 -3.7446,-2.68793 z"
+           sodipodi:nodetypes="cccccc" />
+        <text
+           xml:space="preserve"
+           style="font-weight:bold;font-size:3.175px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Bold';fill:#4700f6;fill-opacity:1;stroke:#ffd42a;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:1.5875, 1.5875;stroke-dashoffset:0;stroke-opacity:1"
+           x="174.22696"
+           y="145.98094"
+           id="text150907"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Google Sans';-inkscape-font-specification:'Google Sans Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.264583"
+             x="174.22696"
+             y="145.98094"
+             id="tspan150905">230</tspan></text>
+      </g>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+         d="M 907.62255,1313.531 H 119.36077"
+         id="path3275"
+         sodipodi:nodetypes="cc" />
+    </g>
     <g
        id="g127337"
-       transform="translate(1955.9841,-76.61163)">
+       transform="translate(967.60479,-164.19974)">
       <g
          id="g2098"
          transform="matrix(0,-2.5926681,2.5926681,0,-102.74464,688.35691)"
@@ -3026,6 +3379,410 @@
          id="path12547-5"
          sodipodi:nodetypes="cccc" />
     </g>
+    <rect
+       style="fill:#fff5f5;fill-opacity:0.01;stroke-width:3.16729;stroke-linecap:round;stroke-linejoin:round"
+       id="rect37385"
+       width="1920"
+       height="1157.1097"
+       x="0"
+       y="151.52676" />
+    <a
+       class="svgobj"
+       transform="translate(-704.95413,230.982)"
+       filter="url(#filter29417)"
+       target="blank"
+       xlink:href="https://maps.app.goo.gl/8iYzaq7byURfjrzz9"
+       xlink:title="Acesso"
+       id="a913"
+       xlink:show="Acesso"
+       style="display:inline">
+      <g
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="g911">
+        <path
+           d="M 1114,972 V 787.87566 h 236 V 583"
+           fill="none"
+           marker-end="url(#Dot-8-3)"
+           stroke="#000000"
+           stroke-width="2"
+           id="path909"
+           style="marker-end:url(#Dot-8-3)"
+           sodipodi:nodetypes="cccc" />
+        <path
+           id="rect104403-6-5"
+           style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
+           sodipodi:nodetypes="cccc" />
+        <g
+           id="g38418-1"
+           transform="matrix(0.74,0,0,0.74,311,934)">
+          <rect
+             x="992.7027"
+             y="53.702702"
+             width="191"
+             height="74"
+             rx="0"
+             ry="0"
+             filter="url(#filter29405)"
+             stroke="#000000"
+             stroke-width="1.4"
+             id="rect3930"
+             style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0;stroke-dasharray:none" />
+          <rect
+             x="990"
+             y="51"
+             width="191"
+             height="74"
+             rx="0"
+             ry="0"
+             filter="url(#filter29405)"
+             stroke="#000000"
+             stroke-width="1.4"
+             id="rect902"
+             style="fill:#8aff07;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none" />
+        </g>
+        <text
+           x="1116.2551"
+           y="1007.9888"
+           fill="#ccff00"
+           font-family="'Open Sans'"
+           font-size="24px"
+           font-weight="500"
+           stroke-width="0.71"
+           xml:space="preserve"
+           id="text907"
+           style="fill:#000000"><tspan
+             x="1116.2551"
+             y="1007.9888"
+             fill="#ccff00"
+             font-family="'Open Sans'"
+             font-size="24px"
+             font-weight="600"
+             stroke-width="0.71"
+             text-align="center"
+             text-anchor="middle"
+             id="tspan905"
+             style="fill:#000000">Acesso</tspan></text>
+      </g>
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(528.29203,231.662)"
+       filter="url(#filter29381)"
+       target="blank"
+       xlink:href="https://www.ccj.ufpb.br/santarita/catalogo-de-servicos/"
+       xlink:title="UFPB"
+       id="a980"
+       xlink:show="UFPB"
+       style="display:inline">
+      <path
+         d="M 619,971 618.83,648 737.88876,560.36475"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path970"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="ccc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g41286"
+         id="use1619"
+         style="display:inline"
+         transform="translate(185.36123,-796.3809)" />
+      <g
+         transform="translate(11)"
+         id="g974">
+        <use
+           transform="translate(-506,-0.68)"
+           filter="url(#filter29417)"
+           xlink:href="#g38418-1"
+           id="use972" />
+      </g>
+      <text
+         x="620.30731"
+         y="1007.0679"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text978"><tspan
+           x="620.30731"
+           y="1007.0679"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-width="0.6"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan976"
+           style="fill:#000000">Laboratórios</tspan></text>
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(758.18163,207.9)"
+       filter="url(#filter29405)"
+       target="blank"
+       xlink:href="https://www.ccj.ufpb.br/santarita/"
+       xlink:title="Centro de Ciências Jurídicas - Central de Aulas"
+       id="a932"
+       xlink:show="Centro de Ciências Jurídicas - Central de Aulas"
+       style="display:inline">
+      <path
+         d="M 954,963 V 703 L 516,423"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path915"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="ccc" />
+      <g
+         transform="translate(0,1.7)"
+         id="g930">
+        <g
+           id="g38418"
+           transform="matrix(0.74,0,0,0.74,151,930)">
+          <rect
+             x="992.7027"
+             y="45.702702"
+             width="191"
+             height="117"
+             rx="0"
+             ry="0"
+             id="rect4810"
+             style="fill:#000000;fill-opacity:0.5" />
+          <rect
+             x="990"
+             y="43"
+             width="191"
+             height="117"
+             rx="0"
+             ry="0"
+             id="rect917"
+             style="fill:#8aff07;fill-opacity:1" />
+        </g>
+        <text
+           x="955.41327"
+           y="1000.8607"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           text-anchor="middle"
+           style="line-height:1.2;fill:#000000"
+           xml:space="preserve"
+           id="text928"><tspan
+             sodipodi:role="line"
+             id="tspan11701"
+             x="955.41327"
+             y="1000.8607">Central</tspan><tspan
+             sodipodi:role="line"
+             id="tspan11703"
+             x="955.41327"
+             y="1024.8607">de Aulas</tspan></text>
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g41206"
+         id="use988"
+         style="display:inline"
+         transform="translate(379.71305,-937.22592)" />
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(642.69959,231.662)"
+       filter="url(#filter29357)"
+       target="blank"
+       xlink:href="https://www.ccj.ufpb.br/joaopessoa/formulario-reservas-unidade-santa-rita/"
+       id="a956"
+       xlink:title="Centro de Ciências Jurídicas - Auditório"
+       xlink:show="Centro de Ciências Jurídicas - Auditório"
+       style="display:inline">
+      <path
+         d="m 290,971 v -311.22767 -40.8706 l 125.75054,-86.4426"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path946"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="cccc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g41246"
+         id="use1197"
+         style="display:inline"
+         transform="translate(61.76251,-825.61859)" />
+      <g
+         transform="translate(-5.5)"
+         id="g954">
+        <use
+           transform="translate(-819,-0.68)"
+           filter="url(#filter29417)"
+           xlink:href="#g38418-1"
+           id="use948" />
+        <text
+           x="296.67978"
+           y="1007.0044"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="500"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           style="line-height:1.2;fill:#000000"
+           xml:space="preserve"
+           id="text952"><tspan
+             x="296.67978"
+             y="1007.0044"
+             fill="#ffffff"
+             font-family="'Open Sans'"
+             font-size="20px"
+             font-weight="600"
+             stroke-width="0.6"
+             text-align="center"
+             text-anchor="middle"
+             id="tspan950"
+             style="fill:#000000">Auditório</tspan></text>
+      </g>
+    </a>
+    <a
+       class="svgobj"
+       transform="translate(434.12677,231.662)"
+       filter="url(#filter29357)"
+       target="blank"
+       xlink:href="https://www.ccs.ufpb.br/biblioteca/contents/paginas/sistemoteca"
+       id="a63104"
+       xlink:title="Centro de Ciências Jurídicas - Biblioteca"
+       xlink:show="Centro de Ciências Jurídicas - Biblioteca"
+       style="display:inline">
+      <path
+         d="M 290,971 V 469.04659 h 267.80944"
+         fill="none"
+         marker-end="url(#Dot-8-3)"
+         stroke="#000000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2"
+         id="path63092"
+         style="marker-end:url(#Dot-8-3)"
+         sodipodi:nodetypes="ccc" />
+      <g
+         transform="translate(-5.5)"
+         id="g63102">
+        <use
+           transform="translate(-819,-0.68)"
+           filter="url(#filter29417)"
+           xlink:href="#g38418-1"
+           id="use63096" />
+        <text
+           x="296.67978"
+           y="1007.0044"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="500"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           style="line-height:1.2;fill:#000000"
+           xml:space="preserve"
+           id="text63100"><tspan
+             x="296.67978"
+             y="1007.0044"
+             fill="#ffffff"
+             font-family="'Open Sans'"
+             font-size="20px"
+             font-weight="600"
+             stroke-width="0.6"
+             text-align="center"
+             text-anchor="middle"
+             id="tspan63098"
+             style="fill:#000000">Biblioteca</tspan></text>
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g63112"
+         id="use63244"
+         style="display:inline"
+         transform="translate(204.12061,-888.89387)" />
+    </a>
+    <a
+       id="a63120"
+       xlink:title="Centro de Ciências Jurídicas - Biblioteca"
+       xlink:show="Centro de Ciências Jurídicas - Biblioteca"
+       xlink:href="https://www.ccs.ufpb.br/biblioteca/contents/paginas/sistemoteca"
+       target="blank"
+       xlink:type=""
+       transform="translate(429.09924,20)">
+      <g
+         id="g63118">
+        <g
+           id="g63112"
+           transform="translate(-400.25458,801.48677)">
+          <circle
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+             id="circle63106"
+             cx="756.47522"
+             cy="555.23218"
+             r="15" />
+          <text
+             x="756.38989"
+             y="562.84814"
+             fill="#666666"
+             font-family="'Open Sans'"
+             font-size="32.0124px"
+             font-weight="500"
+             text-align="center"
+             text-anchor="middle"
+             xml:space="preserve"
+             id="text63110"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+               x="756.38989"
+               y="562.84814"
+               id="tspan63108"
+               style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
+        </g>
+        <text
+           x="343.34412"
+           y="1363.8439"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="19px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text63116"
+           style="fill:#000000"><tspan
+             x="379.51062"
+             y="1363.8439"
+             id="tspan63114"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></text>
+      </g>
+    </a>
     <g
        transform="matrix(1.2620252,0,0,1.2620252,1491.4178,1160.2456)"
        style="display:inline;fill:#b3b3b3;enable-background:new"
@@ -3195,330 +3952,6 @@
            id="path3647-7"
            inkscape:connector-curvature="0" />
       </g>
-    </g>
-    <rect
-       style="fill:#fff5f5;fill-opacity:0.01;stroke-width:3.16729;stroke-linecap:round;stroke-linejoin:round"
-       id="rect37385"
-       width="1920"
-       height="1157.1097"
-       x="0"
-       y="151.52676" />
-    <a
-       class="svgobj"
-       transform="translate(-465.32408,230.982)"
-       filter="url(#filter29417)"
-       target="blank"
-       xlink:href="https://maps.app.goo.gl/8iYzaq7byURfjrzz9"
-       xlink:title="Acesso"
-       id="a913"
-       xlink:show="Acesso"
-       style="display:inline">
-      <g
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         id="g911">
-        <path
-           d="M 1114,972 V 555"
-           fill="none"
-           marker-end="url(#Dot-8-3)"
-           stroke="#000000"
-           stroke-width="2"
-           id="path909"
-           style="marker-end:url(#Dot-8-3)"
-           sodipodi:nodetypes="cc" />
-        <path
-           id="rect104403-6-5"
-           style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-           d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
-           sodipodi:nodetypes="cccc" />
-        <g
-           id="g38418-1"
-           transform="matrix(0.74,0,0,0.74,311,934)">
-          <rect
-             x="990"
-             y="51"
-             width="191"
-             height="74"
-             rx="0"
-             ry="0"
-             filter="url(#filter29405)"
-             stroke="#000000"
-             stroke-width="1.4"
-             id="rect902"
-             style="fill:#00ffff;stroke:none;stroke-width:0;stroke-dasharray:none" />
-        </g>
-        <text
-           x="1116.2551"
-           y="1007.9888"
-           fill="#ccff00"
-           font-family="'Open Sans'"
-           font-size="24px"
-           font-weight="500"
-           stroke-width="0.71"
-           xml:space="preserve"
-           id="text907"
-           style="fill:#000000"><tspan
-             x="1116.2551"
-             y="1007.9888"
-             fill="#ccff00"
-             font-family="'Open Sans'"
-             font-size="24px"
-             font-weight="600"
-             stroke-width="0.71"
-             text-align="center"
-             text-anchor="middle"
-             id="tspan905"
-             style="fill:#000000">Acesso</tspan></text>
-      </g>
-    </a>
-    <a
-       class="svgobj"
-       transform="translate(508.29203,231.662)"
-       filter="url(#filter29381)"
-       target="blank"
-       xlink:href="https://www.ccj.ufpb.br/santarita/"
-       xlink:title="UFPB"
-       id="a980"
-       xlink:show="UFPB"
-       style="display:inline">
-      <path
-         d="M 619,971 618.83,688 771.77257,575.42399"
-         fill="none"
-         marker-end="url(#Dot-8-3)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="2"
-         id="path970"
-         style="marker-end:url(#Dot-8-3)"
-         sodipodi:nodetypes="ccc" />
-      <g
-         transform="translate(11)"
-         id="g974">
-        <use
-           transform="translate(-506,-0.68)"
-           filter="url(#filter29417)"
-           xlink:href="#g38418-1"
-           id="use972" />
-      </g>
-      <text
-         x="620.30731"
-         y="1007.0679"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text978"><tspan
-           x="620.30731"
-           y="1007.0679"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-width="0.6"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan976"
-           style="fill:#000000">Laboratórios</tspan></text>
-    </a>
-    <a
-       class="svgobj"
-       transform="translate(758.18163,207.9)"
-       filter="url(#filter29405)"
-       target="blank"
-       xlink:href="https://www.ccj.ufpb.br/santarita/"
-       xlink:title="UFPB"
-       id="a932"
-       xlink:show="UFPB"
-       style="display:inline">
-      <path
-         d="M 954,963 V 623 L 516,403"
-         fill="none"
-         marker-end="url(#Dot-8-3)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="2"
-         id="path915"
-         style="marker-end:url(#Dot-8-3)"
-         sodipodi:nodetypes="ccc" />
-      <g
-         transform="translate(0,1.7)"
-         id="g930">
-        <g
-           id="g38418"
-           transform="matrix(0.74,0,0,0.74,151,930)">
-          <rect
-             x="990"
-             y="43"
-             width="191"
-             height="117"
-             rx="0"
-             ry="0"
-             id="rect917"
-             style="fill:#00ffff" />
-        </g>
-        <text
-           x="955.41327"
-           y="1000.8607"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           text-anchor="middle"
-           style="line-height:1.2;fill:#000000"
-           xml:space="preserve"
-           id="text928"><tspan
-             sodipodi:role="line"
-             id="tspan11701"
-             x="955.41327"
-             y="1000.8607">Central</tspan><tspan
-             sodipodi:role="line"
-             id="tspan11703"
-             x="955.41327"
-             y="1024.8607">de Aulas</tspan></text>
-      </g>
-    </a>
-    <a
-       class="svgobj"
-       transform="translate(582.69959,231.662)"
-       filter="url(#filter29357)"
-       target="blank"
-       xlink:href="https://www.ccj.ufpb.br/santarita/"
-       id="a956"
-       xlink:title="UFPB"
-       xlink:show="UFPB"
-       style="display:inline">
-      <path
-         d="M 290,971 V 650.90173 L 485.30421,516.64702"
-         fill="none"
-         marker-end="url(#Dot-8-3)"
-         stroke="#000000"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="2"
-         id="path946"
-         style="marker-end:url(#Dot-8-3)"
-         sodipodi:nodetypes="ccc" />
-      <g
-         transform="translate(-5.5)"
-         id="g954">
-        <use
-           transform="translate(-819,-0.68)"
-           filter="url(#filter29417)"
-           xlink:href="#g38418-1"
-           id="use948" />
-        <text
-           x="296.67978"
-           y="1007.0044"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="500"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           style="line-height:1.2;fill:#000000"
-           xml:space="preserve"
-           id="text952"><tspan
-             x="296.67978"
-             y="1007.0044"
-             fill="#ffffff"
-             font-family="'Open Sans'"
-             font-size="20px"
-             font-weight="600"
-             stroke-width="0.6"
-             text-align="center"
-             text-anchor="middle"
-             id="tspan950"
-             style="fill:#000000">Auditório</tspan></text>
-      </g>
-    </a>
-    <g
-       id="g39851"
-       transform="translate(514.0291,52.582689)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         id="circle39845"
-         cx="756.47522"
-         cy="555.23218"
-         r="15" />
-      <text
-         x="757.84058"
-         y="562.84814"
-         fill="#666666"
-         font-family="'Open Sans'"
-         font-size="32.0124px"
-         font-weight="500"
-         text-align="center"
-         text-anchor="middle"
-         xml:space="preserve"
-         id="text39849"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-           x="757.84058"
-           y="562.84814"
-           id="tspan39847"
-           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-    </g>
-    <g
-       id="g39859"
-       transform="translate(311.56232,190.92266)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         id="circle39853"
-         cx="756.47522"
-         cy="555.23218"
-         r="15" />
-      <text
-         x="756.38989"
-         y="562.84814"
-         fill="#666666"
-         font-family="'Open Sans'"
-         font-size="32.0124px"
-         font-weight="500"
-         text-align="center"
-         text-anchor="middle"
-         xml:space="preserve"
-         id="text39857"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-           x="756.38989"
-           y="562.84814"
-           id="tspan39855"
-           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-    </g>
-    <g
-       id="g39867"
-       transform="translate(525.51477,251.84439)">
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         id="circle39861"
-         cx="756.47522"
-         cy="555.23218"
-         r="15" />
-      <text
-         x="757.84058"
-         y="562.84814"
-         fill="#666666"
-         font-family="'Open Sans'"
-         font-size="32.0124px"
-         font-weight="500"
-         text-align="center"
-         text-anchor="middle"
-         xml:space="preserve"
-         id="text39865"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-           x="757.84058"
-           y="562.84814"
-           id="tspan39863"
-           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
     </g>
   </g>
 </svg>

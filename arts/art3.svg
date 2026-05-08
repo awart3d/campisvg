@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.4970009"
-     inkscape:cx="1368.2068"
-     inkscape:cy="456.73961"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="205.06097"
+     inkscape:cy="803.2733"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -5246,11 +5246,11 @@
      xlink:href="#use72214"
      id="use1350" />
   <use
-     transform="matrix(1.2,0,0,1.2,-1089,-393.6)"
+     transform="matrix(1.2,0,0,1.2,-1038.5295,-395.81566)"
      xlink:href="#use72214"
      id="use1352" />
   <use
-     transform="matrix(1.5967331,0,0,1.5967331,-1637.1545,-835.7771)"
+     transform="matrix(1.5967331,0,0,1.5967331,-1624.8242,-849.87753)"
      xlink:href="#use72212"
      id="use1354" />
   <use
@@ -5258,7 +5258,7 @@
      xlink:href="#use72214"
      id="use1356" />
   <use
-     transform="matrix(1.2,0,0,1.2,-964,-518.6)"
+     transform="matrix(1.2,0,0,1.2,-979.7137,-510.89186)"
      xlink:href="#use72214"
      id="use1358" />
   <use
@@ -5274,11 +5274,11 @@
      xlink:href="#use72214"
      id="use1364" />
   <use
-     transform="translate(-755,-358)"
+     transform="translate(-779.97202,-374.38859)"
      xlink:href="#use72214"
      id="use1366" />
   <use
-     transform="matrix(1.2904142,0,0,1.2904142,-1171.0378,-599.32996)"
+     transform="matrix(1.2904142,0,0,1.2904142,-1220.5554,-587.96396)"
      xlink:href="#use72214"
      id="use1368" />
   <use
@@ -5302,7 +5302,7 @@
      xlink:href="#use72214"
      id="use1380" />
   <use
-     transform="translate(-756,-364)"
+     transform="translate(-792.50835,-368.52958)"
      xlink:href="#use72252"
      id="use1382" />
   <use
@@ -5402,7 +5402,7 @@
      xlink:href="#use72214"
      id="use1430" />
   <g
-     transform="matrix(0.94,-0.041,-0.041,-0.94,421.19323,1350.8611)"
+     transform="matrix(1.1237055,-0.04901269,-0.04901269,-1.1237055,313.7476,1474.7894)"
      id="g1442">
     <path
        d="m 592.06934,650.00338 c 2.61715,-0.66601 15.15089,-0.53539 15.77713,-0.09 -5.2561,3.65869 -17.10067,1.4899 -15.77713,0.09 z"
@@ -5899,9 +5899,69 @@
      xlink:href="#use72214"
      id="use1683" />
   <use
-     transform="matrix(0.55,0,0,0.55,485,177.1)"
+     transform="matrix(0.55,0,0,0.55,485.75,172.22709)"
      xlink:href="#use72214"
      id="use1685" />
+  <g
+     transform="matrix(-1.1751228,-0.05141162,0.05141162,-1.1751228,1959.3818,1545.0331)"
+     id="g10082">
+    <path
+       d="m 590.55175,649.95562 c 2.67309,-0.76538 16.78451,-1.54386 17.42825,-1.01725 -5.3527,4.26376 -18.77287,2.65246 -17.42825,1.01725 z"
+       fill="#999999"
+       id="path10070"
+       sodipodi:nodetypes="ccc"
+       style="fill:#09560d;fill-opacity:1;stroke-width:0.900028" />
+    <g
+       transform="translate(28,12)"
+       id="g10080">
+      <path
+         d="m 577,638 c -0.53,0.72 -4.3,12 -6.2,12 9.8,5.9 8.5,-10 6.2,-12 z"
+         fill="#1a1a1a"
+         id="path10072" />
+      <path
+         d="m 565,638 c -1.6,7.9 -2,12 -2.1,11 7.4,5.2 2.5,-13 2.1,-11 z"
+         fill="#1a1a1a"
+         id="path10074" />
+      <path
+         d="m 585,645 c 2.6,1.2 -4.2,11 -6.7,9.4 3.7,-4.7 7.3,-9.5 6.7,-9.4 z"
+         fill="#383838"
+         id="path10076" />
+      <path
+         d="m 563,638 c -1.2,2 -1.5,3.1 -3.9,11 -1.1,3.2 -6.5,4.5 -6.3,6.7 0.065,3.1 2.4,2 6.5,5.8 0.51,-1.7 0.73,-1 2.1,-0.049 0.79,-4.6 4.7,-2.3 6,-5.4 12,-0.99 13,-0.69 15,-3.9 -0.028,-6.5 -1.9,-17 -2.5,-16 l -2.6,6.4 c -1.7,-0.92 -3.5,-1.3 -6.3,0.27 0,0 -4.1,-0.37 -6.8,1.4 -0.78,-5.3 -0.57,-3.4 -1.4,-7 z"
+         fill="#383838"
+         id="path10078" />
+    </g>
+  </g>
+  <g
+     transform="matrix(0.92339302,-0.10048689,-0.10048689,-0.92339302,788.83914,1425.5746)"
+     id="g10068">
+    <path
+       d="m 607.42197,648.7158 c -2.7774,-0.25953 -15.5664,1.82169 -16.13774,2.36488 5.93603,2.84513 17.70631,-1.16946 16.13774,-2.36488 z"
+       fill="#999999"
+       id="path10056"
+       sodipodi:nodetypes="ccc"
+       style="fill:#09560d;fill-opacity:1;stroke-width:0.840149" />
+    <g
+       transform="translate(28,12)"
+       id="g10066">
+      <path
+         d="m 577,638 c -0.53,0.72 -4.3,12 -6.2,12 9.8,5.9 8.5,-10 6.2,-12 z"
+         fill="#999999"
+         id="path10058" />
+      <path
+         d="m 565,638 c -1.6,7.9 -2,12 -2.1,11 7.4,5.2 2.5,-13 2.1,-11 z"
+         fill="#999999"
+         id="path10060" />
+      <path
+         d="m 585,645 c 2.6,1.2 -4.2,11 -6.7,9.4 3.7,-4.7 7.3,-9.5 6.7,-9.4 z"
+         fill="#f2f2f2"
+         id="path10062" />
+      <path
+         d="m 563,638 c -1.2,2 -1.5,3.1 -3.9,11 -1.1,3.2 -6.5,4.5 -6.3,6.7 0.065,3.1 2.4,2 6.5,5.8 0.51,-1.7 0.73,-1 2.1,-0.049 0.79,-4.6 4.7,-2.3 6,-5.4 12,-0.99 13,-0.69 15,-3.9 -0.028,-6.5 -1.9,-17 -2.5,-16 l -2.6,6.4 c -1.7,-0.92 -3.5,-1.3 -6.3,0.27 0,0 -4.1,-0.37 -6.8,1.4 -0.78,-5.3 -0.57,-3.4 -1.4,-7 z"
+         fill="#f2f2f2"
+         id="path10064" />
+    </g>
+  </g>
   <use
      transform="matrix(0.96,0,0,0.96,-807.6,-207.88)"
      xlink:href="#use72214"
@@ -6007,7 +6067,7 @@
     </g>
   </g>
   <g
-     transform="matrix(-0.72,-0.032,0.032,-0.72,1307.8419,1183.9147)"
+     transform="matrix(-1.1286316,-0.05016141,0.05016141,-1.1286316,1546.193,1459.9626)"
      id="g1745">
     <path
        d="m 608.53837,648.94228 c -3.03334,-0.58567 -17.20368,0.92838 -17.8646,1.57465 6.34118,4.19548 19.51275,0.10412 17.8646,-1.57465 z"
@@ -6076,7 +6136,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.8,-0.035,-0.035,-0.8,462.18333,1358.0302)"
+     transform="matrix(1.1751228,-0.05141162,-0.05141162,-1.1751228,215.00426,1631.4476)"
      id="g1769">
     <path
        d="m 590.55175,649.95562 c 2.67309,-0.76538 16.78451,-1.54386 17.42825,-1.01725 -5.3527,4.26376 -18.77287,2.65246 -17.42825,1.01725 z"
@@ -6106,7 +6166,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.94,-0.041,-0.041,-0.94,863.04416,1552.2742)"
+     transform="matrix(0.98181917,-0.04282403,-0.04282403,-0.98181917,840.56799,1573.0872)"
      id="g1781">
     <path
        d="m 591.22292,649.92166 c 2.27507,-0.65109 15.65219,-0.95604 16.2,-0.50742 -4.556,3.62814 -17.34455,1.89931 -16.2,0.50742 z"
@@ -6137,7 +6197,7 @@
     </g>
   </g>
   <g
-     transform="matrix(-0.72,-0.032,0.032,-0.72,1775,1420)"
+     transform="matrix(-0.96770252,-0.043009,0.043009,-0.96770252,1919.4826,1587.2553)"
      id="g1797">
     <path
        d="m 608.0315,648.57931 c -3.03334,-0.58568 -16.4844,0.44122 -17.14532,1.08748 6.34117,4.19548 18.79347,0.59127 17.14532,-1.08748 z"
@@ -6177,7 +6237,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0.72,-0.032,-0.032,-0.72,956,1385)"
+     transform="matrix(0.84666489,-0.03762955,-0.03762955,-0.84666489,882.19542,1462.8482)"
      id="g1809">
     <path
        d="m 590.45058,649.96023 c 2.96942,-0.85246 16.99067,-1.92352 17.70632,-1.33844 -5.94398,4.74148 -19.19904,3.15679 -17.70632,1.33844 z"
@@ -6553,58 +6613,6 @@
      d="M 220,103.93104 V 91.86207 h 12.06896 12.06895 v 12.06897 12.06898 H 232.06896 220 Z m 20.68966,0 v -8.62068 h -8.6207 -8.62067 v 8.62068 8.62069 h 8.62067 8.6207 z m -13.79312,0 v -5.17241 h 5.17242 5.17241 v 5.17241 5.17241 h -5.17241 -5.17242 z m 20.68966,6.89656 v -5.17241 h 1.72413 1.72416 v -1.72415 -1.72414 h -1.72416 -1.72413 v -6.89654 -6.89655 h 1.72413 1.72416 v -1.72414 -1.72414 h -3.44829 -3.44829 v 1.72414 1.72414 h -6.89654 -6.89654 v -5.17242 -5.17241 h -1.72416 -1.72413 v -1.72414 -1.72415 h 1.72413 1.72416 v -1.72413 -1.72414 h -3.44829 -3.44825 V 69.44828 67.72414 H 221.72413 220 V 66 64.27586 h 1.72413 1.72416 V 62.55172 60.82759 H 221.72413 220 v -1.72414 -1.72414 h 3.44829 3.44825 v -1.72414 -1.72413 h 1.72413 1.72416 v -3.44828 -3.44828 h -3.44829 -3.44825 v 3.44828 3.44828 H 221.72413 220 v -5.17243 -5.1724 h 5.17241 5.17242 v 1.72413 1.72414 h 1.72413 1.72412 v -1.72414 -1.72413 h 6.89658 6.89654 v -3.44828 -3.44827 h 1.72413 1.72416 v 5.17241 5.17241 h 1.72412 1.72416 v 1.72413 1.72415 h 1.72413 1.72413 v -1.72415 -1.72413 h 1.72413 1.72416 v -1.72414 -1.72413 h -1.72416 -1.72413 v -1.72414 -1.72414 h -1.72413 -1.72413 v -3.44827 -3.44829 h -1.72416 -1.72412 V 29.7931 26.34483 h -1.72416 -1.72413 v -1.72414 -1.72414 h 1.72413 1.72416 v -1.72414 -1.72413 h 1.72412 1.72416 V 17.72414 16 h 1.72413 1.72413 v 1.72414 1.72415 h -1.72413 -1.72413 v 1.72413 1.72414 h -1.72416 -1.72412 v 1.72414 1.72414 h 1.72412 1.72416 v 3.44827 3.44827 h 3.44826 3.44829 v -3.44827 -3.44827 h -1.72416 -1.72413 V 24.6207 22.89656 h 1.72413 1.72416 v 1.72414 1.72414 h 1.72412 1.72413 v 1.72413 1.72414 h 1.72416 1.72413 v -1.72414 -1.72413 h 3.44828 3.44826 v 5.17241 5.17242 h 1.72416 1.72413 v 1.72413 1.72414 h 1.72412 1.72416 v -3.44827 -3.44829 h -1.72416 -1.72412 v -1.72413 -1.72414 h 3.44828 3.44826 v -1.72414 -1.72413 h -1.72413 -1.72413 V 24.6207 22.89656 h -1.72416 -1.72412 V 19.44828 16 h 5.17241 5.17241 v 1.72414 1.72415 h 1.72413 1.72416 v 1.72413 1.72414 h -1.72416 -1.72413 v 6.89655 6.89656 h 1.72413 1.72416 v 3.44827 3.44828 h 3.44826 3.44828 v 1.72413 1.72414 h 1.72413 1.72416 v 6.89656 6.89655 h -1.72416 -1.72413 v 3.44827 3.44828 h 1.72413 1.72416 V 66 64.27586 h 1.72413 1.72413 v -3.44827 -3.44828 h 1.72415 1.72413 V 66 74.62069 h 1.72413 1.72416 v -5.17241 -5.17242 h 1.72413 1.72412 v -1.72414 -1.72413 h -1.72412 -1.72413 v -3.44828 -3.44827 h -1.72416 -1.72413 V 52.2069 50.48276 h -1.72413 -1.72415 v -1.72415 -1.72413 h 1.72415 1.72413 v -1.72414 -1.72413 h 1.72413 1.72416 v 1.72413 1.72414 h -1.72416 -1.72413 v 1.72413 1.72415 h 3.44829 3.44825 V 48.75861 47.03448 H 318.27587 320 v 3.44828 3.44828 h -1.72413 -1.72416 v 1.72413 1.72414 H 318.27587 320 v 5.17241 5.17242 h -1.72413 -1.72416 v 1.72414 1.72414 H 318.27587 320 v 5.17242 5.17241 h -1.72413 -1.72416 v 1.72415 1.72413 h -1.72412 -1.72413 v -3.44828 -3.44827 h -3.44829 -3.44828 v 1.72413 1.72414 h 1.72415 1.72413 v 1.72415 1.72413 h -1.72413 -1.72415 v 3.44828 3.44827 h 1.72415 1.72413 V 90.13795 88.41381 H 314.82759 320 v 3.44827 3.44828 h -3.44829 -3.44825 v -1.72414 -1.72414 h -1.72416 -1.72413 v 3.44828 3.44828 h -1.72413 -1.72415 v 3.44827 3.44828 h 1.72415 1.72413 v -1.72414 -1.72414 H 314.82759 320 v 3.44828 3.44827 h -1.72413 -1.72416 v 1.72414 1.72414 H 318.27587 320 v 1.72414 1.72414 h -3.44829 -3.44825 v -3.44829 -3.44828 h 1.72413 1.72412 v -1.72413 -1.72414 h -3.44825 -3.44829 v 1.72414 1.72413 h -5.17241 -5.17242 v -3.44827 -3.44828 h -3.44828 -3.44826 v 1.72414 1.72414 h 1.72413 1.72413 v 3.44827 3.44828 h 3.44828 3.44829 v 1.72414 1.72414 h -3.44829 -3.44828 v -1.72414 -1.72414 h -1.72413 -1.72413 v 1.72414 1.72414 h -1.72416 -1.72413 v -1.72414 -1.72414 h -1.72412 -1.72416 v -1.72413 -1.72414 h -1.72413 -1.72413 v 3.44828 3.44828 h -3.44828 -3.44829 v -1.72414 -1.72414 h 1.72416 1.72413 v -1.72414 -1.72414 h -1.72413 -1.72416 v -1.72413 -1.72414 h 1.72416 1.72413 v 1.72414 1.72413 h 1.72412 1.72416 v -3.44827 -3.44828 h 3.44826 3.44828 v -3.44827 -3.44828 h -1.72412 -1.72416 v 1.72413 1.72415 h -3.44826 -3.44828 v -3.44828 -3.44828 h -3.44829 -3.44826 v -1.72413 -1.72414 h -1.72412 -1.72416 v -1.72414 -1.72414 h -3.44829 -3.44825 v 3.44828 3.44827 h -3.44829 -3.44826 v 1.72414 1.72414 h 3.44826 3.44829 v 1.72413 1.72415 h 1.72412 1.72413 v 1.72414 1.72413 h 1.72416 1.72413 v 1.72414 1.72414 h 1.72416 1.72412 v 5.17241 5.17242 h -1.72412 -1.72416 v -1.72414 -1.72414 h -3.44829 -3.44825 v 1.72414 1.72414 h -1.72416 -1.72413 v -1.72414 -1.72414 h -3.44826 -3.44828 v 1.72414 1.72414 h -1.72416 -1.72413 z m 13.79312,0 v -1.72414 h -1.72416 -1.72413 v -3.44827 -3.44828 h 1.72413 1.72416 v -1.72413 -1.72414 h -1.72416 -1.72413 v 1.72414 1.72413 h -1.72413 -1.72413 v -3.44827 -3.44828 h -1.72416 -1.72412 v 3.44828 3.44827 h 1.72412 1.72416 v 1.72414 1.72414 h -1.72416 -1.72412 v 1.72414 1.72413 h 3.44828 3.44826 v 1.72414 1.72413 h 1.72413 1.72416 z m 6.89654,-3.44827 v -1.72414 h -1.72413 -1.72416 v 1.72414 1.72412 h 1.72416 1.72413 z m 24.13794,0 v -1.72414 h -1.72416 -1.72413 v 1.72414 1.72412 h 1.72413 1.72416 z M 302.75863,93.58621 V 88.4138 h -5.17241 -5.17242 v 5.17241 5.17242 h 5.17242 5.17241 z m -6.89657,0 v -1.72414 h 1.72416 1.72412 v 1.72414 1.72415 h -1.72412 -1.72416 z m -10.34483,0 v -1.72414 h -1.72413 -1.72413 v 1.72414 1.72415 h 1.72413 1.72413 z M 254.48277,90.13794 V 88.4138 h 1.72413 1.72413 v -1.72414 -1.72414 h 1.72413 1.72416 v -1.72413 -1.72415 h -1.72416 -1.72413 v 1.72415 1.72413 h -1.72413 -1.72413 v -1.72413 -1.72415 h -1.72416 -1.72412 v 1.72415 1.72413 h 1.72412 1.72416 v 1.72414 1.72414 h -1.72416 -1.72412 v 1.72414 1.72413 h 1.72412 1.72416 z m 20.68963,-3.44828 v -1.72414 h -1.72413 -1.72413 v 1.72414 1.72414 h 1.72413 1.72413 z m 13.79311,-1.72414 v -3.44828 h 3.44829 3.44826 v 1.72415 1.72413 h 1.72416 1.72412 v -1.72413 -1.72415 h -1.72412 -1.72416 v -3.44827 -3.44828 h -1.72413 -1.72413 v 1.72414 1.72414 h -1.72416 -1.72413 v -1.72414 -1.72414 h -1.72412 -1.72416 v -1.72413 -1.72414 h 1.72416 1.72412 v -1.72414 -1.72414 h 1.72413 1.72416 v 1.72414 1.72414 h 3.44826 3.44828 v -1.72414 -1.72414 h -1.72412 -1.72416 V 66 64.27586 h -3.44826 -3.44829 v -1.72414 -1.72413 h -1.72412 -1.72416 v -1.72414 -1.72414 h 1.72416 1.72412 v -1.72414 -1.72413 h 1.72413 1.72416 v -3.44828 -3.44828 h -3.44829 -3.44828 v -1.72414 -1.72413 h 1.72416 1.72412 v -3.44828 -3.44827 h -1.72412 -1.72416 v 3.44827 3.44828 h -1.72413 -1.72413 v 1.72413 1.72414 h -1.72416 -1.72412 v -1.72414 -1.72413 h -1.72413 -1.72416 v -3.44828 -3.44827 h -1.72413 -1.72413 V 33.24137 29.7931 h -1.72412 -1.72416 v 3.44827 3.44829 h -1.72413 -1.72416 v 1.72413 1.72414 h -1.72413 -1.72412 v -1.72414 -1.72413 h -1.72416 -1.72413 v 1.72413 1.72414 h 1.72413 1.72416 v 1.72414 1.72414 h 1.72412 1.72413 v 1.72413 1.72414 h 6.89657 6.89655 v 1.72413 1.72415 h -5.17242 -5.17241 v 3.44828 3.44827 h -3.44829 -3.44825 v -1.72414 -1.72413 h -1.72416 -1.72413 v 1.72413 1.72414 h 1.72413 1.72416 v 3.44828 3.44827 h -1.72416 -1.72413 V 66 67.72415 h 1.72413 1.72416 v 1.72414 1.72414 h -1.72416 -1.72413 v 1.72414 1.72413 h 1.72413 1.72416 v -1.72413 -1.72414 h 1.72412 1.72413 v 1.72414 1.72413 h 1.72416 1.72413 v 1.72414 1.72414 h -1.72413 -1.72416 v 1.72413 1.72414 h 1.72416 1.72413 v -1.72414 -1.72413 h 1.72416 1.72412 v 1.72413 1.72414 h 1.72413 1.72413 V 78.06898 74.6207 h 1.72416 1.72413 v 3.44828 3.44827 h 1.72412 1.72416 v 1.72415 1.72413 h 1.72413 1.72413 v 1.72414 1.72414 h 1.72416 1.72412 z m -6.89654,-5.17242 v -1.72413 h 1.72413 1.72413 v 1.72413 1.72414 h -1.72413 -1.72413 z m -3.44828,-6.89654 v -1.72414 h -1.72413 -1.72416 v -3.44828 -3.44828 h -1.72413 -1.72413 v 3.44828 3.44828 h -3.44828 -3.44829 v -1.72414 -1.72414 h 1.72416 1.72413 V 66 64.27586 h -1.72413 -1.72416 v -1.72414 -1.72413 h 1.72416 1.72413 v 1.72413 1.72414 h 1.72416 1.72412 v -1.72414 -1.72413 h 1.72413 1.72413 v -1.72414 -1.72414 h 1.72416 1.72413 v -3.44827 -3.44828 h 3.44828 3.44826 v 1.72414 1.72414 h -1.72413 -1.72413 v 3.44827 3.44828 h -1.72416 -1.72412 v 1.72413 1.72414 h 3.44828 3.44826 V 66 67.72415 h -1.72413 -1.72413 v 3.44828 3.44827 h -1.72416 -1.72412 z M 264.82757,41.86207 v -1.72414 h 1.72416 1.72413 v -1.72414 -1.72413 h 1.72416 1.72412 v 3.44827 3.44828 h -3.44828 -3.44829 z m -20.68966,41.37932 v -1.72415 h -3.44825 -3.44829 V 79.7931 78.06897 h 6.89654 6.89658 v -3.44828 -3.44827 h 1.72412 1.72416 v -6.89656 -6.89655 h -1.72416 -1.72412 v -1.72414 -1.72413 h 1.72412 1.72416 V 52.2069 50.48276 h -1.72416 -1.72412 v -1.72415 -1.72413 h -1.72416 -1.72413 v 1.72413 1.72415 h 1.72413 1.72416 v 1.72414 1.72414 h -6.89658 -6.89654 V 52.2069 50.48276 h 3.44829 3.44825 v -1.72415 -1.72413 h -3.44825 -3.44829 v 1.72413 1.72415 h -1.72413 -1.72416 v 3.44828 3.44827 h -1.72412 -1.72413 v 1.72414 1.72414 h -1.72416 -1.72413 v 1.72413 1.72414 h -1.72413 -1.72412 V 66 67.72415 h 3.44825 3.44829 V 66 64.27586 h 3.44825 3.44829 V 66 67.72415 h 1.72416 1.72413 v 1.72414 1.72414 h 1.72413 1.72412 v -1.72414 -1.72414 h -1.72412 -1.72413 V 66 64.27586 h 3.44825 3.44829 v -1.72414 -1.72413 h 1.72413 1.72416 V 66 71.17242 h -1.72416 -1.72413 v 1.72414 1.72413 h -5.17241 -5.17242 v -1.72413 -1.72414 h -1.72413 -1.72416 v 1.72414 1.72413 h -1.72412 -1.72413 v 1.72415 1.72414 h 1.72413 1.72412 v 3.44827 3.44828 h 5.17245 5.17238 z m -10.34483,-6.89655 v -1.72415 h 1.72416 1.72413 v 1.72415 1.72414 h -1.72413 -1.72416 z m 0,-17.24138 v -1.72414 h 1.72416 1.72413 v 1.72414 1.72414 h -1.72413 -1.72416 z m 6.89658,0 v -1.72414 h 3.44825 3.44829 v 1.72414 1.72414 h -3.44829 -3.44825 z m 65.51723,24.13793 v -1.72415 h -1.72413 -1.72413 v 1.72415 1.72414 h 1.72413 1.72413 z m 0,-10.34483 v -5.17241 h -1.72413 -1.72413 v 3.44828 3.44827 h -1.72416 -1.72413 v 1.72414 1.72414 h 3.44829 3.44826 z m 10.34482,3.44828 v -1.72415 h -1.72412 -1.72413 v 1.72415 1.72414 h 1.72413 1.72412 z M 299.31034,52.2069 v -1.72414 h -1.72412 -1.72416 v 1.72414 1.72414 h 1.72416 1.72412 z m -34.48277,41.37931 v -1.72414 h 1.72416 1.72413 v 1.72414 1.72415 h -1.72413 -1.72416 z M 220,86.68967 v -1.72414 h 1.72413 1.72416 V 83.24139 81.51724 H 221.72413 220 V 79.7931 78.06897 h 1.72413 1.72416 v 1.72413 1.72414 h 1.72412 1.72413 v 1.72415 1.72414 h -1.72413 -1.72412 v 1.72414 1.72414 H 221.72413 220 Z m 0,-58.6207 V 16 h 12.06896 12.06895 V 28.06897 40.13794 H 232.06896 220 Z m 20.68966,0 v -8.62068 h -8.6207 -8.62067 v 8.62068 8.6207 h 8.62067 8.6207 z m -13.79312,0 v -5.17242 h 5.17242 5.17241 v 5.17242 5.17241 h -5.17241 -5.17242 z m 68.96552,0 V 16 H 307.93104 320 v 12.06897 12.06897 h -12.06896 -12.06898 z m 20.68965,0 v -8.62068 h -8.62067 -8.6207 v 8.62068 8.6207 h 8.6207 8.62067 z m -13.79308,0 v -5.17242 h 5.17241 5.17242 v 5.17242 5.17241 h -5.17242 -5.17241 z m -34.48277,-6.89655 v -1.72413 h -1.72413 -1.72416 V 17.72414 16 h 5.17245 5.17238 v 3.44828 3.44827 h -3.44826 -3.44828 z"
      id="path36895" />
   <g
-     id="g41206-0"
-     transform="translate(-625.38069,811.48674)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41200-9"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41204-3"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan41202-6"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-  </g>
-  <g
-     id="g41214-0"
-     transform="translate(-625.38069,872.39792)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41208-6"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41212-2"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan41210-6"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-  </g>
-  <g
      id="g1"
      transform="translate(-1367.5538,-453.31219)">
     <rect
@@ -6624,15 +6632,15 @@
        transform="translate(16.488336,73.884263)"><tspan
          x="1444.1"
          y="822.558"
-         id="tspan56308"><tspan
+         id="tspan4020"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan56306">PB
+           id="tspan4018">PB
 </tspan></tspan><tspan
          x="1440.772"
          y="842.558"
-         id="tspan56312"><tspan
+         id="tspan4024"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan56310">079</tspan></tspan></text>
+           id="tspan4022">079</tspan></tspan></text>
   </g>
   <g
      id="g39523"
@@ -6730,429 +6738,728 @@
      id="path120143"
      sodipodi:nodetypes="ccccccccc"
      style="fill:#ffffff;fill-opacity:1" />
+  <a
+     id="a15483"
+     xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-3"
+     target="blank"
+     xlink:title="Centro de Ciências Humanas, Sociais e Agrárias"
+     xlink:show="Centro de Ciências Humanas, Sociais e Agrárias">
+    <g
+       id="g1888">
+      <g
+         id="g41206-0"
+         transform="translate(-625.38069,811.48674)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41200-9"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="757.84058"
+           y="562.84814"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41204-3"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="757.84058"
+             y="562.84814"
+             id="tspan41202-6"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
+      </g>
+      <text
+         x="118.21803"
+         y="1373.8439"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text108834"
+         style="fill:#000000"><tspan
+           x="154.38454"
+           y="1373.8439"
+           id="tspan108832"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">CCHSA</tspan></text>
+    </g>
+  </a>
   <g
-     id="g41286"
-     transform="translate(-191.12848,811.48678)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41280"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41284"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan41282"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
+     id="g2858"
+     style="display:inline;fill:#b3b3b3;fill-opacity:0.1;enable-background:new"
+     transform="matrix(48.246677,0,0,48.246677,-3761.6113,-10397.068)">
+    <rect
+       y="215.49812"
+       x="90.660461"
+       height="8.5559225"
+       width="8.5559225"
+       id="rect2801"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.285197" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.285197"
+       id="rect2803"
+       width="8.5559225"
+       height="8.5559225"
+       x="90.660461"
+       y="238.03242" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2805"
+       width="5.1545982"
+       height="5.1545982"
+       x="92.301529"
+       y="228.36855" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2807"
+       width="5.1545982"
+       height="5.1545982"
+       x="100.86444"
+       y="235.38161" />
+    <rect
+       y="228.36855"
+       x="100.86444"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect2809"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2811"
+       width="5.1545982"
+       height="5.1545982"
+       x="100.86444"
+       y="221.35547" />
+    <rect
+       y="229.1725"
+       x="108.07321"
+       height="3.5466995"
+       width="3.5466995"
+       id="rect2813"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.118223" />
+    <rect
+       y="222.83968"
+       x="108.13506"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2815"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2817"
+       width="2.1861699"
+       height="2.1861699"
+       x="108.13506"
+       y="236.86581" />
+    <rect
+       y="242.59039"
+       x="102.34865"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2819"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2821"
+       width="2.1861699"
+       height="2.1861699"
+       x="102.34865"
+       y="217.30707" />
+    <rect
+       transform="scale(-1,1)"
+       y="235.38161"
+       x="-88.72171"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect2823"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2825"
+       width="5.1545982"
+       height="5.1545982"
+       x="-88.72171"
+       y="228.36855" />
+    <rect
+       transform="scale(-1,1)"
+       y="221.35547"
+       x="-88.72171"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect2827"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.118223"
+       id="rect2829"
+       width="3.5466995"
+       height="3.5466995"
+       x="-81.512924"
+       y="229.1725" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2831"
+       width="2.1861699"
+       height="2.1861699"
+       x="-81.451096"
+       y="222.83968" />
+    <rect
+       transform="scale(-1,1)"
+       y="236.86581"
+       x="-81.451096"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2833"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2835"
+       width="2.1861699"
+       height="2.1861699"
+       x="-87.237488"
+       y="242.59039" />
+    <rect
+       transform="scale(-1,1)"
+       y="217.30707"
+       x="-87.237488"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2837"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
   </g>
-  <g
-     id="g41302"
-     transform="translate(-191.12848,872.39796)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41296"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.08057"
-       y="562.95483"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41300"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.08057"
-         y="562.95483"
-         id="tspan41298"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
-  </g>
-  <g
-     id="g41318"
-     transform="translate(25.997623,811.48678)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41312"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41316"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan41314"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
-  </g>
-  <g
-     id="g41326"
-     transform="translate(25.997623,872.39796)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41320"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41324"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan41322"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
-  </g>
-  <g
-     id="g41398"
-     transform="translate(243.12373,811.48678)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41392"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41396"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan41394"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">9</tspan></text>
-  </g>
-  <g
-     id="g41246-0"
-     transform="translate(-408.25458,811.48683)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41240-2"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.38989"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41244-3"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.38989"
-         y="562.84814"
-         id="tspan41242-7"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
-  </g>
-  <g
-     id="g41262-5"
-     transform="translate(-408.25458,872.39801)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41256-9"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41260-2"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan41258-2"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
-  </g>
-  <g
-     id="g108662"
-     transform="translate(243.12373,872.39796)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle108656"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text108660"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan108658"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">10</tspan></text>
-  </g>
-  <text
-     x="118.21803"
-     y="1373.8439"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text108834"
-     style="fill:#000000"><tspan
-       x="154.38454"
-       y="1373.8439"
-       id="tspan108832"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">CCHSA</tspan></text>
-  <text
-     x="55.582657"
-     y="1422.4441"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text108854"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       id="tspan108850"
-       x="153.87428"
-       y="1422.4441"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"><tspan
-         x="153.87428"
+  <a
+     id="a15674"
+     xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
+     target="blank"
+     xlink:title="Restaurante Universitário"
+     xlink:show="Restaurante Universitário">
+    <g
+       id="g2078">
+      <g
+         id="g41214-0"
+         transform="translate(-625.38069,872.39792)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41208-6"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.52325"
+           y="563.92017"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41212-2"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.52325"
+             y="563.92017"
+             id="tspan41210-6"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
+      </g>
+      <text
+         x="55.582657"
          y="1422.4441"
-         id="tspan108848"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Restaurante</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="153.87428"
-       y="1446.1941"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan108852">Universitário</tspan></text>
-  <text
-     x="273.46945"
-     y="1362.0292"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text108874"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       x="371.76111"
-       y="1362.0292"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan108870"><tspan
-         x="371.76111"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text108854"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan108850"
+           x="153.87428"
+           y="1422.4441"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"><tspan
+             x="153.87428"
+             y="1422.4441"
+             id="tspan108848"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Restaurante</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="153.87428"
+           y="1446.1941"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan108852">Universitário</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a15865"
+     xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios/laboratorio-da-brinquedoteca-o-graozinho"
+     target="blank"
+     xlink:title="Laboratório de Ensino"
+     xlink:show="Laboratório de Ensino">
+    <g
+       id="g2178">
+      <g
+         id="g41246-0"
+         transform="translate(-408.25458,811.48683)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41240-2"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.38989"
+           y="562.84814"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41244-3"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.38989"
+             y="562.84814"
+             id="tspan41242-7"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
+      </g>
+      <text
+         x="273.46945"
          y="1362.0292"
-         id="tspan108868"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="371.76111"
-       y="1385.7792"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan108872">de Ensino</tspan></text>
-  <text
-     x="334.83386"
-     y="1432.4683"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text110417"
-     style="fill:#000000"><tspan
-       x="371.00037"
-       y="1432.4683"
-       id="tspan110415"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Aquicultura</tspan></text>
-  <text
-     x="491.80664"
-     y="1362.0292"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text110608"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       x="590.09827"
-       y="1362.0292"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan110604"><tspan
-         x="590.09827"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text108874"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           x="371.76111"
+           y="1362.0292"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan108870"><tspan
+             x="371.76111"
+             y="1362.0292"
+             id="tspan108868"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="371.76111"
+           y="1385.7792"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan108872">de Ensino</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a16054"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:arcrole=""
+     xlink:title="Aquicultura"
+     xlink:show="Aquicultura">
+    <g
+       id="g2276">
+      <g
+         id="g41262-5"
+         transform="translate(-408.25458,872.39801)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41256-9"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.52325"
+           y="563.92017"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41260-2"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.52325"
+             y="563.92017"
+             id="tspan41258-2"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
+      </g>
+      <text
+         x="334.83386"
+         y="1432.4683"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text110417"
+         style="fill:#000000"><tspan
+           x="371.00037"
+           y="1432.4683"
+           id="tspan110415"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Aquicultura</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a16245"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:title="Laboratório de Informática"
+     xlink:show="Laboratório de Informática">
+    <g
+       id="g2476">
+      <g
+         id="g41286"
+         transform="translate(-191.12848,811.48678)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41280"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="757.84058"
+           y="562.84814"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41284"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="757.84058"
+             y="562.84814"
+             id="tspan41282"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
+      </g>
+      <text
+         x="491.80664"
          y="1362.0292"
-         id="tspan110602"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="590.09827"
-       y="1385.7792"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan110606">de Informática</tspan></text>
-  <text
-     x="771.30841"
-     y="1371.993"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text110898"
-     style="fill:#000000"><tspan
-       x="807.47491"
-       y="1371.993"
-       id="tspan110896"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Apicultura</tspan></text>
-  <text
-     x="491.80664"
-     y="1422.8801"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text110993"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       x="590.09827"
-       y="1422.8801"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan110989"><tspan
-         x="590.09827"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text110608"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           x="590.09827"
+           y="1362.0292"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan110604"><tspan
+             x="590.09827"
+             y="1362.0292"
+             id="tspan110602"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="590.09827"
+           y="1385.7792"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan110606">de Informática</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a16625"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:title="Apicultura"
+     xlink:show="Apicultura">
+    <g
+       id="g2574">
+      <g
+         id="g41318"
+         transform="translate(25.997623,811.48678)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41312"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41316"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan41314"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
+      </g>
+      <text
+         x="771.30841"
+         y="1371.993"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text110898"
+         style="fill:#000000"><tspan
+           x="807.47491"
+           y="1371.993"
+           id="tspan110896"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Apicultura</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a16436"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:title="Laboratório de Bebidas"
+     xlink:show="Laboratório de Bebidas">
+    <g
+       id="g2376">
+      <g
+         id="g41302"
+         transform="translate(-191.12848,872.39796)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41296"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.08057"
+           y="562.95483"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41300"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.08057"
+             y="562.95483"
+             id="tspan41298"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
+      </g>
+      <text
+         x="491.80664"
          y="1422.8801"
-         id="tspan110987"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="590.09827"
-       y="1446.6301"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan110991">de Bebidas</tspan></text>
-  <text
-     x="709.91431"
-     y="1434.5974"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text111098"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       x="806.69562"
-       y="1434.5974"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan111096"><tspan
-         x="806.69562"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text110993"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           x="590.09827"
+           y="1422.8801"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan110989"><tspan
+             x="590.09827"
+             y="1422.8801"
+             id="tspan110987"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="590.09827"
+           y="1446.6301"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan110991">de Bebidas</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a16815"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:title="Suinocultura"
+     xlink:show="Suinocultura">
+    <g
+       id="g2673">
+      <g
+         id="g41326"
+         transform="translate(25.997623,872.39796)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41320"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41324"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan41322"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
+      </g>
+      <text
+         x="709.91431"
          y="1434.5974"
-         id="tspan111094"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Suinocultura</tspan></tspan></text>
-  <text
-     x="926.05878"
-     y="1362.0292"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text111199"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       x="1024.3506"
-       y="1362.0292"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan111195"><tspan
-         x="1024.3506"
-         y="1362.0292"
-         id="tspan111193"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="1024.3506"
-       y="1385.7792"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-       id="tspan111197">de Sementes</tspan></text>
-  <text
-     x="986.82031"
-     y="1434.5974"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text111340"
-     style="fill:#000000"><tspan
-       x="1022.9868"
-       y="1434.5974"
-       id="tspan111338"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></text>
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text111098"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           x="806.69562"
+           y="1434.5974"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan111096"><tspan
+             x="806.69562"
+             y="1434.5974"
+             id="tspan111094"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Suinocultura</tspan></tspan></text>
+    </g>
+  </a>
+  <a
+     id="a17004"
+     xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/biblioteca-cchsa/apresentacao"
+     target="blank"
+     xlink:title="Biblioteca"
+     xlink:show="Biblioteca">
+    <g
+       id="g3051">
+      <g
+         id="g41398"
+         transform="translate(243.12373,811.48678)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41392"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41396"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan41394"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">9</tspan></text>
+      </g>
+      <text
+         x="986.82031"
+         y="1373.844"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text111340"
+         style="fill:#000000"><tspan
+           x="1022.9868"
+           y="1373.844"
+           id="tspan111338"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a17195"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:title="Laboratório de Sementes"
+     xlink:show="Laboratório de Sementes">
+    <g
+       id="g2861">
+      <g
+         id="g108662"
+         transform="translate(243.12373,872.39796)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle108656"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text108660"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan108658"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">10</tspan></text>
+      </g>
+      <text
+         x="926.05878"
+         y="1422.9371"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text13781"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           x="1024.3506"
+           y="1422.9371"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan13777"><tspan
+             x="1024.3506"
+             y="1422.9371"
+             id="tspan13775"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratório</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="1024.3506"
+           y="1446.6871"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
+           id="tspan13779">de Sementes</tspan></text>
+    </g>
+  </a>
   <g
      id="g127337"
      transform="translate(324.54712,-102.89889)">
@@ -7188,11 +7495,6 @@
        id="path12547-5"
        sodipodi:nodetypes="cccc" />
   </g>
-  <path
-     style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
-     d="M 1143.6225,1319.5311 H 119.36074"
-     id="path3275"
-     sodipodi:nodetypes="cc" />
   <rect
      style="fill:#fff5f5;fill-opacity:0.01;stroke-width:3.16729;stroke-linecap:round;stroke-linejoin:round"
      id="rect37385"
@@ -7200,8 +7502,13 @@
      height="1157.1097"
      x="0"
      y="151.52676" />
+  <path
+     style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers stroke fill"
+     d="M 1335.6225,1319.5311 H 119.36074"
+     id="path3275"
+     sodipodi:nodetypes="cc" />
   <g
-     transform="matrix(-0.96879263,-0.09397478,0.09397478,-0.96879263,2259.6736,1127.7191)"
+     transform="matrix(-0.84715811,-0.08217599,0.08217599,-0.84715811,2193.9327,1043.705)"
      id="g879">
     <path
        d="M 569.76546,636.43432 C 570.54546,637.03432 573.5,650 571.5,650 c 9.8,5.9 0.46546,-12.56568 -1.73454,-13.56568 z"
@@ -7225,7 +7532,7 @@
        style="fill:#fc792e;fill-opacity:1"
        sodipodi:nodetypes="ccc" />
     <path
-       d="m 548,639 8.9,11 c -10,6.3 -18,2.8 -10,12 0.47,0.53 2.7,3.1 3.8,3.2 0.19,0.016 -0.52,-3.3 0.42,-2.8 1.8,0.89 4.7,3.2 5.7,3.6 1,0.41 0.13,-3.2 0.48,-3.2 1.6,-0.59 6.28401,-3.25438 7.88401,-3.15438 13.58537,-1.3884 16.91924,-0.11416 19.33678,-3.85602 5.91375,-9.15326 6.52443,-22.17391 4.7763,-20.49081 0.0545,6.25262 -5.59975,8.43008 -8.90374,12.64227 0.78,-0.79 -15.89335,2.07894 -17.89335,1.05894 -2.3,-2.3 -13,-11 -14,-10 z"
+       d="m 548,639 8.9,11 c -10,6.3 -18,2.8 -10,12 0.47,0.53 2.7,3.1 3.8,3.2 0.19,0.016 -0.52,-3.3 0.42,-2.8 1.8,0.89 4.7,3.2 5.7,3.6 1,0.41 0.13,-3.2 0.48,-3.2 1.6,-0.59 6.28401,-3.25438 7.88401,-3.15438 13.58537,-1.3884 13.4732,-0.0543 15.89074,-3.79619 5.91375,-9.15326 4.53122,-13.3534 8.22234,-20.55064 -5.76021,4.153 -5.59975,8.43008 -8.90374,12.64227 0.78,-0.79 -15.89335,2.07894 -17.89335,1.05894 -2.3,-2.3 -13,-11 -14,-10 z"
        fill="url(#linearGradient150088-3)"
        id="path861"
        style="fill:url(#linearGradient150088-3)"
@@ -7275,35 +7582,9 @@
          style="fill:url(#linearGradient6189);fill-opacity:1" />
     </g>
   </g>
-  <g
-     id="g40254"
-     transform="translate(-412.7758,72.053625)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40248"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.02728"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40252"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.02728"
-         y="562.84814"
-         id="tspan40250"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">10</tspan></text>
-  </g>
   <a
      class="svgobj"
-     transform="matrix(0.90181848,0,0,0.90181848,3.4605734,69.776607)"
+     transform="matrix(0.94334683,0,0,0.94334683,-43.09853,41.520199)"
      target="blank"
      xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
      xlink:title="Fauna Brasileira | Bem-te-Vi"
@@ -7346,7 +7627,7 @@
   </a>
   <a
      class="svgobj"
-     transform="matrix(-1,0,0,1,1892.5764,-314.58441)"
+     transform="matrix(-1.0862867,0,0,1.0862867,1984.6012,-370.11451)"
      target="blank"
      xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
      xlink:title="Fauna Brasileira | Bem-te-Vi"
@@ -7398,7 +7679,7 @@
   </a>
   <a
      class="svgobj"
-     transform="matrix(-0.80957363,0,0,0.80957363,1414.8992,524.50859)"
+     transform="matrix(-0.68572643,0,0,0.68572643,1328.0155,623.67807)"
      target="blank"
      xlink:href="https://butantan.gov.br/bubutantan/teiu-um-lagarto-tao-brasileiro-que-voce-com-certeza-ja-viu-por-ai"
      xlink:title="Fauna Brasileira | Teiu"
@@ -7443,7 +7724,9 @@
      filter="url(#filter29393)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a1837">
+     id="a1837"
+     xlink:title="Avicultura"
+     xlink:show="Avicultura">
     <g
        transform="matrix(0.74,0,0,0.74,-19,923.7)"
        fill="none"
@@ -7457,13 +7740,26 @@
          ry="0"
          id="rect1825" />
     </g>
+    <path
+       d="M 787,986.6 V 951 H 889 V 681"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1835"
+       style="marker-end:url(#Dot-1)"
+       sodipodi:nodetypes="cccc" />
     <g
        id="g1756"
        transform="translate(0,15.6)">
       <use
-         transform="translate(659)"
-         xlink:href="#use20181"
-         id="use1823" />
+         x="0"
+         y="0"
+         xlink:href="#g8675"
+         id="use8677-3-6"
+         transform="translate(659)" />
       <text
          x="786.90851"
          y="1006.31"
@@ -7489,16 +7785,12 @@
            id="tspan1829"
            style="fill:#000000">Avicultura</tspan></text>
     </g>
-    <path
-       d="M 787,986.6 V 931 H 889 V 697"
-       fill="none"
-       marker-end="url(#Dot-1)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1835"
-       style="marker-end:url(#Dot-1)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g12807"
+       id="use13097"
+       transform="translate(105.41186,-686.62757)" />
   </a>
   <a
      class="svgobj"
@@ -7513,9 +7805,11 @@
        id="g1847"
        transform="translate(0,18)">
       <use
-         transform="translate(989,0.82)"
-         xlink:href="#use20181"
-         id="use1839" />
+         x="0"
+         y="0"
+         xlink:href="#g8675"
+         id="use8677"
+         transform="translate(989,0.82)" />
       <text
          x="1116.2551"
          y="1007.9888"
@@ -7559,7 +7853,10 @@
      filter="url(#filter29405)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a1861">
+     id="a1861"
+     xlink:arcrole=""
+     xlink:title="Aquicultura"
+     xlink:show="Aquicultura">
     <path
        d="M 954,980 V 729 h 575"
        fill="none"
@@ -7574,9 +7871,11 @@
        transform="translate(0,1.7)"
        id="g1859">
       <use
-         transform="translate(829,7.1)"
-         xlink:href="#use20181"
-         id="use1853" />
+         x="0"
+         y="0"
+         xlink:href="#g8675"
+         id="use8677-3"
+         transform="translate(829,7.1)" />
       <text
          x="956.58026"
          y="1011.0199"
@@ -7606,6 +7905,12 @@
            style="line-height:1;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
            id="tspan1855">Aquicultura</tspan></text>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41262-5"
+       id="use5932"
+       transform="translate(1179.7814,-700.36863)" />
   </a>
   <a
      class="svgobj"
@@ -7613,13 +7918,11 @@
      filter="url(#filter29369)"
      target="blank"
      xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
-     id="a1879">
-    <use
-       transform="matrix(0.74,0,0,0.74,-349,924)"
-       xlink:href="#rect30639"
-       id="use1863" />
+     id="a1879"
+     xlink:title="Restaurante Universitário"
+     xlink:show="Restaurante Universitário">
     <path
-       d="M 456,955.6391 V 822 H 711 V 403 h 444"
+       d="M 456,955.6391 V 842 H 711 V 403 h 444"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
@@ -7629,10 +7932,17 @@
        id="path1865"
        sodipodi:nodetypes="ccccc"
        style="marker-end:url(#Dot-1)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g12666"
+       id="use12668"
+       transform="matrix(0.74,0,0,0.74,-349,924)" />
     <g
        transform="translate(12,-11)"
        fill="#000080"
-       id="g1877">
+       id="g1877"
+       style="fill:#000000">
       <text
          x="443.2392"
          y="993.53271"
@@ -7668,6 +7978,12 @@
            id="tspan1873"
            style="fill:#000000">Universitário</tspan></text>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41214-0"
+       id="use2931"
+       transform="translate(1029.2473,-1024.9582)" />
   </a>
   <a
      class="svgobj"
@@ -7675,9 +7991,11 @@
      filter="url(#filter29357)"
      target="blank"
      xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-3"
-     id="a1907">
+     id="a1907"
+     xlink:title="Centro de Ciências Humanas, Sociais e Agrárias"
+     xlink:show="Centro de Ciências Humanas, Sociais e Agrárias">
     <path
-       d="m 290,1000 v 340 h -88"
+       d="M 290,1041.9018 V 1340 h -88"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
@@ -7685,53 +8003,17 @@
        stroke-linejoin="round"
        stroke-width="2"
        id="path1881"
-       style="marker-end:url(#Dot-1)" />
+       style="marker-end:url(#Dot-1)"
+       sodipodi:nodetypes="ccc" />
     <g
        transform="translate(-5.5)"
        id="g1905">
-      <g
-         transform="translate(-313)"
-         id="g1895">
-        <text
-           x="616.15771"
-           y="993.53955"
-           fill="#fff6d5"
-           font-family="'Open Sans'"
-           font-size="21px"
-           font-weight="600"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           text-anchor="middle"
-           style="line-height:1"
-           xml:space="preserve"
-           id="text1889"><tspan
-             x="616.15771"
-             y="993.53955"
-             text-align="center"
-             id="tspan1883">Laboratório </tspan><tspan
-             x="616.15771"
-             y="1014.8729"
-             text-align="center"
-             id="tspan1885">de </tspan><tspan
-             x="616.15771"
-             y="1036.2062"
-             text-align="center"
-             id="tspan1887">Informática</tspan></text>
-        <g
-           transform="matrix(0.74,0,0,0.74,-195,924)"
-           id="g1893">
-          <rect
-             x="990"
-             y="43"
-             width="191"
-             height="117"
-             rx="0"
-             ry="0"
-             id="rect1891"
-             style="fill:#00ffff" />
-        </g>
-      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g12666"
+         id="use12668-5-6-9"
+         transform="matrix(0.74,0,0,0.74,-508,924)" />
       <text
          x="296.30869"
          y="980.34326"
@@ -7764,6 +8046,12 @@
            id="tspan1901"
            style="fill:#000000">Negreiros</tspan></text>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41206-0"
+       id="use1912"
+       transform="translate(69.578211,-27.55024)" />
   </a>
   <a
      class="svgobj"
@@ -7773,18 +8061,34 @@
      stroke-linejoin="round"
      target="blank"
      xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/biblioteca-cchsa/apresentacao"
-     id="a1916">
-    <rect
-       id="use20181"
-       x="55"
-       y="971"
-       width="141"
-       height="55"
-       rx="0"
-       ry="0"
-       filter="url(#filter29405)"
-       stroke="#000000"
-       style="fill:#00ffff;stroke:none" />
+     id="a1916"
+     xlink:show="Biblioteca"
+     xlink:title="Biblioteca">
+    <g
+       id="g8675">
+      <rect
+         id="rect8671"
+         x="57"
+         y="973"
+         width="141"
+         height="55"
+         rx="0"
+         ry="0"
+         filter="url(#filter29405)"
+         stroke="#000000"
+         style="fill:#000000;fill-opacity:0.5;stroke:none" />
+      <rect
+         id="use20181"
+         x="55"
+         y="971"
+         width="141"
+         height="55"
+         rx="0"
+         ry="0"
+         filter="url(#filter29405)"
+         stroke="#000000"
+         style="fill:#8aff07;stroke:none;fill-opacity:1" />
+    </g>
     <text
        x="126.46609"
        y="1007.0044"
@@ -7808,13 +8112,20 @@
          id="tspan1910"
          style="fill:#000000">Biblioteca</tspan></text>
     <path
-       d="M 127,971 V 696 H 286 V 396"
+       d="M 127,971 V 736 H 286 V 396"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
        stroke-width="2"
        id="path1914"
-       style="marker-end:url(#Dot-1)" />
+       style="marker-end:url(#Dot-1)"
+       sodipodi:nodetypes="cccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41398"
+       id="use9947"
+       transform="translate(-713.02448,-972.20091)" />
   </a>
   <a
      class="svgobj"
@@ -7822,9 +8133,11 @@
      filter="url(#filter29381)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a1941">
+     id="a1941"
+     xlink:title="Laboratório de Informática"
+     xlink:show="Laboratório de Informática">
     <path
-       d="M 619,976 V 882 H 779 V 578 l 167.60204,1.5"
+       d="M 619,956 V 902 H 779 V 578 l 167.60204,1.5"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
@@ -7834,49 +8147,12 @@
        id="path1918"
        sodipodi:nodetypes="ccccc"
        style="marker-end:url(#Dot-1)" />
-    <g
-       transform="translate(11)"
-       id="g1931">
-      <text
-         x="616.15771"
-         y="993.53955"
-         fill="#fff6d5"
-         font-family="'Open Sans'"
-         font-size="21px"
-         font-weight="600"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1"
-         xml:space="preserve"
-         id="text1926"><tspan
-           x="616.15771"
-           y="993.53955"
-           text-align="center"
-           id="tspan1920">Laboratório </tspan><tspan
-           x="616.15771"
-           y="1014.8729"
-           text-align="center"
-           id="tspan1922">de </tspan><tspan
-           x="616.15771"
-           y="1036.2062"
-           text-align="center"
-           id="tspan1924">Informática</tspan></text>
-      <g
-         transform="matrix(0.74,0,0,0.74,-195,924)"
-         id="g1929">
-        <rect
-           id="rect30639"
-           x="990"
-           y="43"
-           width="191"
-           height="117"
-           rx="0"
-           ry="0"
-           style="fill:#00ffff" />
-      </g>
-    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g12666"
+       id="use12668-5"
+       transform="matrix(0.74,0,0,0.74,-184,924)" />
     <text
        x="622.30438"
        y="983.06787"
@@ -7906,6 +8182,12 @@
          text-align="center"
          id="tspan1937"
          style="fill:#000000">Informática</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41286"
+       id="use6321"
+       transform="translate(377.84129,-785.31031)" />
   </a>
   <a
      class="svgobj"
@@ -7914,10 +8196,34 @@
      target="blank"
      xlink:href="https://maps.app.goo.gl/L7DKsJtCuxBmutLC7"
      id="a1957">
+    <path
+       d="M 134,194 V 442.86186 H 236"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1955"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
+    <path
+       d="M 118,194 V 732.29429 H 79"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1953"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
     <use
-       transform="translate(-2.4e-6,-832)"
-       xlink:href="#use20181"
-       id="use1943" />
+       x="0"
+       y="0"
+       xlink:href="#g8675"
+       id="use8677-3-6-7"
+       transform="translate(-2.4e-6,-832)" />
     <g
        transform="translate(19,-7)"
        id="g1951">
@@ -7951,156 +8257,44 @@
            style="fill:#000000">Acessos</tspan></text>
     </g>
     <path
-       d="M 118,194 V 732.29429 H 79"
-       fill="none"
-       marker-end="url(#Dot-1)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1953"
-       sodipodi:nodetypes="ccc"
-       style="marker-end:url(#Dot-1)" />
-    <path
-       d="M 134,194 V 442.86186 H 236"
-       fill="none"
-       marker-end="url(#Dot-1)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1955"
-       sodipodi:nodetypes="ccc"
-       style="marker-end:url(#Dot-1)" />
-    <path
        id="path106248"
        style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
        d="M 182.1362,115 196,135 h -27.72756 z"
        sodipodi:nodetypes="cccc" />
   </a>
-  <g
-     id="g29489"
-     transform="translate(377.61327,7.456505)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="path29134"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text29436"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan29434"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-  </g>
-  <g
-     id="g29545"
-     transform="translate(461.71475,62.524567)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle29539"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text29543"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan29541"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-  </g>
-  <g
-     id="g39862"
-     transform="translate(833.14416,389.45972)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39856"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.46454"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39860"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.46454"
-         y="562.89081"
-         id="tspan39858"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
-  </g>
-  <g
-     id="g39918"
-     transform="translate(247.86555,237.93975)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39912"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.41125"
-       y="562.74152"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39916"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.41125"
-         y="562.74152"
-         id="tspan39914"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
-  </g>
   <a
      class="svgobj"
      transform="translate(248,376.6)"
      filter="url(#filter29465)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2035">
+     id="a2035"
+     xlink:title="Laboratório de Sementes"
+     xlink:show="Laboratório de Sementes">
     <g
        transform="matrix(0.74,0,0,0.74,-703,763)"
        id="g2023">
-      <rect
-         x="990"
-         y="43"
-         width="191"
-         height="117"
-         rx="0"
-         ry="0"
-         id="rect2021"
-         style="fill:#00ffff" />
+      <g
+         id="g12666">
+        <rect
+           x="992.7027"
+           y="45.702702"
+           width="191"
+           height="117"
+           rx="0"
+           ry="0"
+           id="rect12662"
+           style="fill:#000000;fill-opacity:0.5" />
+        <rect
+           x="990"
+           y="43"
+           width="191"
+           height="117"
+           rx="0"
+           ry="0"
+           id="rect2021"
+           style="fill:#8aff07;fill-opacity:1" />
+      </g>
     </g>
     <text
        x="100.94586"
@@ -8132,7 +8326,7 @@
          id="tspan2029"
          style="fill:#000000">Sementes</tspan></text>
     <path
-       d="M 100,795 V 615 h 80 V 439"
+       d="M 100,795 V 655 h 80 V 439"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
@@ -8140,45 +8334,41 @@
        stroke-linejoin="round"
        stroke-width="2"
        id="path2033"
-       style="marker-end:url(#Dot-1)" />
+       style="marker-end:url(#Dot-1)"
+       sodipodi:nodetypes="cccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g108662"
+       id="use10129"
+       transform="translate(-818.94252,-992.11018)" />
   </a>
-  <g
-     id="g40198"
-     transform="translate(-331.96348,255.62443)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40192"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.49658"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40196"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.49658"
-         y="562.84814"
-         id="tspan40194"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">9</tspan></text>
-  </g>
   <a
      class="svgobj"
      transform="translate(126,-800.7)"
      filter="url(#filter29453)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2045">
+     id="a2045"
+     xlink:title="Suinocultura"
+     xlink:show="Suinocultura">
+    <path
+       d="m 606,1034 v 331 h 94"
+       fill="none"
+       marker-end="url(#Dot-1)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path2043"
+       sodipodi:nodetypes="ccc"
+       style="marker-end:url(#Dot-1)" />
     <use
-       transform="translate(481,8.2)"
-       xlink:href="#use20181"
-       id="use2037" />
+       x="0"
+       y="0"
+       xlink:href="#g8675"
+       id="use8677-3-6-7-5"
+       transform="translate(481,8.2)" />
     <text
        x="606.56787"
        y="1013.5318"
@@ -8203,55 +8393,22 @@
          text-anchor="middle"
          id="tspan2039"
          style="fill:#000000">Suinocultura</tspan></text>
-    <path
-       d="m 606,1034 v 331 h 94"
-       fill="none"
-       marker-end="url(#Dot-1)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path2043"
-       sodipodi:nodetypes="ccc"
-       style="marker-end:url(#Dot-1)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41326"
+       id="use9558"
+       transform="translate(-79.873363,-63.467686)" />
   </a>
-  <g
-     id="g40142"
-     transform="translate(68.692307,11.276857)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40136"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.4859"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40140"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.4859"
-         y="562.84814"
-         id="tspan40138"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
-  </g>
   <a
      class="svgobj"
      transform="translate(296,-800.7)"
      filter="url(#filter29441)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2055">
-    <use
-       transform="translate(477,8.2)"
-       xlink:href="#use20181"
-       id="use2047" />
+     id="a2055"
+     xlink:title="Apicultura"
+     xlink:show="Apicultura">
     <path
        d="M 603,1034.9716 V 1226"
        fill="none"
@@ -8263,6 +8420,12 @@
        id="path2049"
        sodipodi:nodetypes="cc"
        style="marker-end:url(#Dot-1)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g8675"
+       id="use8677-3-6-7-5-3"
+       transform="translate(477,8.2)" />
     <text
        x="603.53607"
        y="1014.232"
@@ -8287,42 +8450,24 @@
          text-anchor="middle"
          id="tspan2051"
          style="fill:#000000">Apicultura</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41318"
+       id="use8989"
+       transform="translate(-177.90354,-142.89209)" />
   </a>
-  <g
-     id="g40086"
-     transform="translate(143.27026,-125.81226)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle40080"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text40084"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan40082"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
-  </g>
   <a
      class="svgobj"
      transform="translate(465,-784.82)"
      filter="url(#filter29429)"
      target="blank"
      xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
-     id="a2071">
+     id="a2071"
+     xlink:title="Laboratório de Bebidas"
+     xlink:show="Laboratório de Bebidas">
     <path
-       d="m 593,1000 v 238 H 454 v 105"
+       d="m 593,1050 v 188 H 454 v 105"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
@@ -8330,20 +8475,14 @@
        stroke-linejoin="round"
        stroke-width="2"
        id="path2057"
-       style="marker-end:url(#Dot-1)" />
-    <g
-       transform="matrix(0.74,0,0,0.74,-210,931)"
-       id="g2061">
-      <rect
-         x="990"
-         y="43"
-         width="191"
-         height="117"
-         rx="0"
-         ry="0"
-         id="rect2059"
-         style="fill:#00ffff" />
-    </g>
+       style="marker-end:url(#Dot-1)"
+       sodipodi:nodetypes="cccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g12666"
+       id="use12668-5-6"
+       transform="matrix(0.74,0,0,0.74,-210,931)" />
     <text
        x="596.81781"
        y="990.35413"
@@ -8373,42 +8512,24 @@
          text-align="center"
          id="tspan2067"
          style="fill:#000000">Bebidas</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41302"
+       id="use8600"
+       transform="translate(-111.53427,-86.130359)" />
   </a>
-  <g
-     id="g39974"
-     transform="translate(162.53554,0.722643)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39968"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.38989"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39972"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.38989"
-         y="562.84814"
-         id="tspan39970"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
-  </g>
   <a
      class="svgobj"
      transform="translate(915,-784.82)"
      filter="url(#filter29477)"
      target="blank"
      xlink:href="https://cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios/laboratorio-da-brinquedoteca-o-graozinho"
-     id="a2089">
+     id="a2089"
+     xlink:title="Laboratório de Ensino"
+     xlink:show="Laboratório de Ensino">
     <path
-       d="m 595,1000 v 369 h -76"
+       d="m 595,1050 v 319 h -76"
        fill="none"
        marker-end="url(#Dot-1)"
        stroke="#000000"
@@ -8421,19 +8542,12 @@
     <g
        transform="translate(-20)"
        id="g2087">
-      <g
-         transform="matrix(0.74,0,0,0.74,-190,931)"
-         id="g2077">
-        <rect
-           x="990"
-           y="43"
-           width="191"
-           height="117"
-           rx="0"
-           ry="0"
-           id="rect2075"
-           style="fill:#00ffff" />
-      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g12666"
+         id="use12668-5-6-9-1"
+         transform="matrix(0.74,0,0,0.74,-190,931)" />
       <text
          x="616.15771"
          y="993.53955"
@@ -8464,33 +8578,66 @@
            id="tspan2083"
            style="fill:#000000">Ensino</tspan></text>
     </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41246-0"
+       id="use5491"
+       transform="translate(170.73835,1.2621605)" />
   </a>
-  <g
-     id="g39806"
-     transform="translate(680.25085,25.587376)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle39800"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text39804"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan39802"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
-  </g>
+  <a
+     id="a17384"
+     xlink:href="https://www.cchsa.ufpb.br/cchsa/contents/menu/setores/laboratorios"
+     target="blank"
+     xlink:title="Avicultura"
+     xlink:show="Avicultura">
+    <g
+       id="g12813"
+       transform="translate(433.2398)">
+      <g
+         id="g12807"
+         transform="translate(25.997623,811.48678)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle12801"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text12805"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan12803"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">11</tspan></text>
+      </g>
+      <text
+         x="771.30841"
+         y="1371.993"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text12811"
+         style="fill:#000000"><tspan
+           x="807.47491"
+           y="1371.993"
+           id="tspan12809"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Avicultura</tspan></text>
+    </g>
+  </a>
   <g
      transform="matrix(1.2620252,0,0,1.2620252,1491.4178,1160.2456)"
      style="display:inline;fill:#b3b3b3;enable-background:new"

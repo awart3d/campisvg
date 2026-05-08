@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.36171874"
-     inkscape:cx="1639.3953"
-     inkscape:cy="735.37799"
+     inkscape:zoom="0.72343748"
+     inkscape:cx="954.47087"
+     inkscape:cy="1151.4471"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -1094,7 +1094,7 @@
      id="rect22275"
      width="1920"
      height="1500"
-     x="-2.0332031e-05"
+     x="0"
      y="4.2529296e-06"
      rx="0"
      ry="0" />
@@ -1106,6 +1106,41 @@
      stroke-width="3"
      id="path129"
      style="fill:url(#radialGradient190246)" />
+  <g
+     id="g127337"
+     transform="translate(2023.9428,52.117795)">
+    <g
+       id="g2098"
+       transform="matrix(0,-2.5926681,2.5926681,0,-102.74464,688.35691)"
+       style="stroke:#b3b3b3;stroke-opacity:1">
+      <circle
+         style="fill:none;stroke:#666666;stroke-width:0.385703;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1372"
+         cx="91.865067"
+         cy="-47.002731"
+         r="6.4003553" />
+      <path
+         style="fill:none;stroke:#666666;stroke-width:0.320618;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 91.87464,-50.348288 v 7.209098"
+         id="path2034"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect2088"
+         style="fill:none;stroke:#666666;stroke-width:0.320618;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.38831,-46.946799 3.48633,-3.486329 3.48633,3.486329"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="circle43959"
+         style="fill:none;stroke:#ff434b;stroke-width:0.385703;stroke-linecap:round;stroke-opacity:1"
+         d="m 85.464711,-47.002731 c 0,-3.534819 2.865537,-6.400356 6.400356,-6.400356 3.534819,0 6.400355,2.865537 6.400355,6.400356"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.999999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m -198.48574,457.15168 v -13.97886 l 13.302,13.30207 v -13.82135"
+       id="path12547-5"
+       sodipodi:nodetypes="cccc" />
+  </g>
   <path
      d="m 1168.4363,222.65602 -67,38 -69,19 -106.99998,59 -211,99 -541,308 -136.000004,-46 -25,19 660.000004,225 88,38.99998 299.99998,151 174.4955,77.1454 19.8607,-21.4037 -56.3562,-24.7417 116,-99 306,-251.99998 200,-156 54,-46 -36,-14 -56,48 c -211,159 -413,333.99998 -617,504.99998 l -74,-33 -299.99998,-150 -89,-38.99998 -491,-168 531,-304 214,-98 108.99998,-60 68,-19 70,-39 z"
      fill="#808080"
@@ -1170,7 +1205,7 @@
      id="path147"
      sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
-     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:12, 12;stroke-dashoffset:0"
+     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:9,9;stroke-dashoffset:0"
      d="m 1045.8149,659.24954 75.8103,36.14319"
      id="path2270"
      sodipodi:nodetypes="cc" />
@@ -1240,7 +1275,7 @@
      stroke-width="2"
      id="path169" />
   <path
-     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:12,12;stroke-dashoffset:0"
+     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:9,9;stroke-dashoffset:0"
      d="m 543.45028,841.08323 71.40926,31.22436 c 24.55434,9.05527 49.10765,10.62334 73.65952,1.87853 l 84.20352,-48.28585 c 26.06066,-13.91341 57.62596,-11.2975 72.89126,-4.84417 l 29.52332,13.93418"
      id="path1278"
      sodipodi:nodetypes="cccccc" />
@@ -3143,6 +3178,152 @@
       </g>
     </g>
   </a>
+  <g
+     id="g2858"
+     style="display:inline;fill:#b3b3b3;fill-opacity:0.1;enable-background:new"
+     transform="matrix(48.246677,0,0,48.246677,-3761.6113,-10397.068)">
+    <rect
+       y="215.49812"
+       x="90.660461"
+       height="8.5559225"
+       width="8.5559225"
+       id="rect2801"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.285197" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.285197"
+       id="rect2803"
+       width="8.5559225"
+       height="8.5559225"
+       x="90.660461"
+       y="238.03242" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2805"
+       width="5.1545982"
+       height="5.1545982"
+       x="92.301529"
+       y="228.36855" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2807"
+       width="5.1545982"
+       height="5.1545982"
+       x="100.86444"
+       y="235.38161" />
+    <rect
+       y="228.36855"
+       x="100.86444"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect2809"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2811"
+       width="5.1545982"
+       height="5.1545982"
+       x="100.86444"
+       y="221.35547" />
+    <rect
+       y="229.1725"
+       x="108.07321"
+       height="3.5466995"
+       width="3.5466995"
+       id="rect2813"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.118223" />
+    <rect
+       y="222.83968"
+       x="108.13506"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2815"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2817"
+       width="2.1861699"
+       height="2.1861699"
+       x="108.13506"
+       y="236.86581" />
+    <rect
+       y="242.59039"
+       x="102.34865"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2819"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2821"
+       width="2.1861699"
+       height="2.1861699"
+       x="102.34865"
+       y="217.30707" />
+    <rect
+       transform="scale(-1,1)"
+       y="235.38161"
+       x="-88.72171"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect2823"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182"
+       id="rect2825"
+       width="5.1545982"
+       height="5.1545982"
+       x="-88.72171"
+       y="228.36855" />
+    <rect
+       transform="scale(-1,1)"
+       y="221.35547"
+       x="-88.72171"
+       height="5.1545982"
+       width="5.1545982"
+       id="rect2827"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.17182" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.118223"
+       id="rect2829"
+       width="3.5466995"
+       height="3.5466995"
+       x="-81.512924"
+       y="229.1725" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2831"
+       width="2.1861699"
+       height="2.1861699"
+       x="-81.451096"
+       y="222.83968" />
+    <rect
+       transform="scale(-1,1)"
+       y="236.86581"
+       x="-81.451096"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2833"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+    <rect
+       transform="scale(-1,1)"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723"
+       id="rect2835"
+       width="2.1861699"
+       height="2.1861699"
+       x="-87.237488"
+       y="242.59039" />
+    <rect
+       transform="scale(-1,1)"
+       y="217.30707"
+       x="-87.237488"
+       height="2.1861699"
+       width="2.1861699"
+       id="rect2837"
+       style="fill:#b3b3b3;fill-opacity:0.1;stroke-width:0.0728723" />
+  </g>
   <a
      id="a10554-3"
      xlink:href="https://maps.app.goo.gl/eA2GsMJGHigbagYT8"
@@ -3192,392 +3373,472 @@
          id="path16064" />
     </g>
   </a>
-  <g
-     id="g41206"
-     transform="translate(-625.38069,801.48678)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41200"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41204"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan41202"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-  </g>
-  <g
-     id="g41214"
-     transform="translate(-625.38069,862.39796)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41208"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41212"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan41210"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-  </g>
-  <g
-     id="g41246"
-     transform="translate(-408.25458,801.48678)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41240"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.38989"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41244"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.38989"
-         y="562.84814"
-         id="tspan41242"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
-  </g>
-  <g
-     id="g41262"
-     transform="translate(-408.25458,862.39796)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41256"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41260"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan41258"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
-  </g>
-  <text
-     x="56.092785"
-     y="1424.4165"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text10732"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       id="tspan199268"
-       x="154.38454"
-       y="1424.4165"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"><tspan
-         x="154.38454"
+  <a
+     id="a4036"
+     xlink:href="https://www.ufpb.br/bsmamanguape"
+     target="blank"
+     xlink:title="Biblioteca"
+     xlink:show="Biblioteca">
+    <g
+       id="g1445">
+      <g
+         id="g41214"
+         transform="translate(-625.38069,862.39796)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41208"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.52325"
+           y="563.92017"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41212"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.52325"
+             y="563.92017"
+             id="tspan41210"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
+      </g>
+      <text
+         x="56.092785"
          y="1424.4165"
-         id="tspan10730"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></tspan></text>
-  <text
-     x="335.34412"
-     y="1363.8439"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text11163"
-     style="fill:#000000"><tspan
-       x="371.51062"
-       y="1363.8439"
-       id="tspan11161"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">CCAE</tspan></text>
-  <g
-     id="g41286"
-     transform="translate(-211.12848,801.48673)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41280"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41284"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan41282"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
-  </g>
-  <g
-     id="g41302"
-     transform="translate(-211.12848,862.39791)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41296"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.08057"
-       y="562.95483"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41300"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.08057"
-         y="562.95483"
-         id="tspan41298"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
-  </g>
-  <g
-     id="g41318"
-     transform="translate(25.997623,801.48673)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41312"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41316"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan41314"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
-  </g>
-  <g
-     id="g41326"
-     transform="translate(25.997623,862.39791)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle41320"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text41324"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan41322"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
-  </g>
-  <text
-     x="533.07825"
-     y="1363.8439"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text11349"
-     style="fill:#000000"><tspan
-       x="569.24475"
-       y="1363.8439"
-       id="tspan11347"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratórios</tspan></text>
-  <text
-     x="770.20441"
-     y="1363.8439"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text11435"
-     style="fill:#000000"><tspan
-       x="806.37091"
-       y="1363.8439"
-       id="tspan11433"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratórios</tspan></text>
-  <text
-     x="683.78088"
-     y="1412.7827"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text10886-5"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       id="tspan10937-62"
-       x="805.86066"
-       y="1412.7827"
-       style="text-align:start;text-anchor:start"><tspan
-         x="805.86066"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text10732"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan199268"
+           x="154.38454"
+           y="1424.4165"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"><tspan
+             x="154.38454"
+             y="1424.4165"
+             id="tspan10730"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Biblioteca</tspan></tspan></text>
+    </g>
+  </a>
+  <a
+     id="a4177"
+     xlink:href="https://www.ccae.ufpb.br/"
+     target="blank"
+     xlink:title="Centro de Ciências Aplicadas e Educação"
+     xlink:show="Centro de Ciências Aplicadas e Educação">
+    <g
+       id="g1585">
+      <g
+         id="g41246"
+         transform="translate(-408.25458,801.48678)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41240"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.38989"
+           y="562.84814"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41244"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.38989"
+             y="562.84814"
+             id="tspan41242"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
+      </g>
+      <text
+         x="335.34412"
+         y="1363.8439"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text11163"
+         style="fill:#000000"><tspan
+           x="371.51062"
+           y="1363.8439"
+           id="tspan11161"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">CCAE</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a4459"
+     xlink:href="https://www.ccae.ufpb.br/"
+     target="blank"
+     xlink:title="Laboratórios"
+     xlink:show="Laboratórios">
+    <g
+       id="g2008">
+      <g
+         id="g41286"
+         transform="translate(-211.12848,801.48673)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41280"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="757.84058"
+           y="562.84814"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41284"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="757.84058"
+             y="562.84814"
+             id="tspan41282"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
+      </g>
+      <text
+         x="533.07825"
+         y="1363.8439"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text11349"
+         style="fill:#000000"><tspan
+           x="569.24475"
+           y="1363.8439"
+           id="tspan11347"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratórios</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a4744"
+     xlink:href="https://www.ccae.ufpb.br/"
+     target="blank"
+     xlink:title="Laboratórios"
+     xlink:show="Laboratórios">
+    <g
+       id="g2148">
+      <g
+         id="g41318"
+         transform="translate(25.997623,801.48673)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41312"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41316"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan41314"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
+      </g>
+      <text
+         x="770.20441"
+         y="1363.8439"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text11435"
+         style="fill:#000000"><tspan
+           x="806.37091"
+           y="1363.8439"
+           id="tspan11433"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Laboratórios</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a4888"
+     xlink:href="https://www.prape.ufpb.br/residencia-universitaria/"
+     target="blank"
+     xlink:title="Residência Universitária"
+     xlink:show="Residência Universitária">
+    <g
+       id="g2291">
+      <g
+         id="g41326"
+         transform="translate(25.997623,862.39791)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41320"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="755.7392"
+           y="562.89081"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41324"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="755.7392"
+             y="562.89081"
+             id="tspan41322"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
+      </g>
+      <text
+         x="683.78088"
          y="1412.7827"
-         id="tspan10884-9"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Residência</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="805.86066"
-       y="1436.5327"
-       id="tspan10941-1"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Universitária</tspan><tspan
-       sodipodi:role="line"
-       id="tspan10939-2"
-       x="805.86066"
-       y="1460.2827"
-       style="text-align:start;text-anchor:start" /></text>
-  <text
-     x="33.406765"
-     y="1352.3109"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text68120"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       id="tspan68114"
-       x="155.48654"
-       y="1352.3109"
-       style="text-align:start;text-anchor:start"><tspan
-         x="155.48654"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text10886-5"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan10937-62"
+           x="805.86066"
+           y="1412.7827"
+           style="text-align:start;text-anchor:start"><tspan
+             x="805.86066"
+             y="1412.7827"
+             id="tspan10884-9"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Residência</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="805.86066"
+           y="1436.5327"
+           id="tspan10941-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Universitária</tspan><tspan
+           sodipodi:role="line"
+           id="tspan10939-2"
+           x="805.86066"
+           y="1460.2827"
+           style="text-align:start;text-anchor:start" /></text>
+    </g>
+  </a>
+  <a
+     id="a3894"
+     xlink:href="https://www.ufpb.br/ccae/contents/menu/ccae-1/ensino"
+     target="blank"
+     xlink:title="Central de Aulas"
+     xlink:show="Central de Aulas">
+    <g
+       id="g1304">
+      <g
+         id="g41206"
+         transform="translate(-625.38069,801.48678)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41200"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="757.84058"
+           y="562.84814"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41204"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="757.84058"
+             y="562.84814"
+             id="tspan41202"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
+      </g>
+      <text
+         x="33.406765"
          y="1352.3109"
-         id="tspan68112"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Central de</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="155.48654"
-       y="1376.0609"
-       id="tspan68116"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Aulas</tspan><tspan
-       sodipodi:role="line"
-       id="tspan68118"
-       x="155.48654"
-       y="1399.8109"
-       style="text-align:start;text-anchor:start" /></text>
-  <text
-     x="335.34412"
-     y="1424.4131"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text68331"
-     style="fill:#000000"><tspan
-       x="371.51062"
-       y="1424.4131"
-       id="tspan68329"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Auditório</tspan></text>
-  <text
-     x="447.16498"
-     y="1412.7827"
-     fill="#666666"
-     font-family="'Open Sans'"
-     font-size="19px"
-     font-weight="500"
-     text-align="center"
-     text-anchor="middle"
-     xml:space="preserve"
-     id="text68365"
-     style="fill:#000000"><tspan
-       sodipodi:role="line"
-       id="tspan68359"
-       x="569.24475"
-       y="1412.7827"
-       style="text-align:start;text-anchor:start"><tspan
-         x="569.24475"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text68120"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan68114"
+           x="155.48654"
+           y="1352.3109"
+           style="text-align:start;text-anchor:start"><tspan
+             x="155.48654"
+             y="1352.3109"
+             id="tspan68112"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Central de</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="155.48654"
+           y="1376.0609"
+           id="tspan68116"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Aulas</tspan><tspan
+           sodipodi:role="line"
+           id="tspan68118"
+           x="155.48654"
+           y="1399.8109"
+           style="text-align:start;text-anchor:start" /></text>
+    </g>
+  </a>
+  <a
+     id="a4318"
+     xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-4"
+     target="blank"
+     xlink:title="Auditório"
+     xlink:show="Auditório">
+    <g
+       id="g1725">
+      <g
+         id="g41262"
+         transform="translate(-408.25458,862.39796)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41256"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.52325"
+           y="563.92017"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41260"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.52325"
+             y="563.92017"
+             id="tspan41258"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
+      </g>
+      <text
+         x="335.34412"
+         y="1424.4131"
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text68331"
+         style="fill:#000000"><tspan
+           x="371.51062"
+           y="1424.4131"
+           id="tspan68329"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Auditório</tspan></text>
+    </g>
+  </a>
+  <a
+     id="a4603"
+     xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
+     target="blank"
+     xlink:title="Restaurante Universitário"
+     xlink:show="Restaurante Universitário">
+    <g
+       id="g1868">
+      <g
+         id="g41302"
+         transform="translate(-211.12848,862.39791)">
+        <circle
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+           id="circle41296"
+           cx="756.47522"
+           cy="555.23218"
+           r="15" />
+        <text
+           x="756.08057"
+           y="562.95483"
+           fill="#666666"
+           font-family="'Open Sans'"
+           font-size="32.0124px"
+           font-weight="500"
+           text-align="center"
+           text-anchor="middle"
+           xml:space="preserve"
+           id="text41300"
+           style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
+             x="756.08057"
+             y="562.95483"
+             id="tspan41298"
+             style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
+      </g>
+      <text
+         x="447.16498"
          y="1412.7827"
-         id="tspan68357"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Restaurante</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="569.24475"
-       y="1436.5327"
-       id="tspan68361"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Universitário</tspan><tspan
-       sodipodi:role="line"
-       id="tspan68363"
-       x="569.24475"
-       y="1460.2827"
-       style="text-align:start;text-anchor:start" /></text>
+         fill="#666666"
+         font-family="'Open Sans'"
+         font-size="19px"
+         font-weight="500"
+         text-align="center"
+         text-anchor="middle"
+         xml:space="preserve"
+         id="text68365"
+         style="fill:#000000"><tspan
+           sodipodi:role="line"
+           id="tspan68359"
+           x="569.24475"
+           y="1412.7827"
+           style="text-align:start;text-anchor:start"><tspan
+             x="569.24475"
+             y="1412.7827"
+             id="tspan68357"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000">Restaurante</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="569.24475"
+           y="1436.5327"
+           id="tspan68361"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start">Universitário</tspan><tspan
+           sodipodi:role="line"
+           id="tspan68363"
+           x="569.24475"
+           y="1460.2827"
+           style="text-align:start;text-anchor:start" /></text>
+    </g>
+  </a>
   <use
      x="0"
      y="0"
@@ -3590,50 +3851,843 @@
      id="path3275"
      sodipodi:nodetypes="cc" />
   <path
-     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:12, 12;stroke-dashoffset:0"
-     d="m 935.74363,858.99756 149.13207,74.28672"
+     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:9, 9;stroke-dashoffset:0"
+     d="m 935.74363,858.99756 26.72409,12.14732 127.55838,65.18176"
      id="path2188"
-     sodipodi:nodetypes="cc" />
+     sodipodi:nodetypes="ccc" />
   <path
-     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:12, 12;stroke-dashoffset:0"
+     style="fill:none;stroke:#ffdd55;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:9,9;stroke-dashoffset:0"
      d="m 1195.9438,715.47919 65.264,16.94539 112.6477,36.44515 49.311,9.11099"
      id="path2256"
      sodipodi:nodetypes="cccc" />
-  <g
-     id="g127337"
-     transform="translate(2023.9428,72.117795)">
-    <g
-       id="g2098"
-       transform="matrix(0,-2.5926681,2.5926681,0,-102.74464,688.35691)"
-       style="stroke:#b3b3b3;stroke-opacity:1">
-      <circle
-         style="fill:none;stroke:#666666;stroke-width:0.385703;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-         id="path1372"
-         cx="91.865067"
-         cy="-47.002731"
-         r="6.4003553" />
-      <path
-         style="fill:none;stroke:#666666;stroke-width:0.320618;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 91.87464,-50.348288 v 7.209098"
-         id="path2034"
-         sodipodi:nodetypes="cc" />
-      <path
-         id="rect2088"
-         style="fill:none;stroke:#666666;stroke-width:0.320618;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-         d="m 88.38831,-46.946799 3.48633,-3.486329 3.48633,3.486329"
-         sodipodi:nodetypes="ccc" />
-      <path
-         id="circle43959"
-         style="fill:none;stroke:#ff434b;stroke-width:0.385703;stroke-linecap:round;stroke-opacity:1"
-         d="m 85.464711,-47.002731 c 0,-3.534819 2.865537,-6.400356 6.400356,-6.400356 3.534819,0 6.400355,2.865537 6.400355,6.400356"
-         sodipodi:nodetypes="csc" />
-    </g>
+  <a
+     class="svgobj"
+     transform="translate(603.43632,213.556)"
+     filter="url(#filter29405)"
+     target="blank"
+     xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
+     xlink:title="Restaurante Universitário"
+     id="a932"
+     xlink:show="Restaurante Universitário">
     <path
-       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.999999;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
-       d="m -198.48574,457.15168 v -13.97886 l 13.302,13.30207 v -13.82135"
-       id="path12547-5"
+       d="M 954,963 V 783 L 516,563"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path915"
+       style="marker-end:url(#Dot-3)" />
+    <g
+       transform="translate(0,1.7)"
+       id="g930">
+      <g
+         id="g38418"
+         transform="matrix(0.74,0,0,0.74,151,930)">
+        <rect
+           x="992.7027"
+           y="45.702702"
+           width="191"
+           height="117"
+           rx="0"
+           ry="0"
+           id="rect4552"
+           style="fill:#000000;fill-opacity:0.5" />
+        <rect
+           x="990"
+           y="43"
+           width="191"
+           height="117"
+           rx="0"
+           ry="0"
+           id="rect917"
+           style="fill:#8aff07;fill-opacity:1" />
+      </g>
+      <text
+         x="955.41327"
+         y="988.86072"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text928"><tspan
+           x="955.41327"
+           y="988.86072"
+           dominant-baseline="auto"
+           stop-color="#000000"
+           text-align="center"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
+           id="tspan922"><tspan
+   fill="#ffffff"
+   font-family="'Open Sans'"
+   font-weight="bold"
+   id="tspan920"
+   style="fill:#000000">RU</tspan> </tspan><tspan
+           x="955.41327"
+           y="1012.8607"
+           dominant-baseline="auto"
+           stop-color="#000000"
+           text-align="center"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
+           id="tspan924">Restaurante</tspan><tspan
+           x="955.41327"
+           y="1036.8607"
+           dominant-baseline="auto"
+           stop-color="#000000"
+           text-align="center"
+           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
+           id="tspan926">Universitário</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41302"
+       id="use3121"
+       transform="translate(-30.347383,-857.34014)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="matrix(0.80957363,0,0,0.80957363,397.33488,44.803628)"
+     target="blank"
+     xlink:href="https://butantan.gov.br/bubutantan/teiu-um-lagarto-tao-brasileiro-que-voce-com-certeza-ja-viu-por-ai"
+     xlink:title="Fauna Brasileira | Teiu"
+     id="a133370">
+    <path
+       d="m 959.5778,409.00033 c 2.67457,0.64077 47.5805,-0.91285 48.1938,-1.46149 -5.4737,-3.98192 -49.59324,-0.0967 -48.1938,1.46149 z"
+       fill="#999999"
+       id="path114784-8-6-7-3"
+       sodipodi:nodetypes="ccc"
+       style="fill:#09560d;fill-opacity:1;stroke-width:0.890235" />
+    <g
+       transform="matrix(0.82857907,0,0,0.82857907,244.03552,61.073719)"
+       id="g133368">
+      <path
+         d="m 917,402 c 11,-6.3 15,-5.3 26,-3.6 -6.2,7.4 -15,7.7 -24,13 -6.2,5.4 2.1,7.2 4.7,9.1 -6.9,-0.57 -14,-3.1 -14,-6.8 l -21,1.4 7.6,5.8 c -2.4,-0.74 -17,-0.48 -13,-4.7 -23,14 -50,0.01 -51,-13 25,31 46,0.36 85,-1.2 z"
+         fill="url(#linearGradient30135)"
+         id="path133362"
+         style="fill:url(#linearGradient30135)" />
+      <g
+         id="g18654-6"
+         transform="matrix(2.3057405,0,0,2.3057405,-1376.7056,-969.81974)">
+        <ellipse
+           cx="1000"
+           cy="594"
+           rx="0.77999997"
+           ry="0.74000001"
+           id="ellipse133378-6" />
+        <ellipse
+           cx="999.82239"
+           cy="593.74304"
+           rx="0.50854248"
+           ry="0.48246339"
+           fill="#ffffff"
+           id="ellipse133380-4"
+           style="fill:url(#linearGradient46841);fill-opacity:1;stroke-width:1.30396" />
+      </g>
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="matrix(1.0035491,0,0,1.0035491,123.08113,240.78974)"
+     target="blank"
+     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
+     xlink:title="Fauna Brasileira | Bem-te-Vi"
+     id="a19124">
+    <g
+       transform="matrix(1.4,0,0,1.4,-323,-184)"
+       id="g19122">
+      <path
+         id="path19110"
+         style="fill:url(#linearGradient68983);fill-opacity:1"
+         d="m 997.81943,593.5533 -5.31868,1.34727 c 1.96789,0.43483 5.76603,1.23654 7.49919,2.09866 -1.26354,3.45093 1.62016,8.62134 12.99956,12.00099 8.5724,8.81916 15.0368,8.06579 18.5292,8.43725 -20.683,-9.77901 -11.6824,-14.06736 -25.5291,-21.43682 1.2923,-5.38045 -7.57795,-6.28881 -8.18017,-2.44735 z"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         d="m 1000,597 c -1.01056,3.45563 1.6268,8.71388 13,12 -7.3432,-4.33834 -5.2604,-9.72881 -13,-12 z"
+         fill="url(#linearGradient110786)"
+         id="path19114"
+         style="fill:url(#linearGradient110786)"
+         sodipodi:nodetypes="ccc" />
+      <ellipse
+         cx="1000"
+         cy="594"
+         rx="0.77999997"
+         ry="0.74000001"
+         id="ellipse19116" />
+      <ellipse
+         cx="999.92877"
+         cy="593.73279"
+         rx="0.55616093"
+         ry="0.52763993"
+         fill="#ffffff"
+         id="ellipse19118"
+         style="fill:url(#linearGradient80444);fill-opacity:1;stroke-width:1.42605" />
+      <path
+         d="m 999.48497,592.01936 c 3.00003,-0.5 5.21503,1.52064 6.61503,2.18064 -0.78,-2.4 -4.215,-3.88064 -6.61503,-2.18064 z"
+         fill="#ffffff"
+         id="path19120"
+         sodipodi:nodetypes="ccc"
+         style="fill:#ffcc00;fill-opacity:1" />
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="matrix(-1.1010687,0,0,1.1010687,2419.3613,-288.83669)"
+     target="blank"
+     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
+     xlink:title="Fauna Brasileira | Bem-te-Vi"
+     id="a133386">
+    <g
+       transform="matrix(1.4,0,0,1.4,-323,-184)"
+       id="g133384">
+      <path
+         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 5.7272,3.11566 10.3093,7.44543 17.6175,8.88482 C 1024.9157,614.36834 1021.0327,610.1555 1017,606 c -2.7,-4.1 -6.5,-8.5 -11,-10 1.3,-8 -13,-5 -6.5,0.56 z"
+         fill="url(#linearGradient30137)"
+         id="path133372"
+         style="fill:url(#linearGradient30137)"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         d="M 998.41357,593.72295 992.5,594.9 l 8.1,1.7 c -0.80984,-0.9368 -1.87634,-1.80322 -2.18643,-2.87705 z"
+         fill="url(#linearGradient30139)"
+         id="path133374"
+         style="fill:url(#linearGradient30139)"
+         sodipodi:nodetypes="cccc" />
+      <path
+         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 3.5,-8.5 -5.9,-2.8 -13,-12 z"
+         fill="url(#linearGradient30141)"
+         id="path133376"
+         style="fill:url(#linearGradient34917)" />
+      <g
+         id="g18654">
+        <ellipse
+           cx="1000"
+           cy="594"
+           rx="0.77999997"
+           ry="0.74000001"
+           id="ellipse133378" />
+        <ellipse
+           cx="999.82239"
+           cy="593.74304"
+           rx="0.50854248"
+           ry="0.48246339"
+           fill="#ffffff"
+           id="ellipse133380"
+           style="fill:url(#linearGradient7945);fill-opacity:1;stroke-width:1.30396" />
+      </g>
+      <path
+         d="m 999.95536,592.41752 c 3.00004,-0.5 4.74464,1.12248 6.14464,1.78248 -0.78,-2.4 -3.7446,-3.48248 -6.14464,-1.78248 z"
+         fill="#ffffff"
+         id="path133382"
+         sodipodi:nodetypes="ccc"
+         style="fill:#14ffb0;fill-opacity:1" />
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(-432.56368,236.638)"
+     filter="url(#filter29417)"
+     target="blank"
+     xlink:href="https://maps.app.goo.gl/XmMQ4FPMKdFgqhM76"
+     xlink:title="Acesso 1"
+     id="a913">
+    <g
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g911">
+      <g
+         id="g38418-1"
+         transform="matrix(0.74,0,0,0.74,311,934)">
+        <rect
+           x="992.7027"
+           y="53.702702"
+           width="191"
+           height="74"
+           rx="0"
+           ry="0"
+           filter="url(#filter29405)"
+           stroke="#000000"
+           stroke-width="1.4"
+           id="rect3798"
+           style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:0;stroke-dasharray:none" />
+        <rect
+           x="990"
+           y="51"
+           width="191"
+           height="74"
+           rx="0"
+           ry="0"
+           filter="url(#filter29405)"
+           stroke="#000000"
+           stroke-width="1.4"
+           id="rect902"
+           style="fill:#8aff07;stroke:none;stroke-width:0;stroke-dasharray:none;fill-opacity:1" />
+      </g>
+      <path
+         id="path106248"
+         style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
+         sodipodi:nodetypes="cccc" />
+      <text
+         x="1116.2551"
+         y="1007.9888"
+         fill="#ccff00"
+         font-family="'Open Sans'"
+         font-size="24px"
+         font-weight="500"
+         stroke-width="0.71"
+         xml:space="preserve"
+         id="text907"
+         style="fill:#000000"><tspan
+           x="1116.2551"
+           y="1007.9888"
+           fill="#ccff00"
+           font-family="'Open Sans'"
+           font-size="24px"
+           font-weight="600"
+           stroke-width="0.71"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan905"
+           style="fill:#000000">Acesso</tspan></text>
+      <path
+         d="M 1114,972 V 701 h 79"
+         fill="none"
+         marker-end="url(#Dot-3)"
+         stroke="#000000"
+         stroke-width="2"
+         id="path909"
+         style="marker-end:url(#Dot-3)"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(356.43632,-786.886)"
+     filter="url(#filter29369)"
+     target="blank"
+     xlink:href="https://www.ccae.ufpb.br/"
+     xlink:title="Laboratórios"
+     id="a944">
+    <path
+       d="m 454,1000 v 138 h 180 l 7.9,329"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path934"
+       style="marker-end:url(#Dot-3)" />
+    <use
+       transform="translate(-660,-0.68)"
+       filter="url(#filter29417)"
+       xlink:href="#g38418-1"
+       id="use936" />
+    <g
+       transform="translate(12,-11)"
+       fill="#000080"
+       id="g942">
+      <text
+         x="443.0976"
+         y="1018.0552"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text940"><tspan
+           x="443.0976"
+           y="1018.0552"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-width="0.6"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan938"
+           style="fill:#000000">Laboratórios</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41286"
+       id="use2960"
+       transform="translate(96.640968,113.46954)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(211.43632,237.318)"
+     filter="url(#filter29357)"
+     target="blank"
+     xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-4"
+     id="a956"
+     xlink:title="Auditório"
+     xlink:show="Auditório">
+    <path
+       d="M 290,971 V 737 L 632,424"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path946"
+       style="marker-end:url(#Dot-3)" />
+    <g
+       transform="translate(-5.5)"
+       id="g954">
+      <use
+         transform="translate(-819,-0.68)"
+         filter="url(#filter29417)"
+         xlink:href="#g38418-1"
+         id="use948" />
+      <text
+         x="296.67978"
+         y="1007.0044"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="500"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text952"><tspan
+           x="296.67978"
+           y="1007.0044"
+           fill="#ffffff"
+           font-family="'Open Sans'"
+           font-size="20px"
+           font-weight="600"
+           stroke-width="0.6"
+           text-align="center"
+           text-anchor="middle"
+           id="tspan950"
+           style="fill:#000000">Auditório</tspan></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41262"
+       id="use5127"
+       transform="translate(282.95561,-992.99323)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(312.43632,-786.886)"
+     filter="url(#filter29345)"
+     target="blank"
+     xlink:href="https://www.ufpb.br/bsmamanguape"
+     xlink:title="Biblioteca"
+     id="a968"
+     xlink:show="Biblioteca">
+    <path
+       d="m 125,1000 v 198 l 197,156"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path958"
+       style="marker-end:url(#Dot-3)" />
+    <g
+       transform="translate(-483)"
+       id="g962">
+      <use
+         transform="translate(-506,-0.68)"
+         filter="url(#filter29417)"
+         xlink:href="#g38418-1"
+         id="use960" />
+    </g>
+    <text
+       x="126.46609"
+       y="1007.0044"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="500"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.75"
+       style="line-height:1;fill:#000000"
+       xml:space="preserve"
+       id="text966"><tspan
+         x="126.46609"
+         y="1007.0044"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-width="0.75"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan964"
+         style="fill:#000000">Biblioteca</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41214"
+       id="use1389"
+       transform="translate(195.07685,-61.711319)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(241.43632,237.318)"
+     filter="url(#filter29381)"
+     target="blank"
+     xlink:href="https://www.ccae.ufpb.br/"
+     xlink:title="Laboratórios"
+     id="a980"
+     xlink:show="Laboratórios">
+    <path
+       d="m 619,971 -0.17,-219 99,-71"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path970"
+       style="marker-end:url(#Dot-3)" />
+    <g
+       transform="translate(11)"
+       id="g974">
+      <use
+         transform="translate(-506,-0.68)"
+         filter="url(#filter29417)"
+         xlink:href="#g38418-1"
+         id="use972" />
+    </g>
+    <text
+       x="620.30731"
+       y="1007.0679"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="500"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.6"
+       style="line-height:1.2;fill:#000000"
+       xml:space="preserve"
+       id="text978"><tspan
+         x="620.30731"
+         y="1007.0679"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         font-weight="600"
+         stroke-width="0.6"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan976"
+         style="fill:#000000">Laboratórios</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41318"
+       id="use5069"
+       transform="translate(-61.3111,-678.66684)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(524.43632,-626.566)"
+     filter="url(#filter29465)"
+     target="blank"
+     xlink:href="https://www.ccae.ufpb.br/"
+     xlink:title="Centro de Ciências Aplicadas e Educação"
+     id="a1008"
+     xlink:show="Centro de Ciências Aplicadas e Educação">
+    <use
+       transform="translate(-1012.8848,-161)"
+       filter="url(#filter29417)"
+       xlink:href="#g38418-1"
+       id="use1000" />
+    <text
+       x="101.39834"
+       y="848.55652"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="27px"
+       font-weight="500"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.65"
+       style="line-height:1.2;fill:#000000"
+       xml:space="preserve"
+       id="text1004"><tspan
+         x="101.39834"
+         y="848.55652"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="27px"
+         font-weight="bold"
+         stroke-width="0.65"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan1002"
+         style="fill:#000000">CCAE</tspan></text>
+    <path
+       d="m 100,866 v 154 l 215.44929,154.5824"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1006"
+       style="marker-end:url(#Dot-3)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41246"
+       id="use5098"
+       transform="translate(-31.589172,-178.57222)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(30.43632,221.556)"
+     filter="url(#filter29357)"
+     target="blank"
+     xlink:href="https://www.ufpb.br/ccae/contents/menu/ccae-1/ensino"
+     xlink:title="Central de Aulas"
+     id="a1072"
+     xlink:show="Central de Aulas">
+    <path
+       d="M 293,956 V 734 L 549,503"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1048"
+       style="marker-end:url(#Dot-3)" />
+    <g
+       transform="translate(-5.5)"
+       id="g1070">
+      <g
+         transform="translate(-313)"
+         id="g1060">
+        <text
+           x="616.15771"
+           y="993.53955"
+           fill="#fff6d5"
+           font-family="'Open Sans'"
+           font-size="21px"
+           font-weight="600"
+           stroke-linecap="round"
+           stroke-linejoin="round"
+           stroke-width="0.6"
+           text-anchor="middle"
+           style="line-height:1"
+           xml:space="preserve"
+           id="text1056"><tspan
+             x="616.15771"
+             y="993.53955"
+             text-align="center"
+             id="tspan1050">Laboratório </tspan><tspan
+             x="616.15771"
+             y="1014.8729"
+             text-align="center"
+             id="tspan1052">de </tspan><tspan
+             x="616.15771"
+             y="1036.2062"
+             text-align="center"
+             id="tspan1054">Informática</tspan></text>
+        <use
+           transform="translate(-346,-6.3)"
+           xlink:href="#g38418"
+           id="use1058" />
+      </g>
+      <text
+         x="295.14792"
+         y="994.31006"
+         fill="#ffffff"
+         font-family="'Open Sans'"
+         font-size="20px"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1.2;fill:#000000"
+         xml:space="preserve"
+         id="text1068"><tspan
+           x="295.14792"
+           y="994.31006"
+           font-weight="600"
+           text-align="center"
+           id="tspan1062"
+           style="fill:#000000">Central de</tspan><tspan
+           x="295.14792"
+           y="1018.31"
+           font-weight="600"
+           text-align="center"
+           id="tspan1064"
+           style="fill:#000000">Aulas</tspan><tspan
+           x="295.14792"
+           y="1042.3101"
+           font-weight="bold"
+           text-align="center"
+           id="tspan1066"
+           style="fill:#000000" /></text>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41206"
+       id="use1228"
+       transform="translate(417.28293,-856.12199)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(619.43632,236.638)"
+     filter="url(#filter29417)"
+     target="blank"
+     xlink:href="https://maps.app.goo.gl/PhXziHy17J1wfU8K7"
+     xlink:title="Acesso 2"
+     id="a1096">
+    <use
+       filter="url(#filter29417)"
+       xlink:href="#g38418-1"
+       id="use1088" />
+    <path
+       id="path106248-3"
+       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
+       d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
        sodipodi:nodetypes="cccc" />
-  </g>
+    <text
+       x="1116.2551"
+       y="1007.9888"
+       fill="#ccff00"
+       font-family="'Open Sans'"
+       font-size="24px"
+       font-weight="500"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.71"
+       xml:space="preserve"
+       id="text1092"
+       style="fill:#000000"><tspan
+         x="1116.2551"
+         y="1007.9888"
+         fill="#ccff00"
+         font-family="'Open Sans'"
+         font-size="24px"
+         font-weight="600"
+         stroke-width="0.71"
+         text-align="center"
+         text-anchor="middle"
+         id="tspan1090"
+         style="fill:#000000">Acesso</tspan></text>
+    <path
+       d="M 1116,970 V 572 H 875"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1094"
+       style="marker-end:url(#Dot-3)" />
+  </a>
+  <a
+     class="svgobj"
+     transform="translate(760.43632,221.556)"
+     filter="url(#filter29381)"
+     target="blank"
+     xlink:href="https://www.prape.ufpb.br/residencia-universitaria/"
+     xlink:title="Residência Universitária"
+     id="a1118"
+     xlink:show="Residência Universitária">
+    <path
+       d="M 622,956 V 816 H 371"
+       fill="none"
+       marker-end="url(#Dot-3)"
+       stroke="#000000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="path1098"
+       style="marker-end:url(#Dot-3)" />
+    <g
+       transform="translate(11)"
+       id="g1110">
+      <text
+         x="616.15771"
+         y="993.53955"
+         fill="#fff6d5"
+         font-family="'Open Sans'"
+         font-size="21px"
+         font-weight="600"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="0.6"
+         text-anchor="middle"
+         style="line-height:1"
+         xml:space="preserve"
+         id="text1106"><tspan
+           x="616.15771"
+           y="993.53955"
+           text-align="center"
+           id="tspan1100">Laboratório </tspan><tspan
+           x="616.15771"
+           y="1014.8729"
+           text-align="center"
+           id="tspan1102">de </tspan><tspan
+           x="616.15771"
+           y="1036.2062"
+           text-align="center"
+           id="tspan1104">Informática</tspan></text>
+      <use
+         transform="translate(-346,-6.3)"
+         xlink:href="#g38418"
+         id="use1108" />
+    </g>
+    <text
+       x="622.30438"
+       y="994.55322"
+       fill="#ffffff"
+       font-family="'Open Sans'"
+       font-size="20px"
+       font-weight="600"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="0.6"
+       text-anchor="middle"
+       style="line-height:1.2;fill:#000000"
+       xml:space="preserve"
+       id="text1116"><tspan
+         x="622.30438"
+         y="994.55322"
+         text-align="center"
+         id="tspan1112"
+         style="fill:#000000">Residência</tspan><tspan
+         x="622.30438"
+         y="1018.5532"
+         text-align="center"
+         id="tspan1114"
+         style="fill:#000000">Universitária</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g41326"
+       id="use3459"
+       transform="translate(-415.87012,-602.43567)" />
+  </a>
   <g
      transform="matrix(1.2620252,0,0,1.2620252,1491.4178,1160.2456)"
      style="display:inline;fill:#b3b3b3;enable-background:new"
@@ -3803,970 +4857,5 @@
          id="path3647-7"
          inkscape:connector-curvature="0" />
     </g>
-  </g>
-  <rect
-     style="fill:#fff5f5;fill-opacity:0.01;stroke-width:3.16729;stroke-linecap:round;stroke-linejoin:round"
-     id="rect37385"
-     width="1920"
-     height="1157.1097"
-     x="0"
-     y="151.52678" />
-  <a
-     class="svgobj"
-     transform="matrix(0.80957363,0,0,0.80957363,397.33488,44.803628)"
-     target="blank"
-     xlink:href="https://butantan.gov.br/bubutantan/teiu-um-lagarto-tao-brasileiro-que-voce-com-certeza-ja-viu-por-ai"
-     xlink:title="Fauna Brasileira | Teiu"
-     id="a133370">
-    <path
-       d="m 959.5778,409.00033 c 2.67457,0.64077 47.5805,-0.91285 48.1938,-1.46149 -5.4737,-3.98192 -49.59324,-0.0967 -48.1938,1.46149 z"
-       fill="#999999"
-       id="path114784-8-6-7-3"
-       sodipodi:nodetypes="ccc"
-       style="fill:#09560d;fill-opacity:1;stroke-width:0.890235" />
-    <g
-       transform="matrix(0.82857907,0,0,0.82857907,244.03552,61.073719)"
-       id="g133368">
-      <path
-         d="m 917,402 c 11,-6.3 15,-5.3 26,-3.6 -6.2,7.4 -15,7.7 -24,13 -6.2,5.4 2.1,7.2 4.7,9.1 -6.9,-0.57 -14,-3.1 -14,-6.8 l -21,1.4 7.6,5.8 c -2.4,-0.74 -17,-0.48 -13,-4.7 -23,14 -50,0.01 -51,-13 25,31 46,0.36 85,-1.2 z"
-         fill="url(#linearGradient30135)"
-         id="path133362"
-         style="fill:url(#linearGradient30135)" />
-      <g
-         id="g18654-6"
-         transform="matrix(2.3057405,0,0,2.3057405,-1376.7056,-969.81974)">
-        <ellipse
-           cx="1000"
-           cy="594"
-           rx="0.77999997"
-           ry="0.74000001"
-           id="ellipse133378-6" />
-        <ellipse
-           cx="999.82239"
-           cy="593.74304"
-           rx="0.50854248"
-           ry="0.48246339"
-           fill="#ffffff"
-           id="ellipse133380-4"
-           style="fill:url(#linearGradient46841);fill-opacity:1;stroke-width:1.30396" />
-      </g>
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="matrix(1.0035491,0,0,1.0035491,123.08113,240.78974)"
-     target="blank"
-     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
-     xlink:title="Fauna Brasileira | Bem-te-Vi"
-     id="a19124">
-    <g
-       transform="matrix(1.4,0,0,1.4,-323,-184)"
-       id="g19122">
-      <path
-         id="path19110"
-         style="fill:url(#linearGradient68983);fill-opacity:1"
-         d="m 997.81943,593.5533 -5.31868,1.34727 c 1.96789,0.43483 5.76603,1.23654 7.49919,2.09866 -1.26354,3.45093 1.62016,8.62134 12.99956,12.00099 8.5724,8.81916 15.0368,8.06579 18.5292,8.43725 -20.683,-9.77901 -11.6824,-14.06736 -25.5291,-21.43682 1.2923,-5.38045 -7.57795,-6.28881 -8.18017,-2.44735 z"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         d="m 1000,597 c -1.01056,3.45563 1.6268,8.71388 13,12 -7.3432,-4.33834 -5.2604,-9.72881 -13,-12 z"
-         fill="url(#linearGradient110786)"
-         id="path19114"
-         style="fill:url(#linearGradient110786)"
-         sodipodi:nodetypes="ccc" />
-      <ellipse
-         cx="1000"
-         cy="594"
-         rx="0.77999997"
-         ry="0.74000001"
-         id="ellipse19116" />
-      <ellipse
-         cx="999.92877"
-         cy="593.73279"
-         rx="0.55616093"
-         ry="0.52763993"
-         fill="#ffffff"
-         id="ellipse19118"
-         style="fill:url(#linearGradient80444);fill-opacity:1;stroke-width:1.42605" />
-      <path
-         d="m 999.48497,592.01936 c 3.00003,-0.5 5.21503,1.52064 6.61503,2.18064 -0.78,-2.4 -4.215,-3.88064 -6.61503,-2.18064 z"
-         fill="#ffffff"
-         id="path19120"
-         sodipodi:nodetypes="ccc"
-         style="fill:#ffcc00;fill-opacity:1" />
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="matrix(-1.1010687,0,0,1.1010687,2419.3613,-288.83669)"
-     target="blank"
-     xlink:href="https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/ecocamara/noticias/bem-te-vi-verdadeiro-2013-a-camara-e-o-bicho"
-     xlink:title="Fauna Brasileira | Bem-te-Vi"
-     id="a133386">
-    <g
-       transform="matrix(1.4,0,0,1.4,-323,-184)"
-       id="g133384">
-      <path
-         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 5.7272,3.11566 10.3093,7.44543 17.6175,8.88482 C 1024.9157,614.36834 1021.0327,610.1555 1017,606 c -2.7,-4.1 -6.5,-8.5 -11,-10 1.3,-8 -13,-5 -6.5,0.56 z"
-         fill="url(#linearGradient30137)"
-         id="path133372"
-         style="fill:url(#linearGradient30137)"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         d="M 998.41357,593.72295 992.5,594.9 l 8.1,1.7 c -0.80984,-0.9368 -1.87634,-1.80322 -2.18643,-2.87705 z"
-         fill="url(#linearGradient30139)"
-         id="path133374"
-         style="fill:url(#linearGradient30139)"
-         sodipodi:nodetypes="cccc" />
-      <path
-         d="m 1000,597 c -1.3,3.6 1.7,13 13,12 3.5,-8.5 -5.9,-2.8 -13,-12 z"
-         fill="url(#linearGradient30141)"
-         id="path133376"
-         style="fill:url(#linearGradient34917)" />
-      <g
-         id="g18654">
-        <ellipse
-           cx="1000"
-           cy="594"
-           rx="0.77999997"
-           ry="0.74000001"
-           id="ellipse133378" />
-        <ellipse
-           cx="999.82239"
-           cy="593.74304"
-           rx="0.50854248"
-           ry="0.48246339"
-           fill="#ffffff"
-           id="ellipse133380"
-           style="fill:url(#linearGradient7945);fill-opacity:1;stroke-width:1.30396" />
-      </g>
-      <path
-         d="m 999.95536,592.41752 c 3.00004,-0.5 4.74464,1.12248 6.14464,1.78248 -0.78,-2.4 -3.7446,-3.48248 -6.14464,-1.78248 z"
-         fill="#ffffff"
-         id="path133382"
-         sodipodi:nodetypes="ccc"
-         style="fill:#14ffb0;fill-opacity:1" />
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(-432.56368,236.638)"
-     filter="url(#filter29417)"
-     target="blank"
-     xlink:href="https://maps.app.goo.gl/XmMQ4FPMKdFgqhM76"
-     xlink:title="Acesso 1"
-     id="a913">
-    <g
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       id="g911">
-      <g
-         id="g38418-1"
-         transform="matrix(0.74,0,0,0.74,311,934)">
-        <rect
-           x="990"
-           y="51"
-           width="191"
-           height="74"
-           rx="0"
-           ry="0"
-           filter="url(#filter29405)"
-           stroke="#000000"
-           stroke-width="1.4"
-           id="rect902"
-           style="fill:#00ffff;stroke:none;stroke-width:0;stroke-dasharray:none" />
-      </g>
-      <path
-         id="path106248"
-         style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-         d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
-         sodipodi:nodetypes="cccc" />
-      <text
-         x="1116.2551"
-         y="1007.9888"
-         fill="#ccff00"
-         font-family="'Open Sans'"
-         font-size="24px"
-         font-weight="500"
-         stroke-width="0.71"
-         xml:space="preserve"
-         id="text907"
-         style="fill:#000000"><tspan
-           x="1116.2551"
-           y="1007.9888"
-           fill="#ccff00"
-           font-family="'Open Sans'"
-           font-size="24px"
-           font-weight="600"
-           stroke-width="0.71"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan905"
-           style="fill:#000000">Acesso</tspan></text>
-      <path
-         d="M 1114,972 V 701 h 91"
-         fill="none"
-         marker-end="url(#Dot-3)"
-         stroke="#000000"
-         stroke-width="2"
-         id="path909"
-         style="marker-end:url(#Dot-3)" />
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(603.43632,213.556)"
-     filter="url(#filter29405)"
-     target="blank"
-     xlink:href="https://www.prape.ufpb.br/restaurante-universitario/"
-     xlink:title="RU - Restaurante Universitário"
-     id="a932">
-    <path
-       d="M 954,963 V 783 L 516,563"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path915"
-       style="marker-end:url(#Dot-3)" />
-    <g
-       transform="translate(0,1.7)"
-       id="g930">
-      <g
-         id="g38418"
-         transform="matrix(0.74,0,0,0.74,151,930)">
-        <rect
-           x="990"
-           y="43"
-           width="191"
-           height="117"
-           rx="0"
-           ry="0"
-           id="rect917"
-           style="fill:#00ffff" />
-      </g>
-      <text
-         x="955.41327"
-         y="988.86072"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text928"><tspan
-           x="955.41327"
-           y="988.86072"
-           dominant-baseline="auto"
-           stop-color="#000000"
-           text-align="center"
-           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
-           id="tspan922"><tspan
-   fill="#ffffff"
-   font-family="'Open Sans'"
-   font-weight="bold"
-   id="tspan920"
-   style="fill:#000000">RU</tspan> </tspan><tspan
-           x="955.41327"
-           y="1012.8607"
-           dominant-baseline="auto"
-           stop-color="#000000"
-           text-align="center"
-           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
-           id="tspan924">Restaurante</tspan><tspan
-           x="955.41327"
-           y="1036.8607"
-           dominant-baseline="auto"
-           stop-color="#000000"
-           text-align="center"
-           style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;fill:#000000;-inkscape-stroke:none"
-           id="tspan926">Universitário</tspan></text>
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(356.43632,-786.886)"
-     filter="url(#filter29369)"
-     target="blank"
-     xlink:href="https://www.ccae.ufpb.br/"
-     xlink:title="Laboratórios"
-     id="a944">
-    <path
-       d="m 454,1000 v 138 h 180 l 7.9,329"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path934"
-       style="marker-end:url(#Dot-3)" />
-    <use
-       transform="translate(-660,-0.68)"
-       filter="url(#filter29417)"
-       xlink:href="#g38418-1"
-       id="use936" />
-    <g
-       transform="translate(12,-11)"
-       fill="#000080"
-       id="g942">
-      <text
-         x="443.0976"
-         y="1018.0552"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text940"><tspan
-           x="443.0976"
-           y="1018.0552"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-width="0.6"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan938"
-           style="fill:#000000">Laboratórios</tspan></text>
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(211.43632,237.318)"
-     filter="url(#filter29357)"
-     target="blank"
-     xlink:href="https://www.ufpb.br/aci/contents/paginas/campi/campus-4"
-     id="a956">
-    <path
-       d="M 290,971 V 737 L 632,424"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path946"
-       style="marker-end:url(#Dot-3)" />
-    <g
-       transform="translate(-5.5)"
-       id="g954">
-      <use
-         transform="translate(-819,-0.68)"
-         filter="url(#filter29417)"
-         xlink:href="#g38418-1"
-         id="use948" />
-      <text
-         x="296.67978"
-         y="1007.0044"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="500"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text952"><tspan
-           x="296.67978"
-           y="1007.0044"
-           fill="#ffffff"
-           font-family="'Open Sans'"
-           font-size="20px"
-           font-weight="600"
-           stroke-width="0.6"
-           text-align="center"
-           text-anchor="middle"
-           id="tspan950"
-           style="fill:#000000">Auditório</tspan></text>
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(312.43632,-786.886)"
-     filter="url(#filter29345)"
-     target="blank"
-     xlink:href="https://www.ufpb.br/bsmamanguape"
-     xlink:title="Biblioteca - Mamanguape"
-     id="a968">
-    <path
-       d="m 125,1000 v 198 l 197,156"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path958"
-       style="marker-end:url(#Dot-3)" />
-    <g
-       transform="translate(-483)"
-       id="g962">
-      <use
-         transform="translate(-506,-0.68)"
-         filter="url(#filter29417)"
-         xlink:href="#g38418-1"
-         id="use960" />
-    </g>
-    <text
-       x="126.46609"
-       y="1007.0044"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="500"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.75"
-       style="line-height:1;fill:#000000"
-       xml:space="preserve"
-       id="text966"><tspan
-         x="126.46609"
-         y="1007.0044"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-width="0.75"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan964"
-         style="fill:#000000">Biblioteca</tspan></text>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(241.43632,237.318)"
-     filter="url(#filter29381)"
-     target="blank"
-     xlink:href="https://www.ccae.ufpb.br/"
-     xlink:title="Laboratórios"
-     id="a980">
-    <path
-       d="m 619,971 -0.17,-219 99,-71"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path970"
-       style="marker-end:url(#Dot-3)" />
-    <g
-       transform="translate(11)"
-       id="g974">
-      <use
-         transform="translate(-506,-0.68)"
-         filter="url(#filter29417)"
-         xlink:href="#g38418-1"
-         id="use972" />
-    </g>
-    <text
-       x="620.30731"
-       y="1007.0679"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="500"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.6"
-       style="line-height:1.2;fill:#000000"
-       xml:space="preserve"
-       id="text978"><tspan
-         x="620.30731"
-         y="1007.0679"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         font-weight="600"
-         stroke-width="0.6"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan976"
-         style="fill:#000000">Laboratórios</tspan></text>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(524.43632,-626.566)"
-     filter="url(#filter29465)"
-     target="blank"
-     xlink:href="https://www.ccae.ufpb.br/"
-     xlink:title="CCAE"
-     id="a1008">
-    <use
-       transform="translate(-1012.8848,-161)"
-       filter="url(#filter29417)"
-       xlink:href="#g38418-1"
-       id="use1000" />
-    <text
-       x="101.39834"
-       y="848.55652"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="27px"
-       font-weight="500"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.65"
-       style="line-height:1.2;fill:#000000"
-       xml:space="preserve"
-       id="text1004"><tspan
-         x="101.39834"
-         y="848.55652"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="27px"
-         font-weight="bold"
-         stroke-width="0.65"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan1002"
-         style="fill:#000000">CCAE</tspan></text>
-    <path
-       d="m 100,866 v 154 l 215.44929,154.5824"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1006"
-       style="marker-end:url(#Dot-3)" />
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(30.43632,221.556)"
-     filter="url(#filter29357)"
-     target="blank"
-     xlink:href="https://www.ufpb.br/ccae/contents/menu/ccae-1/ensino"
-     xlink:title="Ensino"
-     id="a1072">
-    <path
-       d="M 293,956 V 734 L 549,503"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1048"
-       style="marker-end:url(#Dot-3)" />
-    <g
-       transform="translate(-5.5)"
-       id="g1070">
-      <g
-         transform="translate(-313)"
-         id="g1060">
-        <text
-           x="616.15771"
-           y="993.53955"
-           fill="#fff6d5"
-           font-family="'Open Sans'"
-           font-size="21px"
-           font-weight="600"
-           stroke-linecap="round"
-           stroke-linejoin="round"
-           stroke-width="0.6"
-           text-anchor="middle"
-           style="line-height:1"
-           xml:space="preserve"
-           id="text1056"><tspan
-             x="616.15771"
-             y="993.53955"
-             text-align="center"
-             id="tspan1050">Laboratório </tspan><tspan
-             x="616.15771"
-             y="1014.8729"
-             text-align="center"
-             id="tspan1052">de </tspan><tspan
-             x="616.15771"
-             y="1036.2062"
-             text-align="center"
-             id="tspan1054">Informática</tspan></text>
-        <use
-           transform="translate(-346,-6.3)"
-           xlink:href="#g38418"
-           id="use1058" />
-      </g>
-      <text
-         x="295.14792"
-         y="994.31006"
-         fill="#ffffff"
-         font-family="'Open Sans'"
-         font-size="20px"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1.2;fill:#000000"
-         xml:space="preserve"
-         id="text1068"><tspan
-           x="295.14792"
-           y="994.31006"
-           font-weight="600"
-           text-align="center"
-           id="tspan1062"
-           style="fill:#000000">Central de</tspan><tspan
-           x="295.14792"
-           y="1018.31"
-           font-weight="600"
-           text-align="center"
-           id="tspan1064"
-           style="fill:#000000">Aulas</tspan><tspan
-           x="295.14792"
-           y="1042.3101"
-           font-weight="bold"
-           text-align="center"
-           id="tspan1066"
-           style="fill:#000000" /></text>
-    </g>
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(619.43632,236.638)"
-     filter="url(#filter29417)"
-     target="blank"
-     xlink:href="https://maps.app.goo.gl/PhXziHy17J1wfU8K7"
-     xlink:title="Acesso 2"
-     id="a1096">
-    <use
-       filter="url(#filter29417)"
-       xlink:href="#g38418-1"
-       id="use1088" />
-    <path
-       id="path106248-3"
-       style="fill:#2287f6;fill-opacity:1;stroke:#225500;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       d="m 1171.0762,945.74 13.8638,20 h -27.7276 z"
-       sodipodi:nodetypes="cccc" />
-    <text
-       x="1116.2551"
-       y="1007.9888"
-       fill="#ccff00"
-       font-family="'Open Sans'"
-       font-size="24px"
-       font-weight="500"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.71"
-       xml:space="preserve"
-       id="text1092"
-       style="fill:#000000"><tspan
-         x="1116.2551"
-         y="1007.9888"
-         fill="#ccff00"
-         font-family="'Open Sans'"
-         font-size="24px"
-         font-weight="600"
-         stroke-width="0.71"
-         text-align="center"
-         text-anchor="middle"
-         id="tspan1090"
-         style="fill:#000000">Acesso</tspan></text>
-    <path
-       d="M 1116,970 V 572 H 875"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1094"
-       style="marker-end:url(#Dot-3)" />
-  </a>
-  <a
-     class="svgobj"
-     transform="translate(760.43632,221.556)"
-     filter="url(#filter29381)"
-     target="blank"
-     xlink:href="https://www.prape.ufpb.br/residencia-universitaria/"
-     xlink:title="Residência Universitária"
-     id="a1118">
-    <path
-       d="M 622,956 V 816 H 371"
-       fill="none"
-       marker-end="url(#Dot-3)"
-       stroke="#000000"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="2"
-       id="path1098"
-       style="marker-end:url(#Dot-3)" />
-    <g
-       transform="translate(11)"
-       id="g1110">
-      <text
-         x="616.15771"
-         y="993.53955"
-         fill="#fff6d5"
-         font-family="'Open Sans'"
-         font-size="21px"
-         font-weight="600"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-         stroke-width="0.6"
-         text-anchor="middle"
-         style="line-height:1"
-         xml:space="preserve"
-         id="text1106"><tspan
-           x="616.15771"
-           y="993.53955"
-           text-align="center"
-           id="tspan1100">Laboratório </tspan><tspan
-           x="616.15771"
-           y="1014.8729"
-           text-align="center"
-           id="tspan1102">de </tspan><tspan
-           x="616.15771"
-           y="1036.2062"
-           text-align="center"
-           id="tspan1104">Informática</tspan></text>
-      <use
-         transform="translate(-346,-6.3)"
-         xlink:href="#g38418"
-         id="use1108" />
-    </g>
-    <text
-       x="622.30438"
-       y="994.55322"
-       fill="#ffffff"
-       font-family="'Open Sans'"
-       font-size="20px"
-       font-weight="600"
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       stroke-width="0.6"
-       text-anchor="middle"
-       style="line-height:1.2;fill:#000000"
-       xml:space="preserve"
-       id="text1116"><tspan
-         x="622.30438"
-         y="994.55322"
-         text-align="center"
-         id="tspan1112"
-         style="fill:#000000">Residência</tspan><tspan
-         x="622.30438"
-         y="1018.5532"
-         text-align="center"
-         id="tspan1114"
-         style="fill:#000000">Universitária</tspan></text>
-  </a>
-  <g
-     id="g68098"
-     transform="translate(380.84368,478.79822)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68092"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68096"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan68094"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">8</tspan></text>
-  </g>
-  <g
-     id="g68042"
-     transform="translate(-176.89037,171.79934)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68036"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68040"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan68038"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">1</tspan></text>
-  </g>
-  <g
-     id="g68050"
-     transform="translate(-118.55922,7.5667596)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68044"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68048"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan68046"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">2</tspan></text>
-  </g>
-  <g
-     id="g68058"
-     transform="translate(83.968531,-6.7316789)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68052"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.38989"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68056"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.38989"
-         y="562.84814"
-         id="tspan68054"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">3</tspan></text>
-  </g>
-  <g
-     id="g68066"
-     transform="translate(83.286498,106.46727)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68060"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.52325"
-       y="563.92017"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68064"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.52325"
-         y="563.92017"
-         id="tspan68062"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">4</tspan></text>
-  </g>
-  <g
-     id="g68074"
-     transform="translate(241.08864,127.1571)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68068"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="757.84058"
-       y="562.84814"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68072"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="757.84058"
-         y="562.84814"
-         id="tspan68070"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">5</tspan></text>
-  </g>
-  <g
-     id="g68082"
-     transform="translate(368.9197,220.56195)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68076"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="756.08057"
-       y="562.95483"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68080"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="756.08057"
-         y="562.95483"
-         id="tspan68078"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">6</tspan></text>
-  </g>
-  <g
-     id="g68090"
-     transform="translate(204.61103,363.47949)">
-    <circle
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;paint-order:markers stroke fill"
-       id="circle68084"
-       cx="756.47522"
-       cy="555.23218"
-       r="15" />
-    <text
-       x="755.7392"
-       y="562.89081"
-       fill="#666666"
-       font-family="'Open Sans'"
-       font-size="32.0124px"
-       font-weight="500"
-       text-align="center"
-       text-anchor="middle"
-       xml:space="preserve"
-       id="text68088"
-       style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486"><tspan
-         x="755.7392"
-         y="562.89081"
-         id="tspan68086"
-         style="font-size:21.3333px;fill:#ffffff;stroke-width:1.68486">7</tspan></text>
   </g>
 </svg>
