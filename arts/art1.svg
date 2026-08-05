@@ -4,7 +4,7 @@
    viewBox="0 0 1920 1700"
    xml:space="preserve"
    id="svg20338"
-   sodipodi:docname="art1-8_v3-3.svg"
+   sodipodi:docname="art1.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    width="1920"
    height="1700"
@@ -22,9 +22,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="0.35355339"
-   inkscape:cx="490.73211"
-   inkscape:cy="922.06724"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="691.90399"
+   inkscape:cy="665.38748"
    inkscape:window-width="2560"
    inkscape:window-height="1020"
    inkscape:window-x="0"
@@ -32,7 +32,10 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="svg20338" />
   <style
-   id="style1">.svgobj {   }
+   id="style1">.svgobj {  }
+.svgobj {   }
+.svgobj {   }
+.svgobj {   }
 .svgobj {   }
 .svgobj {   }
 .svgobj {   }
@@ -29297,7 +29300,8 @@
    target="blank"
    xlink:title="Museu de Ciências Morfológicas"
    xlink:show="Museu de Ciências Morfológicas"
-   transform="translate(-12.374774,2.9513363)"><g
+   transform="translate(-12.374774,2.9513363)"
+   class="svgobj"><g
      id="g166976"><rect
        style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:5.28491;stroke-linecap:round"
        id="rect15212"
@@ -29431,7 +29435,8 @@
    xlink:arcrole=""
    xlink:title="Museu de Paleontologia"
    xlink:show="Museu de Paleontologia"
-   transform="translate(148.60857,-26.985923)"><rect
+   transform="translate(148.60857,-26.985923)"
+   class="svgobj"><rect
      style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:5.28491;stroke-linecap:round"
      id="rect174329-5"
      width="26.664732"
@@ -29472,7 +29477,8 @@
    target="blank"
    xlink:title="Museu do Jogo"
    xlink:show="Museu do Jogo"
-   xlink:href="https://www.ufpb.br/museus/"><g
+   xlink:href="https://www.ufpb.br/museus/"
+   class="svgobj"><g
      id="g184205"
      transform="translate(12.230401,34.704951)"><rect
        style="fill:#000000;fill-opacity:0.5;stroke:none;stroke-width:5.28491;stroke-linecap:round"

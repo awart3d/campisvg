@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 1920 1500"
    id="svg134030"
-   sodipodi:docname="art2b-7_2026-06-15.svg"
+   sodipodi:docname="art2.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    width="1920"
    height="1500"
@@ -23,8 +23,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="887.99998"
-     inkscape:cy="756.99999"
+     inkscape:cx="757.5"
+     inkscape:cy="1077"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -6861,17 +6861,17 @@
        x="41.5"
        y="0"
        transform="translate(16.488336,73.884263)"><tspan
-         x="1444.1"
+         x="1444.1016"
          y="822.558"
-         id="tspan24884"><tspan
+         id="tspan3110"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan24882">PB
+           id="tspan3108">PB
 </tspan></tspan><tspan
-         x="1440.772"
-         y="842.558"
-         id="tspan24888"><tspan
+         x="1440.7773"
+         y="842.55813"
+         id="tspan3114"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan24886">079</tspan></tspan></text>
+           id="tspan3112">079</tspan></tspan></text>
   </g>
   <g
      id="g118751"
@@ -6891,17 +6891,17 @@
        x="41.5"
        y="0"
        transform="translate(16.488336,73.884263)"><tspan
-         x="1444.1"
+         x="1444.1016"
          y="822.558"
-         id="tspan24892"><tspan
+         id="tspan3118"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan24890">PB
+           id="tspan3116">PB
 </tspan></tspan><tspan
-         x="1440.772"
-         y="842.558"
-         id="tspan24896"><tspan
+         x="1440.7773"
+         y="842.55813"
+         id="tspan3122"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan24894">079</tspan></tspan></text>
+           id="tspan3120">079</tspan></tspan></text>
   </g>
   <g
      transform="matrix(0.61775568,0,0,0.61775568,1716.8429,1338.4859)"
@@ -7073,10 +7073,6 @@
          inkscape:connector-curvature="0" />
     </g>
   </g>
-  <path
-     style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 0,1500 H 1920"
-     id="path169386" />
   <g
      id="g25674"
      transform="matrix(1.1,0,0,1.1,591.5832,600.36138)">

@@ -3,7 +3,7 @@
    version="1.1"
    viewBox="0 0 1920 1500"
    id="svg2133"
-   sodipodi:docname="art3-4_2025-06-16.svg"
+   sodipodi:docname="art3.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    width="1920"
    height="1500"
@@ -26,8 +26,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.35355339"
-     inkscape:cx="-115.96551"
-     inkscape:cy="732.56262"
+     inkscape:cx="-485.07525"
+     inkscape:cy="732.56263"
      inkscape:window-width="2560"
      inkscape:window-height="1020"
      inkscape:window-x="0"
@@ -7220,17 +7220,17 @@
        x="41.5"
        y="0"
        transform="translate(16.488336,73.884263)"><tspan
-         x="1444.1"
+         x="1444.1016"
          y="822.558"
-         id="tspan20844"><tspan
+         id="tspan3722"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan20842">PB
+           id="tspan3720">PB
 </tspan></tspan><tspan
-         x="1440.772"
-         y="842.558"
-         id="tspan20848"><tspan
+         x="1440.7773"
+         y="842.55813"
+         id="tspan3726"><tspan
            style="font-weight:bold;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#000000;stroke:none"
-           id="tspan20846">079</tspan></tspan></text>
+           id="tspan3724">079</tspan></tspan></text>
   </g>
   <g
      id="g39523"
@@ -9285,8 +9285,4 @@
          inkscape:connector-curvature="0" />
     </g>
   </g>
-  <path
-     style="fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 0,1500 H 1920"
-     id="path169386" />
 </svg>
